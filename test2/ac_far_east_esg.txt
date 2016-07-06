@@ -1,0 +1,466 @@
+MSCI AC FAR EAST INDEX (USD)
+
+The MSCI AC Far East Index captures large and mid cap representation across 3 Developed Markets (DM) countries and 7 Emerging
+Markets (EM) countries in the Far East*. With 867 constituents, the index covers approximately 85% of the free ﬂoat-adjusted market
+capitalization in each country.
+
+CUMULATIVE INDEX PERFORMANCE - NET RETURNS  (USD)  (MAY 2001 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI AC Far East
+MSCI ACWI
+MSCI ACWI IMI
+
+200
+
+100
+
+218.18
+202.15
+
+179.57
+
+50
+May 01 Aug 02 Nov 03
+
+Feb 05 May 06 Aug 07 Nov 08
+
+Feb 10 May 11 Aug 12 Nov 13
+
+Feb 15
+
+ May 16
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+
+MSCI AC
+Far East
+
+-0.39
+-0.46
+14.36
+15.27
+-14.56
+17.35
+29.06
+-38.71
+9.77
+13.51
+24.21
+16.16
+38.15
+-10.12
+
+MSCI ACWI MSCI ACWI IMI
+
+-2.36
+4.16
+22.80
+16.13
+-7.35
+12.67
+34.63
+-42.19
+11.66
+20.95
+10.84
+15.23
+33.99
+-19.32
+
+-2.19
+3.84
+23.55
+16.38
+-7.89
+14.35
+36.41
+-42.34
+11.16
+20.95
+11.54
+16.42
+35.54
+-17.58
+
+INDEX PERFORMANCE — NET RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI AC Far East
+MSCI ACWI
+MSCI ACWI IMI
+
+1 Mo
+
+-1.36
+0.13
+0.20
+
+3 Mo
+
+8.25
+9.13
+9.49
+
+1 Yr
+
+-13.42
+-5.42
+-5.32
+
+YTD
+
+-1.89
+1.85
+2.09
+
+3 Yr
+
+1.41
+5.20
+5.34
+
+5 Yr
+
+1.92
+5.17
+5.23
+
+10 Yr
+
+1.95
+4.32
+4.54
+
+Since
+
+Dec 29, 2000
+
+3.68
+4.16
+4.70
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.57
+2.65
+2.58
+
+13.48
+19.33
+20.21
+
+12.48
+15.43
+15.75
+
+P/BV
+
+1.25
+2.03
+1.98
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MSCI AC Far East
+MSCI ACWI
+MSCI ACWI IMI
+
+Turnover
+
+(%) 1
+4.83
+3.18
+2.98
+
+3 Yr
+
+13.31
+11.97
+11.96
+
+1Last 12 months
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+14.34
+13.57
+13.67
+
+0.15
+0.46
+0.48
+2 Based on monthly net returns data
+
+16.92
+16.99
+17.19
+
+5 Yr
+
+0.19
+0.42
+0.43
+
+10 Yr
+
+0.12
+0.26
+0.27
+
+Since
+
+Dec 29, 2000
+
+0.20
+0.23
+0.26
+
+(%)
+
+55.66
+58.38
+58.59
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2007-11-01—2009-03-09
+2007-10-31—2009-03-09
+2007-10-31—2009-03-09
+
+* DM countries in the index include: Hong Kong, Japan and Singapore. EM countries include: China, Indonesia, Korea, Malaysia, the Philippines, Taiwan and Thailand.
+
+The MSCI AC Far East Index was launched on Jan 01, 2001. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI AC FAR EAST INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI AC Far East
+
+867
+
+Mkt Cap ( USD Millions)
+
+5,480,821.27
+141,209.28
+369.39
+6,321.59
+3,024.02
+
+Country
+
+JP
+TOYOTA MOTOR CORP
+KR
+SAMSUNG ELECTRONICS CO
+TAIWAN SEMICONDUCTOR MFG TW
+CN
+TENCENT HOLDINGS LI (CN)
+HK
+AIA GROUP
+CN
+CHINA MOBILE
+MITSUBISHI UFJ FIN GRP
+JP
+CN
+CHINA CONSTRUCTION BK H
+JP
+SOFTBANK GROUP CORP
+KDDI
+JP
+Total
+
+Mkt Cap
+( USD Billions)
+141.21
+119.76
+118.21
+115.36
+70.49
+70.06
+63.68
+54.27
+53.94
+51.05
+858.03
+
+Index
+Wt. (%)
+2.58
+2.19
+2.16
+2.10
+1.29
+1.28
+1.16
+0.99
+0.98
+0.93
+15.66
+
+Sector Sector
+Wt. (%)
+Cons Discr 17.7
+Info Tech 12.6
+Info Tech 12.4
+Info Tech 12.1
+Financials
+5.2
+Telecom Srvcs 19.6
+4.7
+4.0
+Telecom Srvcs 15.1
+Telecom Srvcs 14.3
+
+Financials
+Financials
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+6.75%
+
+14.37%
+
+14.57%
+
+17.34%
+
+6.51%
+
+5.18%
+
+4.84%
+
+3.38%
+
+2.27%
+
+24.79%
+
+9.79%
+
+15.59%
+
+50.61%
+
+7.9%
+
+7.1%
+
+9.01%
+
+Financials 24.79%
+
+Information Technology 17.34%
+
+Consumer Discretionary 14.57%
+
+Japan 50.61%
+
+China 15.59%
+
+South Korea 9.79%
+
+Taiwan 7.9%
+
+Industrials 14.37%
+
+Consumer Staples 6.75%
+
+Telecommunication Services 6.51%
+
+Hong Kong 7.1%
+
+Other 9.01%
+
+Health Care 5.18%
+
+Materials 4.84%
+
+Utilities 3.38%
+
+Energy 2.27%
+
+INDEX METHODOLOGY
+The index is based on the MSCI Global Investable Market Indexes (GIMI) Methodology—a comprehensive and consistent approach to index
+construction that allows for meaningful global views and cross regional comparisons across all market capitalization size, sector and style
+segments and combinations. This methodology aims to provide exhaustive coverage of the relevant investment opportunity set with a strong
+emphasis on index liquidity, investability and replicability. The index is reviewed quarterly—in February, May, August and November—with
+the objective of reﬂecting change in the underlying equity markets in a timely manner, while limiting undue index turnover. During the May
+and November semi-annual index reviews, the index is rebalanced and the large and mid capitalization cutoﬀ points are recalculated.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI AC FAR EAST INDEX
+
+

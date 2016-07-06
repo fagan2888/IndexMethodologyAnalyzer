@@ -1,0 +1,367 @@
+MSCI BRAZIL ESG INDEX (BRL)
+
+The MSCI Brazil ESG Index is a capitalization weighted index that provides exposure to companies with high Environmental, Social and
+Governance  (ESG)  performance  relative  to  their  sector  peers.  MSCI  Brazil  ESG  consists  of  large  and  mid  cap  companies  in  Brazilian
+markets. The Index is designed for investors seeking a broad, diversiﬁed sustainability benchmark with relatively low tracking error to
+the underlying equity market. The index is a member of the MSCI Global Sustainability Index series. Constituent selection is based on
+data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - PRICE RETURNS  (BRL)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Brazil ESG
+MSCI Brazil
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+109.11
+
+71.50
+
+MSCI Brazil ESG
+
+MSCI Brazil
+
+-13.69
+8.14
+0.11
+15.37
+-10.00
+4.47
+59.65
+-37.65
+
+-15.83
+-6.92
+-6.30
+5.93
+-15.56
+-1.18
+65.39
+-44.50
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+150
+
+100
+
+50
+
+0
+Sep 07
+
+INDEX PERFORMANCE — PRICE RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Brazil ESG
+MSCI Brazil
+
+1 Mo
+
+3 Mo
+
+1 Yr
+
+YTD
+
+-8.47
+-10.05
+
+8.20
+11.99
+
+-9.39
+-10.84
+
+8.11
+10.09
+
+3 Yr
+
+-1.14
+-5.58
+
+ANNUALIZED
+
+5 Yr
+
+10 Yr
+
+2.34
+-4.84
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+1.01
+-3.79
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+4.08
+4.01
+
+10.87
+17.65
+
+9.90
+10.84
+
+P/BV
+
+1.60
+1.31
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Brazil ESG
+MSCI Brazil
+
+Turnover
+
+(%) 1
+8.19
+3.41
+
+ANNUALIZED STD DEV (%) 2
+
+MAXIMUM DRAWDOWN
+
+3 Yr
+
+20.70
+22.37
+
+5 Yr
+
+18.13
+19.26
+
+10 Yr
+
+na
+na
+
+(%)
+
+56.36
+61.58
+
+Period YYYY-MM-DD
+
+2008-05-30—2008-10-27
+2008-05-20—2008-10-27
+
+1Last 12 months
+
+2 Based on monthly price returns data
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI Brazil ESG Index was launched on Jul 12, 2013. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI BRAZIL ESG INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Brazil ESG
+
+33
+
+Mkt Cap ( BRL Millions)
+
+482,335.30
+88,221.24
+2,257.27
+14,616.22
+7,265.64
+
+ITAU UNIBANCO PN
+BANCO BRADESCO PN
+CIELO ON
+BRF ON
+ITAUSA PN
+BM&F BOVESPA ON
+ULTRAPAR PART ON
+BANCO BRADESCO ON
+TELEF BRASIL PN
+KROTON EDUCACIONAL ON
+Total
+
+Mkt Cap
+( BRL Billions)
+88.22
+63.31
+32.35
+29.88
+27.80
+27.45
+24.68
+20.42
+16.41
+15.31
+345.84
+
+Index
+Wt. (%)
+18.29
+13.13
+6.71
+6.20
+5.76
+5.69
+5.12
+4.23
+3.40
+3.18
+71.70
+
+Sector Sector
+Wt. (%)
+37.6
+Financials
+27.0
+Financials
+Info Tech 100.0
+59.7
+11.9
+11.7
+86.0
+8.7
+73.1
+48.2
+
+Cons Staples
+Financials
+Financials
+Energy
+Financials
+Telecom Srvcs
+Cons Discr
+
+SECTOR WEIGHTS
+
+6.71%
+
+7.07%
+
+10.38%
+
+6.59%
+
+5.95%
+
+5.31%
+
+4.65%
+
+4.12%
+
+0.62%
+
+48.61%
+
+Financials 48.61%
+
+Consumer Staples 10.38%
+
+Materials 7.07%
+
+Information Technology 6.71%
+
+Consumer Discretionary 6.59%
+
+Energy 5.95%
+
+Industrials 5.31%
+
+Telecommunication Services 4.65%
+
+Utilities 4.12%
+
+Health Care 0.62%
+
+INDEX METHODOLOGY
+The MSCI Global Sustainability Indexes are constructed by applying a Best‐in‐Class selection process to companies in the regional indexes
+that make up MSCI ACWI, a global equity index consisting of developed and emerging market countries.
+
+The Global Sustainability Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk
+introduced by the ESG selection process. The methodology aims to include securities of companies with the highest ESG ratings representing
+50% of the market capitalization in each sector and region of the parent Index. Companies that are not existing constituents of The Global
+Sustainability Indexes must have an MSCI ESG Rating of 'BB' or above and an Impact Monitor score of 3 or above to be eligible. The selection
+universe for The Global Sustainability Indexes is the constituents of the MSCI Global Investable Market Indexes.
+
+The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the MSCI Global Sustainability Indexes takes place in May,
+and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI BRAZIL ESG INDEX
+
+

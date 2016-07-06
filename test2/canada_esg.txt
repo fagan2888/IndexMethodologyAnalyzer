@@ -1,0 +1,389 @@
+MSCI CANADA ESG INDEX (USD)
+
+The MSCI Canada ESG Index is a capitalization weighted index that provides exposure to companies with high Environmental, Social
+and Governance (ESG) performance relative to their sector peers. MSCI Canada ESG consists of large and mid cap companies in the
+Canadian markets. The Index is designed for investors seeking a broad, diversiﬁed sustainability benchmark with relatively low tracking
+error to the underlying equity market. The index is a member of the MSCI Global Sustainability Index series. Constituent selection is based
+on data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (USD)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Canada ESG
+MSCI Canada
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+120.03
+
+96.51
+
+MSCI Canada ESG
+
+MSCI Canada
+
+-18.68
+4.20
+7.78
+14.36
+-11.77
+20.17
+61.65
+-44.60
+
+-23.59
+2.22
+6.44
+9.90
+-12.16
+21.21
+57.36
+-45.15
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+150
+
+100
+
+50
+
+0
+Sep 07
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Canada ESG
+MSCI Canada
+
+1 Mo
+
+-3.68
+-3.41
+
+3 Mo
+
+1 Yr
+
+YTD
+
+15.24
+13.50
+
+-1.39
+-8.66
+
+17.49
+14.99
+
+3 Yr
+
+2.58
+-1.22
+
+ANNUALIZED
+
+5 Yr
+
+10 Yr
+
+0.25
+-2.70
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+2.13
+-0.41
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+3.33
+2.98
+
+18.22
+22.08
+
+15.69
+16.49
+
+P/BV
+
+1.82
+1.82
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Canada ESG
+MSCI Canada
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+15.32
+3.56
+
+3 Yr
+
+16.98
+16.10
+
+5 Yr
+
+10 Yr
+
+17.14
+16.43
+
+na
+na
+
+3 Yr
+
+0.22
+-0.01
+
+5 Yr
+
+0.09
+-0.10
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+0.18
+0.07
+
+(%)
+
+59.76
+60.33
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2008-05-20—2008-11-20
+2008-05-20—2009-03-09
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI Canada ESG Index was launched on Jun 28, 2011. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI CANADA ESG INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Canada ESG
+
+37
+
+Mkt Cap ( USD Millions)
+
+655,740.34
+89,514.74
+1,324.30
+17,722.71
+8,563.75
+
+ROYAL BANK OF CANADA
+TORONTO-DOMINION BANK
+BANK NOVA SCOTIA
+CANADIAN NATL RAILWAY
+SUNCOR ENERGY
+BANK MONTREAL
+ENBRIDGE
+CANADIAN IMPERIAL BANK
+MAGNA INTERNATIONAL
+ROGERS COMMUNICATIONS B
+Total
+
+Mkt Cap
+( USD Billions)
+89.51
+80.95
+59.00
+47.30
+43.80
+40.42
+36.64
+30.91
+16.46
+13.84
+458.83
+
+Index
+Wt. (%)
+13.65
+12.35
+9.00
+7.21
+6.68
+6.16
+5.59
+4.71
+2.51
+2.11
+69.97
+
+Sector Sector
+Wt. (%)
+29.8
+Financials
+26.9
+Financials
+Financials
+19.6
+Industrials 100.0
+34.7
+13.4
+29.0
+10.3
+42.2
+68.7
+
+Energy
+Financials
+Energy
+Financials
+Cons Discr
+Telecom Srvcs
+
+SECTOR WEIGHTS
+
+9.96%
+
+19.27%
+
+7.21%
+
+5.95%
+
+3.76%
+
+3.07%
+
+2.66%
+
+2.25%
+
+45.87%
+
+Financials 45.87%
+
+Energy 19.27%
+
+Materials 9.96%
+
+Industrials 7.21%
+
+Consumer Discretionary 5.95%
+
+Consumer Staples 3.76%
+
+Telecommunication Services 3.07%
+
+Information Technology 2.66%
+
+Utilities 2.25%
+
+INDEX METHODOLOGY
+The MSCI Global Sustainability Indexes are constructed by applying a Best‐in‐Class selection process to companies in the regional indexes
+that make up MSCI ACWI, a global equity index consisting of developed and emerging market countries.
+
+The Global Sustainability Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk
+introduced by the ESG selection process. The methodology aims to include securities of companies with the highest ESG ratings representing
+50% of the market capitalization in each sector and region of the parent Index. Companies that are not existing constituents of The Global
+Sustainability Indexes must have an MSCI ESG Rating of 'BB' or above and an Impact Monitor score of 3 or above to be eligible. The selection
+universe for The Global Sustainability Indexes is the constituents of the MSCI Global Investable Market Indexes.
+
+The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the MSCI Global Sustainability Indexes takes place in May,
+and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI CANADA ESG INDEX
+
+

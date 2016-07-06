@@ -1,0 +1,418 @@
+MSCI ACWI EX EMU INDEX (USD)
+
+The  MSCI  ACWI  ex  EMU  (European  Economic  and  Monetary  Union)  Index  captures  large  and  mid  cap  representation  across  13  of  23
+Developed Markets (DM) countries and 23 Emerging Markets (EM) countries*. With 2,240 constituents, the index covers approximately
+85% of the global equity opportunity set outside EMU.
+
+CUMULATIVE INDEX PERFORMANCE - NET RETURNS  (USD)  (MAY 2001 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI ACWI ex EMU
+MSCI ACWI
+
+200
+
+100
+
+206.47
+202.15
+
+50
+May 01 Aug 02 Nov 03
+
+Feb 05 May 06 Aug 07 Nov 08
+
+Feb 10 May 11 Aug 12 Nov 13
+
+Feb 15
+
+ May 16
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+
+MSCI ACWI ex EMU
+
+MSCI ACWI
+
+-2.47
+5.80
+22.06
+15.56
+-6.03
+15.36
+35.18
+-41.20
+10.28
+18.60
+11.17
+14.28
+32.62
+-18.91
+
+-2.36
+4.16
+22.80
+16.13
+-7.35
+12.67
+34.63
+-42.19
+11.66
+20.95
+10.84
+15.23
+33.99
+-19.32
+
+INDEX PERFORMANCE — NET RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI ACWI ex EMU
+MSCI ACWI
+
+1 Mo
+
+0.22
+0.13
+
+3 Mo
+
+9.17
+9.13
+
+1 Yr
+
+-5.07
+-5.42
+
+YTD
+
+2.19
+1.85
+
+3 Yr
+
+5.53
+5.20
+
+5 Yr
+
+5.78
+5.17
+
+10 Yr
+
+4.80
+4.32
+
+Since
+
+Dec 29, 2000
+
+4.42
+4.16
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.56
+2.65
+
+19.36
+19.33
+
+15.63
+15.43
+
+P/BV
+
+2.11
+2.03
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MSCI ACWI ex EMU
+MSCI ACWI
+
+Turnover
+
+(%) 1
+3.31
+3.18
+
+3 Yr
+
+11.66
+11.97
+
+1Last 12 months
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+13.06
+13.57
+
+0.50
+0.46
+2 Based on monthly net returns data
+
+16.29
+16.99
+
+5 Yr
+
+0.48
+0.42
+
+10 Yr
+
+0.29
+0.26
+
+Since
+
+Dec 29, 2000
+
+0.25
+0.23
+
+(%)
+
+57.26
+58.38
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2007-10-31—2009-03-09
+2007-10-31—2009-03-09
+
+* DM countries include: Australia, Canada, Denmark, Hong Kong, Israel, Japan, New Zealand, Norway, Singapore, Sweden, Switzerland, the UK and the US. EM countries include: Brazil, Chile, China, Colombia,
+Czech Republic, Egypt, Greece, Hungary, India, Indonesia, Korea, Malaysia, Mexico, Peru, Philippines, Poland, Russia, Qatar, South Africa, Taiwan, Thailand, Turkey and United Arab Emirates.
+
+The MSCI ACWI ex EMU Index was launched on Jan 01, 2001. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI ACWI EX EMU INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI ACWI ex EMU
+
+2,240
+
+Mkt Cap ( USD Millions)
+
+32,197,792.41
+556,752.55
+318.20
+14,374.01
+5,427.27
+
+APPLE
+MICROSOFT CORP
+EXXON MOBIL CORP
+JOHNSON & JOHNSON
+AMAZON.COM
+GENERAL ELECTRIC CO
+FACEBOOK A
+WELLS FARGO & CO
+AT&T
+JPMORGAN CHASE & CO
+Total
+
+Mkt Cap
+( USD Billions)
+556.75
+402.19
+370.58
+311.81
+287.99
+285.31
+269.75
+246.11
+240.85
+240.27
+3,211.62
+
+Index
+Wt. (%)
+1.73
+1.25
+1.15
+0.97
+0.89
+0.89
+0.84
+0.76
+0.75
+0.75
+9.97
+
+Sector Sector
+Wt. (%)
+11.0
+7.9
+16.7
+7.7
+7.3
+8.8
+5.3
+3.7
+19.9
+3.6
+
+Info Tech
+Info Tech
+Energy
+Health Care
+Cons Discr
+Industrials
+Info Tech
+Financials
+Telecom Srvcs
+Financials
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+10.37%
+
+12.33%
+
+12.58%
+
+15.74%
+
+10.08%
+6.88%
+
+4.51%
+
+3.75%
+
+3.14%
+
+20.6%
+
+7.29%
+8.61%
+
+59.62%
+
+3.49%
+
+3.41%
+
+17.57%
+
+Financials 20.6%
+
+Information Technology 15.74%
+
+Health Care 12.58%
+
+Switzerland 3.41%
+
+Other 17.57%
+
+Consumer Discretionary 12.33%
+
+Consumer Staples 10.37%
+
+Industrials 10.08%
+
+Energy 6.88%
+
+Materials 4.51%
+
+Telecommunication Services 3.75%
+
+Utilities 3.14%
+
+United States 59.62%
+
+Japan 8.61%
+
+United Kingdom 7.29%
+
+Canada 3.49%
+
+INDEX METHODOLOGY
+The index is based on the MSCI Global Investable Market Indexes (GIMI) Methodology—a comprehensive and consistent approach to index
+construction that allows for meaningful global views and cross regional comparisons across all market capitalization size, sector and style
+segments and combinations. This methodology aims to provide exhaustive coverage of the relevant investment opportunity set with a strong
+emphasis on index liquidity, investability and replicability. The index is reviewed quarterly—in February, May, August and November—with
+the objective of reﬂecting change in the underlying equity markets in a timely manner, while limiting undue index turnover. During the May
+and November semi-annual index reviews, the index is rebalanced and the large and mid capitalization cutoﬀ points are recalculated.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI ACWI EX EMU INDEX
+
+

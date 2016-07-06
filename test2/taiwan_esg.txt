@@ -1,0 +1,380 @@
+MSCI TAIWAN ESG INDEX (USD)
+
+The  MSCI  Taiwan  ESG  Index  is  a  capitalization  weighted  index  that  provides  exposure  to  companies  with  high  Environmental,  Social
+and Governance (ESG) performance relative to their sector peers. MSCI Taiwan ESG consists of large and mid cap companies in Taiwan
+markets. The Index is designed for investors seeking a broad, diversiﬁed sustainability benchmark with relatively low tracking error to
+the underlying equity market. The index is a member of the MSCI Global Sustainability Index series. Constituent selection is based on
+data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (USD)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Taiwan ESG
+MSCI Taiwan
+
+184.44
+
+115.95
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+MSCI Taiwan ESG
+
+MSCI Taiwan
+
+-6.43
+16.53
+10.14
+22.61
+-9.19
+27.52
+69.52
+-36.51
+
+-10.97
+10.05
+9.77
+17.66
+-20.15
+22.73
+80.25
+-45.88
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+200
+
+100
+
+0
+Sep 07
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Taiwan ESG
+MSCI Taiwan
+
+1 Mo
+
+2.12
+1.75
+
+3 Mo
+
+5.82
+4.50
+
+1 Yr
+
+-5.14
+-14.79
+
+YTD
+
+6.92
+3.78
+
+3 Yr
+
+6.20
+2.47
+
+5 Yr
+
+6.95
+0.63
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+7.31
+1.72
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+3.48
+4.11
+
+14.48
+12.85
+
+13.42
+12.77
+
+P/BV
+
+2.05
+1.59
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Taiwan ESG
+MSCI Taiwan
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+4.16
+2.82
+
+3 Yr
+
+13.01
+13.34
+
+5 Yr
+
+10 Yr
+
+13.87
+15.81
+
+na
+na
+
+3 Yr
+
+0.51
+0.23
+
+5 Yr
+
+0.54
+0.10
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+0.41
+0.16
+
+(%)
+
+51.73
+59.54
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2008-05-19—2008-11-20
+2007-10-29—2008-11-20
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI Taiwan ESG Index was launched on Jul 12, 2013. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI TAIWAN ESG INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Taiwan ESG
+
+40
+
+Mkt Cap ( USD Millions)
+
+240,176.40
+118,212.32
+613.46
+6,004.41
+2,306.33
+
+TAIWAN SEMICONDUCTOR MFG
+CHUNGHWA TELECOM CO
+UNI-PRESIDENT ENT.
+DELTA ELECTRONICS
+CTBC FINANCIAL HOLDING
+CHINA STEEL CORP COMMON
+ASE
+ASUSTEK COMPUTER
+TAIWAN MOBILE
+PRESIDENT CHAIN STORE
+Total
+
+Mkt Cap
+( USD Billions)
+118.21
+12.82
+9.20
+8.96
+8.05
+7.33
+7.15
+6.06
+5.73
+4.34
+187.85
+
+Index
+Wt. (%)
+49.22
+5.34
+3.83
+3.73
+3.35
+3.05
+2.98
+2.52
+2.39
+1.81
+78.21
+
+Sector Sector
+Wt. (%)
+76.6
+56.1
+63.9
+5.8
+29.4
+87.6
+4.6
+3.9
+25.1
+30.2
+
+Info Tech
+Telecom Srvcs
+Cons Staples
+Info Tech
+Financials
+Materials
+Info Tech
+Info Tech
+Telecom Srvcs
+Cons Staples
+
+SECTOR WEIGHTS
+
+11.39%
+
+64.26%
+
+9.51%
+
+5.99%
+
+3.48%
+
+2.9%
+
+2.47%
+
+Information Technology 64.26%
+
+Financials 11.39%
+
+Telecommunication Services 9.51%
+
+Consumer Staples 5.99%
+
+Materials 3.48%
+
+Industrials 2.9%
+
+Consumer Discretionary 2.47%
+
+INDEX METHODOLOGY
+The MSCI Global Sustainability Indexes are constructed by applying a Best‐in‐Class selection process to companies in the regional indexes
+that make up MSCI ACWI, a global equity index consisting of developed and emerging market countries.
+
+The Global Sustainability Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk
+introduced by the ESG selection process. The methodology aims to include securities of companies with the highest ESG ratings representing
+50% of the market capitalization in each sector and region of the parent Index. Companies that are not existing constituents of The Global
+Sustainability Indexes must have an MSCI ESG Rating of 'BB' or above and an Impact Monitor score of 3 or above to be eligible. The selection
+universe for The Global Sustainability Indexes is the constituents of the MSCI Global Investable Market Indexes.
+
+The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the MSCI Global Sustainability Indexes takes place in May,
+and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI TAIWAN ESG INDEX
+
+

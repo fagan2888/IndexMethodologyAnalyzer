@@ -1,0 +1,394 @@
+MSCI CANADA SRI INDEX (CAD)
+
+The MSCI Canada SRI Index is based on the ﬂagship MSCI Canada Index, its parent index, which includes large and mid cap stocks of
+the Canadian market. is a capitalization weighted index that provides exposure to companies with outstanding Environmental, Social and
+Governance (ESG) ratings and excludes companies whose products have negative social or environmental impacts. The Index is designed
+for investors seeking a diversiﬁed Socially Responsible Investment (SRI) benchmark comprised of companies with strong sustainability
+proﬁles while avoiding companies incompatible with values screens. Constituent selection is based on research provided by MSCI ESG
+Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (CAD)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Canada SRI
+MSCI Canada
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+161.42
+
+127.04
+
+MSCI Canada SRI
+
+MSCI Canada
+
+-9.86
+11.35
+13.06
+14.60
+-7.50
+18.80
+34.69
+-28.57
+
+-8.36
+11.43
+13.58
+7.46
+-9.98
+14.89
+33.63
+-31.39
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+200
+
+150
+
+100
+
+50
+Sep 07
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Canada SRI
+MSCI Canada
+
+1 Mo
+
+-0.28
+0.87
+
+3 Mo
+
+1 Yr
+
+YTD
+
+12.15
+9.60
+
+3.02
+-4.28
+
+13.34
+8.28
+
+3 Yr
+
+7.19
+6.85
+
+5 Yr
+
+5.39
+3.32
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+5.67
+2.80
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+3.18
+2.98
+
+17.58
+22.08
+
+16.37
+16.49
+
+P/BV
+
+1.96
+1.82
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Canada SRI
+MSCI Canada
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+1.26
+3.56
+
+3 Yr
+
+10.29
+8.89
+
+5 Yr
+
+9.79
+9.81
+
+10 Yr
+
+na
+na
+
+3 Yr
+
+0.72
+0.79
+
+5 Yr
+
+0.54
+0.33
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+0.39
+0.19
+
+(%)
+
+47.81
+48.19
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2008-06-17—2009-03-06
+2008-06-18—2008-11-20
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI Canada SRI Index was launched on Jan 16, 2012. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI CANADA SRI INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Canada SRI
+
+19
+
+Mkt Cap ( CAD Millions)
+
+434,848.97
+77,178.62
+4,496.55
+22,886.79
+12,802.60
+
+BANK NOVA SCOTIA
+CANADIAN NATL RAILWAY
+BANK MONTREAL
+ENBRIDGE
+CANADIAN IMPERIAL BANK
+ROGERS COMMUNICATIONS B
+POTASH CORP SASKATCHEWAN
+CENOVUS ENERGY
+CGI GROUP A
+AGNICO EAGLE MINES
+Total
+
+Mkt Cap
+( CAD Billions)
+77.18
+61.87
+52.87
+47.93
+40.43
+18.10
+17.87
+16.47
+13.53
+12.80
+359.06
+
+Index
+Wt. (%)
+17.75
+14.23
+12.16
+11.02
+9.30
+4.16
+4.11
+3.79
+3.11
+2.94
+82.57
+
+Sector Sector
+Wt. (%)
+Financials
+45.3
+Industrials 100.0
+31.0
+Financials
+59.5
+Energy
+Financials
+23.7
+Telecom Srvcs 100.0
+39.9
+20.4
+Info Tech 100.0
+Materials
+28.6
+
+Materials
+Energy
+
+SECTOR WEIGHTS
+
+14.23%
+
+18.53%
+
+10.29%
+6.98%
+
+4.16%
+3.11%
+
+2.46%
+
+1.03%
+
+39.2%
+
+Financials 39.2%
+
+Energy 18.53%
+
+Industrials 14.23%
+
+Materials 10.29%
+
+Consumer Discretionary 6.98%
+
+Telecommunication Services 4.16%
+
+Information Technology 3.11%
+
+Consumer Staples 2.46%
+
+Utilities 1.03%
+
+INDEX METHODOLOGY
+The MSCI Global SRI Indexes are constructed by applying a combination of values based exclusions and a Best-in-Class selection process to companies in the regional indexes that
+
+make up MSCI ACWI, a global equity index consisting of developed and emerging market countries. After securities of companies involved in Nuclear Power, Tobacco, Alcohol, Gambling,
+
+Military Weapons, Civilian Firearms, GMOs and Adult Entertainment are excluded, MSCI’s Best‐in‐Class selection process is applied to the remaining eligible securities in the selection
+
+universe.
+
+The MSCI Global SRI Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk introduced by the ESG selection process. The
+
+methodology aims to include the securities of companies with the highest ESG ratings making up 25% of the market capitalization in each sector and region of the parent indexes.
+
+Companies that are not existing constituents of the MSCI Global SRI Indexes must have an MSCI ESG Rating of ‘A’ or above and an Impact Monitor score of 4 or above to be eligible.
+
+Current constituents of the MSCI Global SRI Indexes must have an MSCI ESG Rating of BB or above and an Impact Monitor score of 2 or above to be eligible. The selection universe
+
+for the MSCI Global SRI Indexes is the constituents of the MSCI Global Investable Market Indexes. The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the
+
+MSCI Global SRI Indexes takes place in May, and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI CANADA SRI INDEX
+
+

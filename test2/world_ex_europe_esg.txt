@@ -1,0 +1,459 @@
+MSCI WORLD EX EUROPE INDEX (USD)
+
+The MSCI World ex Europe Index captures large and mid cap representation across 8 of 23 Developed Markets (DM) countries*. With 1,196
+constituents, the index covers approximately 85% of the free ﬂoat-adjusted market capitalization in each country.
+
+CUMULATIVE INDEX PERFORMANCE - NET RETURNS  (USD)  (MAY 2001 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI World ex Europe
+MSCI World
+MSCI ACWI
+
+200
+
+100
+
+202.15
+199.61
+199.21
+
+50
+May 01 Aug 02 Nov 03
+
+Feb 05 May 06 Aug 07 Nov 08
+
+Feb 10 May 11 Aug 12 Nov 13
+
+Feb 15
+
+ May 16
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+
+MSCI World
+ex Europe
+
+MSCI World
+
+MSCI ACWI
+
+-0.21
+9.18
+27.23
+14.62
+-3.32
+15.39
+27.46
+-37.83
+6.67
+14.26
+9.51
+12.19
+30.89
+-20.55
+
+-0.87
+4.94
+26.68
+15.83
+-5.54
+11.76
+29.99
+-40.71
+9.04
+20.07
+9.49
+14.72
+33.11
+-19.89
+
+-2.36
+4.16
+22.80
+16.13
+-7.35
+12.67
+34.63
+-42.19
+11.66
+20.95
+10.84
+15.23
+33.99
+-19.32
+
+INDEX PERFORMANCE — NET RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI World ex Europe
+MSCI World
+MSCI ACWI
+
+1 Mo
+
+0.93
+0.56
+0.13
+
+3 Mo
+
+9.36
+9.08
+9.13
+
+1 Yr
+
+-1.91
+-3.96
+-5.42
+
+YTD
+
+2.62
+1.80
+1.85
+
+3 Yr
+
+8.09
+6.46
+5.20
+
+5 Yr
+
+8.41
+6.53
+5.17
+
+10 Yr
+
+5.48
+4.55
+4.32
+
+Since
+
+Dec 29, 2000
+
+4.26
+4.04
+4.16
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.31
+2.63
+2.65
+
+20.42
+20.34
+19.33
+
+16.45
+16.09
+15.43
+
+P/BV
+
+2.31
+2.13
+2.03
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MSCI World ex Europe
+MSCI World
+MSCI ACWI
+
+Turnover
+
+(%) 1
+2.87
+2.66
+3.18
+
+3 Yr
+
+11.28
+11.80
+11.97
+
+1Last 12 months
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+12.19
+13.18
+13.57
+
+0.73
+0.57
+0.46
+2 Based on monthly net returns data
+
+15.29
+16.49
+16.99
+
+5 Yr
+
+0.71
+0.53
+0.42
+
+10 Yr
+
+0.34
+0.27
+0.26
+
+Since
+
+Dec 29, 2000
+
+na
+na
+0.23
+
+(%)
+
+55.27
+57.82
+58.38
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2007-10-12—2009-03-09
+2007-10-31—2009-03-09
+2007-10-31—2009-03-09
+
+* DM countries include: Australia, Canada, Hong Kong, Israel, Japan, New Zealand, Singapore and  the USA.
+
+MSCI WORLD EX EUROPE INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI World ex Europe
+
+1,196
+
+Mkt Cap ( USD Millions)
+
+24,592,179.83
+556,752.55
+898.85
+20,562.02
+8,803.19
+
+APPLE
+MICROSOFT CORP
+EXXON MOBIL CORP
+JOHNSON & JOHNSON
+AMAZON.COM
+GENERAL ELECTRIC CO
+FACEBOOK A
+WELLS FARGO & CO
+AT&T
+JPMORGAN CHASE & CO
+Total
+
+Mkt Cap
+( USD Billions)
+556.75
+402.19
+370.58
+311.81
+287.99
+285.31
+269.75
+246.11
+240.85
+240.27
+3,211.62
+
+Index
+Wt. (%)
+2.26
+1.64
+1.51
+1.27
+1.17
+1.16
+1.10
+1.00
+0.98
+0.98
+13.06
+
+Sector Sector
+Wt. (%)
+13.1
+9.4
+22.7
+9.8
+8.8
+10.9
+6.3
+5.1
+31.2
+5.0
+
+Info Tech
+Info Tech
+Energy
+Health Care
+Cons Discr
+Industrials
+Info Tech
+Financials
+Telecom Srvcs
+Financials
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+10.62%
+
+12.96%
+
+13.28%
+
+17.31%
+
+9.21%
+
+6.64%
+
+3.94%
+
+3.2%
+
+3.14%
+
+19.7%
+
+78.06%
+
+11.28%
+
+4.57%
+
+3.46%
+
+1.58%
+
+1.05%
+
+Financials 19.7%
+
+Information Technology 17.31%
+
+Consumer Discretionary 13.28%
+
+United States 78.06%
+
+Japan 11.28%
+
+Canada 4.57%
+
+Australia 3.46%
+
+Health Care 12.96%
+
+Industrials 10.62%
+
+Consumer Staples 9.21%
+
+Energy 6.64%
+
+Hong Kong 1.58%
+
+Other 1.05%
+
+Materials 3.94%
+
+Utilities 3.2%
+
+Telecommunication Services 3.14%
+
+INDEX METHODOLOGY
+The index is based on the MSCI Global Investable Market Indexes (GIMI) Methodology—a comprehensive and consistent approach to index
+construction that allows for meaningful global views and cross regional comparisons across all market capitalization size, sector and style
+segments and combinations. This methodology aims to provide exhaustive coverage of the relevant investment opportunity set with a strong
+emphasis on index liquidity, investability and replicability. The index is reviewed quarterly—in February, May, August and November—with
+the objective of reﬂecting change in the underlying equity markets in a timely manner, while limiting undue index turnover. During the May
+and November semi-annual index reviews, the index is rebalanced and the large and mid capitalization cutoﬀ points are recalculated.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI WORLD EX EUROPE INDEX
+
+

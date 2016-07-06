@@ -1,0 +1,390 @@
+MSCI CHINA ESG INDEX (USD)
+
+The MSCI China ESG Index is a capitalization weighted index that provides exposure to companies with high Environmental, Social and
+Governance  (ESG)  performance  relative  to  their  sector  peers.  MSCI  China  ESG  consists  of  large  and  mid-cap  companies  in  Chinese
+markets. The Index is designed for investors seeking a broad, diversiﬁed sustainability benchmark with relatively low tracking error to
+the underlying equity market. The index is a member of the MSCI Global Sustainability Index series. Constituent selection is based on
+data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (USD)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI China ESG
+MSCI China
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+132.39
+
+79.72
+
+MSCI China ESG
+
+MSCI China
+
+3.54
+13.20
+15.25
+27.07
+-8.77
+3.79
+47.24
+-45.64
+
+-7.62
+8.26
+3.96
+23.10
+-18.24
+4.83
+62.63
+-50.83
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+200
+
+150
+
+100
+
+50
+
+0
+Sep 07
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI China ESG
+MSCI China
+
+1 Mo
+
+1.47
+-0.74
+
+3 Mo
+
+1 Yr
+
+12.85
+10.86
+
+-19.10
+-28.29
+
+YTD
+
+-1.97
+-5.69
+
+3 Yr
+
+9.54
+0.80
+
+ANNUALIZED
+
+5 Yr
+
+10 Yr
+
+7.93
+-1.22
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+3.29
+-2.58
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.57
+2.84
+
+11.57
+10.36
+
+10.39
+9.97
+
+P/BV
+
+1.59
+1.28
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI China ESG
+MSCI China
+
+Turnover
+
+(%) 1
+9.64
+17.53
+1Last 12 months
+
+20.16
+21.62
+
+20.03
+22.82
+
+na
+na
+
+ANNUALIZED STD DEV (%) 2
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+SHARPE RATIO  2 , 3
+
+3 Yr
+
+0.54
+0.13
+
+5 Yr
+
+0.47
+0.05
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+0.23
+0.02
+
+(%)
+
+68.99
+73.30
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2007-10-30—2008-10-27
+2007-10-30—2008-10-27
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI China ESG Index was launched on Jul 12, 2013. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI CHINA ESG INDEX
+
+Sector Sector
+Wt. (%)
+96.3
+Telecom Srvcs 100.0
+51.2
+22.0
+8.9
+5.2
+36.0
+Energy 100.0
+4.5
+3.7
+
+Financials
+Financials
+Financials
+Financials
+Health Care
+
+Info Tech
+
+Financials
+Info Tech
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI China ESG
+
+44
+
+Mkt Cap ( USD Millions)
+
+364,530.00
+115,356.03
+651.66
+8,284.77
+2,455.41
+
+TENCENT HOLDINGS LI (CN)
+CHINA MOBILE
+CHINA CONSTRUCTION BK H
+PING AN INSURANCE H
+CHINA MERCHANTS BANK H
+CHINA MINSHENG BANK H
+SINOPHARM GROUP CO H
+CHINA SHENHUA ENERGY H
+CHINA CITIC BANK H
+LENOVO GROUP
+Total
+
+Mkt Cap
+( USD Billions)
+115.36
+70.06
+54.27
+23.29
+9.42
+5.55
+5.53
+5.40
+4.80
+4.43
+298.11
+
+Index
+Wt. (%)
+31.65
+19.22
+14.89
+6.39
+2.58
+1.52
+1.52
+1.48
+1.32
+1.22
+81.78
+
+SECTOR WEIGHTS
+
+19.22%
+
+29.06%
+
+6.09%
+
+4.56%
+
+4.21%
+2.08%
+
+1.48%
+
+0.44%
+
+32.86%
+
+Information Technology 32.86%
+
+Financials 29.06%
+
+Telecommunication Services 19.22%
+
+Consumer Discretionary 6.09%
+
+Industrials 4.56%
+
+Health Care 4.21%
+
+Utilities 2.08%
+
+Energy 1.48%
+
+Consumer Staples 0.44%
+
+INDEX METHODOLOGY
+The MSCI Global Sustainability Indexes are constructed by applying a Best‐in‐Class selection process to companies in the regional indexes
+that make up MSCI ACWI, a global equity index consisting of developed and emerging market countries.
+
+The Global Sustainability Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk
+introduced by the ESG selection process. The methodology aims to include securities of companies with the highest ESG ratings representing
+50% of the market capitalization in each sector and region of the parent Index. Companies that are not existing constituents of The Global
+Sustainability Indexes must have an MSCI ESG Rating of 'BB' or above and an Impact Monitor score of 3 or above to be eligible. The selection
+universe for The Global Sustainability Indexes is the constituents of the MSCI Global Investable Market Indexes.
+
+The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the MSCI Global Sustainability Indexes takes place in May,
+and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI CHINA ESG INDEX
+
+

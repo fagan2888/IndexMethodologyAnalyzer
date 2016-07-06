@@ -1,0 +1,64 @@
+---
+title: "Some Plots for MSCI Indexes Holdings"
+author: "Jack Ye"
+date: "July 5, 2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(DataComputing)
+```
+
+## Load data file:
+```{r}
+data <- read.csv("top10holding.csv", header=TRUE)
+```
+
+##Frequent first largest holding company:
+```{r warning=F}
+data %>%
+  group_by(top1) %>%
+  summarize(count=n()) %>%
+  ungroup() %>%
+  filter(count >= 3) %>%
+  mutate(count=factor(count)) %>%
+  ggplot(aes(x=top1, y=count, fill=count)) +
+    geom_bar(stat="identity") + 
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+\newpage
+
+##Frequent TOP 3 holdings companys:
+```{r warning=F}
+data %>%
+  gather(rank, stock, -index) %>%
+  filter(rank == "top1" | rank == "top2" | rank == "top3") %>%
+  group_by(stock) %>%
+  summarize(count=n()) %>%
+  ungroup() %>%
+  filter( count > 5) %>%
+  mutate(count=factor(count)) %>%
+  ggplot(aes(x=stock, y=count, fill=count)) + 
+    geom_bar(stat="identity") + 
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+
+\newpage
+
+##Frequent TOP 10 holdings companys:
+```{r warning=F}
+data %>%
+  gather(rank, stock, -index) %>%
+  filter(stock != "None") %>%
+  group_by(stock) %>%
+  summarize(count=n()) %>%
+  ungroup() %>%
+  filter( count > 8) %>%
+  mutate(count=factor(count)) %>%
+  ggplot(aes(x=stock, y=count, fill=count)) +
+    geom_bar(stat="identity") + 
+    theme(axis.text.x = element_text(angle = 45, hjust = 1))
+```
+

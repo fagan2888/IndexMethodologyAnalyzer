@@ -1,0 +1,449 @@
+MSCI ACWI LOW CARBON LEADERS INDEX (EUR)
+
+The MSCI ACWI Low Carbon Leaders Index is based on the MSCI ACWI Index, its parent index, and includes large and mid-cap stocks
+across 23 Developed Markets (DM) and 23 Emerging Markets (EM) countries*. The index addresses two dimensions of carbon exposure –
+carbon emissions and fossil fuel reserves – providing clients with an eﬀective tool for limiting the exposure of their portfolios to carbon
+risk. By excluding companies with the highest carbon emissions intensity and the largest owners of carbon reserves per dollar of market
+capitalization, the index aims to achieve at least 50% reduction in its carbon footprint. The index also aims to maintain wide and consistent
+market exposure by minimizing the tracking error relative to the MSCI ACWI Index. The MSCI Global Low Carbon Leaders Indexes use
+MSCI ESG CarbonMetrics data from MSCI ESG Research Inc.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (EUR)  (NOV 2010 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI ACWI Low Carbon Leaders
+MSCI ACWI
+
+200
+
+150
+
+100
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+
+180.17
+176.96
+
+MSCI ACWI Low
+Carbon Leaders
+
+MSCI ACWI
+
+10.25
+18.85
+19.08
+15.59
+-3.77
+
+9.34
+19.23
+18.11
+15.01
+-3.75
+
+50
+Nov 10 May 11 Oct 11
+
+Apr 12
+
+Sep 12 Mar 13
+
+Aug 13
+
+Feb 14
+
+Jul 14
+
+Jan 15
+
+Jun 15 Dec 15
+
+ May 16
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+1 Mo
+
+3 Mo
+
+1 Yr
+
+YTD
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+Since
+
+Nov 30, 2010
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+ANNUALIZED
+
+MSCI ACWI Low Carbon
+Leaders
+MSCI ACWI
+
+3.24
+
+3.10
+
+6.79
+
+6.74
+
+-5.81
+
+-6.32
+
+-0.43
+
+-0.33
+
+11.43
+
+11.64
+
+11.26
+
+11.29
+
+na
+
+na
+
+11.29
+
+10.93
+
+2.67
+2.65
+
+18.97
+19.33
+
+15.27
+15.43
+
+P/BV
+
+2.03
+2.03
+
+INDEX RISK AND RETURN CHARACTERISTICS ( NOV 30, 2010 – MAY 31, 2016 )
+
+MSCI ACWI Low Carbon
+Leaders
+MSCI ACWI
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MAXIMUM DRAWDOWN
+
+Beta
+
+Tracking
+Error (%)
+
+Turnover
+
+(%) 1
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+1.00
+
+0.50
+
+12.45
+
+11.81
+
+11.17
+
+na
+
+0.98
+
+1.02
+
+na
+
+Since
+Nov 30,
+2010
+1.01
+
+(%)
+
+Period YYYY-MM-DD
+
+22.41
+
+2015-04-15—2016-02-11
+
+1.00
+
+0.00
+
+3.18
+1Last 12 months
+
+11.78
+
+1.00
+11.16
+2 Based on monthly gross returns data
+
+0.97
+
+na
+
+na
+
+0.99
+
+22.83
+3 Based on BBA LIBOR 1M
+
+2015-04-15—2016-02-11
+
+* DM countries include: Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Hong Kong, Ireland, Israel, Italy, Japan, Netherlands, New Zealand, Norway, Portugal, Singapore, Spain, Sweden,
+Switzerland, the UK and the US. EM countries include: Brazil, Chile, China, Colombia, Czech Republic, Egypt, Greece, Hungary, India, Indonesia, Korea, Malaysia, Mexico, Peru, Philippines, Poland, Russia, Qatar,
+South Africa, Taiwan, Thailand, Turkey and United Arab Emirates.
+
+The MSCI ACWI Low Carbon Leaders Index was launched on Sep 16, 2014. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index
+existed). There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI ACWI LOW CARBON LEADERS INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Largest
+Smallest
+Average
+Median
+
+MSCI ACWI Low
+Carbon Leaders
+1,949
+
+MSCI ACWI
+
+2,476
+
+Weight  (%)
+
+1.6
+0.03 bps
+5.13 bps
+2.32 bps
+
+1.6
+0.09 bps
+4.04 bps
+1.58 bps
+
+APPLE
+MICROSOFT CORP
+EXXON MOBIL CORP
+JOHNSON & JOHNSON
+GENERAL ELECTRIC CO
+AMAZON.COM
+FACEBOOK A
+WELLS FARGO & CO
+AT&T
+JPMORGAN CHASE & CO
+Total
+
+Index
+Wt. (%)
+1.57
+1.14
+1.10
+0.89
+0.82
+0.81
+0.77
+0.71
+0.70
+0.69
+9.21
+
+Parent Index
+Wt. (%)
+1.55
+1.12
+1.03
+0.87
+0.80
+0.80
+0.75
+0.69
+0.67
+0.67
+8.96
+
+Sector
+
+Info Tech
+Info Tech
+Energy
+Health Care
+Industrials
+Cons Discr
+Info Tech
+Financials
+Telecom Srvcs
+Financials
+
+Sector
+Wt. (%)
+10.7
+7.7
+17.5
+7.2
+8.3
+6.2
+5.2
+3.4
+17.3
+3.3
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+10.77%
+
+12.34%
+
+13.05%
+
+14.75%
+
+9.91%
+
+6.3%
+
+4.57%
+
+4.03%
+
+3.09%
+
+21.19%
+
+3.36%
+
+3.42%
+
+6.67%
+
+7.86%
+
+53.17%
+
+25.53%
+
+Financials 21.19%
+
+Information Technology 14.75%
+
+Consumer Discretionary 13.05%
+
+United States 53.17%
+
+Japan 7.86%
+
+United Kingdom 6.67%
+
+France 3.42%
+
+Health Care 12.34%
+
+Consumer Staples 10.77%
+
+Industrials 9.91%
+
+Energy 6.3%
+
+Canada 3.36%
+
+Other 25.53%
+
+Materials 4.57%
+
+Telecommunication Services 4.03%
+
+Utilities 3.09%
+
+INDEX METHODOLOGY
+The methodology excludes the top 20% of companies based on carbon emissions intensity, with a maximum of 30% by weight from any sector.
+It also excludes the largest owners of reserves per dollar of market capitalization, representing 50% of the reserves in the parent index. The
+Index is optimized semi-annually to minimize the ex-ante tracking error to the benchmark, subject to the following constraints:
+
+• Turnover: <10% semi-annually;
+• Sector: <2% under- or over-weight; no constraint on Energy; and
+• Country: <2% under- or over-weight.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI ACWI LOW CARBON LEADERS INDEX
+
+

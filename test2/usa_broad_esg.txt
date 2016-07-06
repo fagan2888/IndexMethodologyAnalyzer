@@ -1,0 +1,422 @@
+MSCI USA ESG INDEX (EUR)
+
+The MSCI USA ESG Index is a capitalization weighted index that provides exposure to companies with high Environmental, Social and
+Governance (ESG) performance relative to their sector peers. MSCI USA ESG consists of large and mid cap companies in the US market. The
+Index is designed for investors seeking a broad, diversiﬁed sustainability benchmark with relatively low tracking error to the underlying
+equity market. The index is a member of the MSCI Global Sustainability Index series. Constituent selection is based on data from MSCI
+ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (EUR)  (MAY 2001 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI USA ESG
+MSCI USA
+
+200
+
+150
+
+100
+
+50
+
+171.65
+166.98
+
+0
+May 01 Aug 02 Nov 03
+
+Feb 05 May 06 Aug 07 Nov 08
+
+Feb 10 May 11 Aug 12 Nov 13
+
+Feb 15
+
+ May 16
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+
+MSCI USA ESG
+
+MSCI USA
+
+9.91
+28.50
+27.77
+11.65
+4.57
+22.27
+31.28
+-35.24
+-5.88
+1.20
+21.57
+3.23
+8.86
+-34.32
+
+12.86
+29.09
+26.88
+14.35
+5.40
+23.47
+23.18
+-33.88
+-4.37
+3.15
+21.83
+2.74
+7.42
+-34.42
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI USA ESG
+MSCI USA
+
+1 Mo
+
+4.25
+4.77
+
+3 Mo
+
+6.63
+6.72
+
+1 Yr
+
+-0.72
+-0.56
+
+YTD
+
+1.44
+0.81
+
+3 Yr
+
+5 Yr
+
+15.27
+16.71
+
+16.51
+17.38
+
+10 Yr
+
+8.62
+9.01
+
+Since
+
+Dec 29, 2000
+
+3.50
+3.97
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.15
+2.14
+
+22.60
+21.90
+
+17.80
+17.13
+
+P/BV
+
+3.15
+2.83
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( DEC 29, 2000 – MAY 31, 2016 )
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MAXIMUM DRAWDOWN
+
+MSCI USA ESG
+MSCI USA
+
+Beta
+
+na
+1.00
+
+Tracking
+Error (%)
+
+Turnover
+
+(%) 1
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+(%)
+
+Period YYYY-MM-DD
+
+na
+0.00
+
+9.84
+3.03
+1Last 12 months
+
+11.84
+12.08
+
+1.40
+11.27
+11.35
+1.46
+2 Based on monthly gross returns data
+
+14.15
+13.62
+
+1.27
+1.35
+
+0.56
+0.60
+
+60.35
+58.88
+3 Based on BBA LIBOR 1M
+
+Since
+Dec 29,
+2000
+na
+0.21
+
+2001-01-31—2009-03-09
+2001-06-05—2009-03-09
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI USA ESG Index was launched on Jan 01, 2001. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI USA ESG INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Largest
+Smallest
+Average
+Median
+
+MSCI USA ESG
+340
+
+MSCI USA
+
+621
+
+Weight  (%)
+
+3.3
+2.54 bps
+29.41 bps
+15.55 bps
+
+2.9
+1.05 bps
+16.10 bps
+6.87 bps
+
+JOHNSON & JOHNSON
+ALPHABET C
+PROCTER & GAMBLE CO
+ALPHABET A
+VERIZON COMMUNICATIONS
+BERKSHIRE HATHAWAY B
+MERCK & CO
+DISNEY (WALT)
+INTEL CORP
+CISCO SYSTEMS
+Total
+
+Index
+Wt. (%)
+3.28
+2.41
+2.32
+2.30
+2.18
+1.76
+1.66
+1.64
+1.57
+1.55
+20.67
+
+Parent Index
+Wt. (%)
+1.62
+1.19
+1.15
+1.14
+1.08
+0.87
+0.82
+0.81
+0.78
+0.77
+10.22
+
+Sector
+
+Health Care
+Info Tech
+Cons Staples
+Info Tech
+Telecom Srvcs
+Financials
+Health Care
+Cons Discr
+Info Tech
+Info Tech
+
+Sector
+Wt. (%)
+21.1
+11.6
+24.7
+11.1
+85.8
+10.5
+10.7
+13.1
+7.6
+7.5
+
+SECTOR WEIGHTS
+
+9.4%
+
+12.56%
+
+15.53%
+
+16.72%
+
+9.1%
+
+7.1%
+
+3.27%
+
+3.06%
+
+2.54%
+
+20.73%
+
+Information Technology 20.73%
+
+Financials 16.72%
+
+Health Care 15.53%
+
+Consumer Discretionary 12.56%
+
+Consumer Staples 9.4%
+
+Industrials 9.1%
+
+Energy 7.1%
+
+Utilities 3.27%
+
+Materials 3.06%
+
+Telecommunication Services 2.54%
+
+INDEX METHODOLOGY
+The MSCI Global Sustainability Indexes are constructed by applying a Best‐in‐Class selection process to companies in the regional indexes
+that make up MSCI ACWI, a global equity index consisting of developed and emerging market countries.
+
+The Global Sustainability Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk
+introduced by the ESG selection process. The methodology aims to include securities of companies with the highest ESG ratings representing
+50% of the market capitalization in each sector and region of the parent Index. Companies that are not existing constituents of The Global
+Sustainability Indexes must have an MSCI ESG Rating of 'BB' or above and an Impact Monitor score of 3 or above to be eligible. The selection
+universe for The Global Sustainability Indexes is the constituents of the MSCI Global Investable Market Indexes.
+
+The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the MSCI Global Sustainability Indexes takes place in May,
+and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI USA ESG INDEX
+
+

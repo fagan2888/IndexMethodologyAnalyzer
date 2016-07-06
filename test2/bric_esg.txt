@@ -1,0 +1,392 @@
+MSCI JAPAN ESG INDEX (JPY)
+
+The MSCI Japan ESG Index is a capitalization weighted index that provides exposure to companies with high Environmental, Social and
+Governance (ESG) performance relative to their sector peers. MSCI Japan ESG consists of large and mid cap companies in Japanese
+markets. The Index is designed for investors seeking a broad, diversiﬁed sustainability benchmark with relatively low tracking error to
+the underlying equity market. The index is a member of the MSCI Global Sustainability Index series. Constituent selection is based on
+data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (JPY)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Japan ESG
+MSCI Japan
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+100.49
+95.93
+
+MSCI Japan ESG
+
+MSCI Japan
+
+12.04
+10.61
+56.90
+19.95
+-18.85
+1.90
+11.36
+-44.03
+
+10.27
+9.83
+54.80
+21.78
+-18.59
+0.71
+9.26
+-42.48
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+150
+
+100
+
+50
+
+0
+Sep 07
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Japan ESG
+MSCI Japan
+
+1 Mo
+
+3.16
+2.58
+
+3 Mo
+
+7.80
+6.72
+
+1 Yr
+
+YTD
+
+-16.54
+-17.73
+
+-10.50
+-10.61
+
+3 Yr
+
+9.50
+7.78
+
+ANNUALIZED
+
+5 Yr
+
+10 Yr
+
+12.30
+12.04
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+0.06
+-0.48
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.20
+2.21
+
+15.27
+15.21
+
+13.69
+13.51
+
+P/BV
+
+1.25
+1.24
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Japan ESG
+MSCI Japan
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+8.41
+1.49
+
+3 Yr
+
+16.81
+16.58
+
+5 Yr
+
+10 Yr
+
+18.79
+18.55
+
+na
+na
+
+3 Yr
+
+0.62
+0.53
+
+5 Yr
+
+0.71
+0.70
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+0.10
+0.07
+
+(%)
+
+59.55
+58.90
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2007-10-11—2009-03-10
+2007-10-11—2009-03-12
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI Japan ESG Index was launched on Jun 28, 2011. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI JAPAN ESG INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Japan ESG
+
+145
+
+Mkt Cap ( JPY Millions)
+
+156,899,495.60
+5,661,768.79
+117,936.00
+1,082,065.49
+596,073.01
+
+KDDI
+HONDA MOTOR CO
+SUMITOMO MITSUI FINL GRP
+MIZUHO FINANCIAL GROUP
+NTT DOCOMO
+SONY CORP
+TAKEDA PHARMACEUTICAL
+SEVEN & I HOLDINGS CO
+EAST JAPAN RAILWAY CO
+NTT CORP
+Total
+
+Mkt Cap
+( JPY Billions)
+5,661.77
+5,137.03
+4,603.18
+4,120.76
+3,974.03
+3,912.89
+3,790.55
+3,574.49
+3,381.29
+3,358.74
+41,514.72
+
+Index
+Wt. (%)
+3.61
+3.27
+2.93
+2.63
+2.53
+2.49
+2.42
+2.28
+2.16
+2.14
+26.46
+
+Sector Sector
+Wt. (%)
+43.6
+14.7
+24.9
+22.3
+30.6
+11.2
+29.0
+28.9
+10.6
+25.8
+
+Telecom Srvcs
+Cons Discr
+Financials
+Financials
+Telecom Srvcs
+Cons Discr
+Health Care
+Cons Staples
+Industrials
+Telecom Srvcs
+
+SECTOR WEIGHTS
+
+9.17%
+
+10.17%
+
+11.79%
+
+20.26%
+
+8.32%
+8.28%
+
+7.88%
+
+1.36%
+
+0.55%
+
+22.22%
+
+Consumer Discretionary 22.22%
+
+Industrials 20.26%
+
+Financials 11.79%
+
+Information Technology 10.17%
+
+Materials 9.17%
+
+Health Care 8.32%
+
+Telecommunication Services 8.28%
+
+Consumer Staples 7.88%
+
+Utilities 1.36%
+
+Energy 0.55%
+
+INDEX METHODOLOGY
+The MSCI Global Sustainability Indexes are constructed by applying a Best‐in‐Class selection process to companies in the regional indexes
+that make up MSCI ACWI, a global equity index consisting of developed and emerging market countries.
+
+The Global Sustainability Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk
+introduced by the ESG selection process. The methodology aims to include securities of companies with the highest ESG ratings representing
+50% of the market capitalization in each sector and region of the parent Index. Companies that are not existing constituents of The Global
+Sustainability Indexes must have an MSCI ESG Rating of 'BB' or above and an Impact Monitor score of 3 or above to be eligible. The selection
+universe for The Global Sustainability Indexes is the constituents of the MSCI Global Investable Market Indexes.
+
+The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the MSCI Global Sustainability Indexes takes place in May,
+and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI JAPAN ESG INDEX
+
+

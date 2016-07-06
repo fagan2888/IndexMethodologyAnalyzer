@@ -1,0 +1,415 @@
+MSCI USA SRI INDEX (USD)
+
+The MSCI USA SRI Index is based on the ﬂagship MSCI USA Index, its parent index, which includes large and mid cap stocks of the US
+market. The Index is a capitalization weighted index that provides exposure to companies with outstanding Environmental, Social and
+Governance (ESG) ratings and excludes companies whose products have negative social or environmental impacts. The Index is designed
+for investors seeking a diversiﬁed Socially Responsible Investment (SRI) benchmark comprised of companies with strong sustainability
+proﬁles while avoiding companies incompatible with values screens. Constituent selection is based on research provided by MSCI ESG
+Research.
+
+CUMULATIVE INDEX PERFORMANCE - NET RETURNS  (USD)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+200
+
+150
+
+100
+
+50
+
+0
+Sep 07
+
+MSCI USA SRI
+MSCI USA
+
+157.52
+154.44
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+MSCI USA SRI
+
+MSCI USA
+
+-3.69
+11.79
+31.73
+10.23
+0.07
+11.04
+26.80
+-30.91
+
+0.69
+12.69
+31.79
+15.33
+1.36
+14.77
+26.25
+-37.57
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+INDEX PERFORMANCE — NET RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI USA SRI
+MSCI USA
+
+1 Mo
+
+1.87
+1.76
+
+3 Mo
+
+9.70
+9.16
+
+1 Yr
+
+-1.99
+0.31
+
+YTD
+
+3.76
+3.02
+
+ANNUALIZED
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+Since
+
+Sep 28, 2007
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+8.08
+10.26
+
+9.00
+10.82
+
+na
+na
+
+5.13
+5.37
+
+2.20
+2.14
+
+22.36
+21.90
+
+18.03
+17.13
+
+P/BV
+
+3.65
+2.83
+
+INDEX RISK AND RETURN CHARACTERISTICS ( SEP 28, 2007 – MAY 31, 2016 )
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MAXIMUM DRAWDOWN
+
+Tracking
+Error (%)
+
+Turnover
+
+(%) 1
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+(%)
+
+Period YYYY-MM-DD
+
+MSCI USA SRI
+MSCI USA
+
+Beta
+
+0.96
+1.00
+
+3.17
+0.00
+
+21.83
+3.03
+1Last 12 months
+
+11.45
+11.38
+
+12.16
+12.26
+2 Based on monthly net returns data
+
+0.72
+0.90
+
+na
+na
+
+0.75
+0.88
+
+Since
+Sep 28,
+2007
+0.35
+0.36
+
+na
+na
+
+51.93
+55.36
+3 Based on BBA LIBOR 1M
+
+2007-10-09—2009-03-09
+2007-10-09—2009-03-09
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI USA SRI Index was launched on Jun 28, 2011. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed). There
+are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI USA SRI INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Largest
+Smallest
+Average
+Median
+
+MSCI USA SRI
+166
+
+MSCI USA
+
+621
+
+Weight  (%)
+
+9.0
+6.78 bps
+60.24 bps
+34.63 bps
+
+2.9
+1.05 bps
+16.10 bps
+6.87 bps
+
+MICROSOFT CORP
+PROCTER & GAMBLE CO
+DISNEY (WALT)
+CISCO SYSTEMS
+IBM CORP
+GILEAD SCIENCES
+MCDONALD'S CORP
+NIKE B
+ACCENTURE A
+UNITED PARCEL SERVICE B
+Total
+
+Index
+Wt. (%)
+9.04
+4.95
+3.50
+3.31
+3.18
+2.82
+2.52
+1.68
+1.67
+1.61
+34.29
+
+Parent Index
+Wt. (%)
+2.10
+1.15
+0.81
+0.77
+0.74
+0.65
+0.58
+0.39
+0.39
+0.37
+7.95
+
+Sector
+
+Info Tech
+Cons Staples
+Cons Discr
+Info Tech
+Info Tech
+Health Care
+Cons Discr
+Cons Discr
+Info Tech
+Industrials
+
+Sector
+Wt. (%)
+32.3
+46.8
+24.0
+11.9
+11.4
+23.4
+17.2
+11.5
+6.0
+17.4
+
+SECTOR WEIGHTS
+
+12.03%
+
+14.61%
+
+15.64%
+
+10.59%
+9.28%
+
+4.54%
+
+3.37%
+
+1.65%
+
+0.35%
+
+27.94%
+
+Information Technology 27.94%
+
+Financials 15.64%
+
+Consumer Discretionary 14.61%
+
+Health Care 12.03%
+
+Consumer Staples 10.59%
+
+Industrials 9.28%
+
+Energy 4.54%
+
+Materials 3.37%
+
+Utilities 1.65%
+
+Telecommunication Services 0.35%
+
+INDEX METHODOLOGY
+MSCI Global SRI Indexes are constructed by applying a combination of values based exclusions and a Best-in- Class selection process to companies in the regional indexes that make
+
+up MSCI ACWI, a global equity index consisting of developed and emerging market countries. After securities of companies involved in Nuclear Power, Tobacco, Alcohol, Gambling,
+
+Military Weapons, Civilian Firearms, GMOs and Adult Entertainment are excluded, MSCI’s Best‐in‐Class selection process is applied to the remaining eligible securities in the selection
+
+universe. The MSCI Global SRI Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk introduced by the ESG selection
+
+process. The methodology aims to include the securities of companies with the highest ESG ratings making up 25% of the market capitalization in each sector and region of the parent
+
+indexes. Companies that are not existing constituents of the MSCI Global SRI Indexes must have an MSCI ESG Rating above BBB and an Impact Monitor score above 3 to be eligible.
+
+Current constituents of the MSCI Global SRI Indexes must have an MSCI ESG Rating above B and an Impact Monitor score above 0 to be eligible. The selection universe for the MSCI
+
+Global SRI Indexes is the constituents of the MSCI Global Investable Market Indexes. The Index is ﬂoat-adjusted market capitalization weighted.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI USA SRI INDEX
+
+

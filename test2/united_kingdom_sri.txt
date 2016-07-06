@@ -1,0 +1,392 @@
+MSCI UNITED KINGDOM SRI INDEX (GBP)
+
+The MSCI United Kingdom SRI Index includes large and mid cap stocks of the UK market. The index is a capitalization weighted index that
+provides exposure to companies with outstanding Environmental, Social and Governance (ESG) ratings and excludes companies whose
+products have negative social or environmental impacts. The Index is designed for investors seeking a diversiﬁed Socially Responsible
+Investment (SRI) benchmark comprised of companies with strong sustainability proﬁles while avoiding companies incompatible with
+values screens. Constituent selection is based on research provided by MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - PRICE RETURNS  (GBP)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI UK SRI
+MSCI UK
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+133.03
+
+93.67
+
+MSCI UK SRI
+
+MSCI UK
+
+1.32
+-3.50
+24.94
+3.68
+-3.21
+13.20
+35.24
+-31.22
+
+-5.88
+-3.06
+14.06
+5.93
+-5.42
+8.47
+22.28
+-31.55
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+150
+
+100
+
+50
+Sep 07
+
+INDEX PERFORMANCE — PRICE RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI UK SRI
+MSCI UK
+
+1 Mo
+
+2.38
+-0.35
+
+3 Mo
+
+4.30
+1.87
+
+1 Yr
+
+-7.80
+-11.60
+
+YTD
+
+1.25
+-0.35
+
+3 Yr
+
+2.77
+-2.35
+
+5 Yr
+
+3.49
+0.42
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+3.34
+-0.75
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+3.56
+4.22
+
+18.76
+21.03
+
+15.70
+15.81
+
+P/BV
+
+1.78
+1.76
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI UK SRI
+MSCI UK
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+15.32
+2.66
+
+3 Yr
+
+11.91
+11.07
+
+5 Yr
+
+10 Yr
+
+11.75
+11.51
+
+na
+na
+
+3 Yr
+
+0.25
+-0.21
+
+5 Yr
+
+0.30
+0.05
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+0.21
+-0.06
+
+(%)
+
+45.33
+48.40
+
+1Last 12 months
+
+2 Based on monthly price returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2008-05-19—2008-10-27
+2007-10-12—2009-03-03
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI United Kingdom SRI Index was launched on Jan 16, 2012. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index
+existed). There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI UNITED KINGDOM SRI INDEX
+
+Telecom Srvcs
+Cons Staples
+
+Sector Sector
+Wt. (%)
+62.0
+74.8
+Utilities 100.0
+38.0
+25.8
+27.2
+13.3
+12.6
+10.4
+18.4
+
+Telecom Srvcs
+Financials
+Cons Discr
+Financials
+Financials
+Financials
+Cons Discr
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI UK SRI
+
+39
+
+Mkt Cap ( GBP Millions)
+
+446,914.88
+61,300.81
+2,018.40
+11,459.36
+5,581.50
+
+VODAFONE GROUP
+UNILEVER PLC (GB)
+NATIONAL GRID
+BT GROUP
+PRUDENTIAL
+WPP
+AVIVA
+STANDARD CHARTERED
+LEGAL & GENERAL GROUP
+RELX (GB)
+Total
+
+Mkt Cap
+( GBP Billions)
+61.30
+40.38
+37.70
+37.50
+35.49
+20.61
+18.20
+17.33
+14.24
+13.90
+296.64
+
+Index
+Wt. (%)
+13.72
+9.03
+8.44
+8.39
+7.94
+4.61
+4.07
+3.88
+3.19
+3.11
+66.38
+
+SECTOR WEIGHTS
+
+16.93%
+
+22.11%
+
+12.08%
+
+8.44%
+
+5.06%
+
+4.21%
+
+0.45%
+
+30.72%
+
+Financials 30.72%
+
+Telecommunication Services 22.11%
+
+Consumer Discretionary 16.93%
+
+Consumer Staples 12.08%
+
+Utilities 8.44%
+
+Industrials 5.06%
+
+Materials 4.21%
+
+Energy 0.45%
+
+INDEX METHODOLOGY
+The MSCI Global SRI Indexes are constructed by applying a combination of values based exclusions and a Best-in-Class selection process to companies in the regional indexes that
+
+make up MSCI ACWI, a global equity index consisting of developed and emerging market countries. After securities of companies involved in Nuclear Power, Tobacco, Alcohol, Gambling,
+
+Military Weapons, Civilian Firearms, GMOs and Adult Entertainment are excluded, MSCI’s Best‐in‐Class selection process is applied to the remaining eligible securities in the selection
+
+universe.
+
+The MSCI Global SRI Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk introduced by the ESG selection process. The
+
+methodology aims to include the securities of companies with the highest ESG ratings making up 25% of the market capitalization in each sector and region of the parent indexes.
+
+Companies that are not existing constituents of the MSCI Global SRI Indexes must have an MSCI ESG Rating of ‘A’ or above and an Impact Monitor score of 4 or above to be eligible.
+
+Current constituents of the MSCI Global SRI Indexes must have an MSCI ESG Rating of BB or above and an Impact Monitor score of 2 or above to be eligible. The selection universe
+
+for the MSCI Global SRI Indexes is the constituents of the MSCI Global Investable Market Indexes. The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the
+
+MSCI Global SRI Indexes takes place in May, and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI UNITED KINGDOM SRI INDEX
+
+

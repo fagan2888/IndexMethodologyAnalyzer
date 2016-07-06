@@ -1,0 +1,397 @@
+MSCI USA SMID CAP INDEX (USD)
+
+The MSCI USA SMID Cap Index captures mid and small cap representations across the US equity market. With 2,215 constituents, the
+index covers approximately 28% of the free ﬂoat-adjusted market capitalization in US.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (USD)  (MAY 2001 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI USA SMID Cap
+MSCI USA
+
+400
+
+300
+
+200
+
+100
+
+338.26
+
+225.45
+
+50
+May 01 Aug 02 Nov 03
+
+Feb 05 May 06 Aug 07 Nov 08
+
+Feb 10 May 11 Aug 12 Nov 13
+
+Feb 15
+
+ May 16
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+
+MSCI USA
+SMID Cap
+
+MSCI USA
+
+-2.60
+10.01
+36.59
+17.49
+-1.96
+27.06
+39.22
+-39.46
+3.79
+14.76
+11.33
+20.45
+41.74
+-17.91
+
+1.32
+13.36
+32.61
+16.13
+1.99
+15.45
+27.14
+-37.14
+6.03
+15.32
+5.72
+10.71
+29.11
+-22.71
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI USA SMID Cap
+MSCI USA
+
+1 Mo
+
+1.88
+1.83
+
+3 Mo
+
+1 Yr
+
+11.99
+9.34
+
+-3.05
+0.97
+
+YTD
+
+4.52
+3.31
+
+3 Yr
+
+5 Yr
+
+9.31
+10.95
+
+9.82
+11.53
+
+10 Yr
+
+7.87
+7.46
+
+Since
+
+May 31, 1994
+
+10.39
+9.33
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+1.67
+2.14
+
+31.50
+21.90
+
+20.05
+17.13
+
+P/BV
+
+2.35
+2.83
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI USA SMID Cap
+MSCI USA
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+7.09
+3.03
+
+3 Yr
+
+13.02
+11.40
+
+5 Yr
+
+14.88
+12.26
+
+10 Yr
+
+18.63
+15.29
+
+3 Yr
+
+0.73
+0.95
+
+5 Yr
+
+0.69
+0.94
+
+10 Yr
+
+0.43
+0.46
+
+Since
+
+May 31, 1994
+
+0.48
+0.48
+
+(%)
+
+59.15
+54.91
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2007-07-13—2009-03-09
+2007-10-09—2009-03-09
+
+The MSCI USA SMID Cap Index was launched on Jun 05, 2007. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI USA SMID CAP INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI USA SMID Cap
+
+2,215
+
+Mkt Cap ( USD Millions)
+
+5,852,682.11
+25,135.36
+0.00
+2,642.29
+1,344.75
+
+NVIDIA
+EQUINIX
+EDWARDS LIFESCIENCES
+DOLLAR TREE
+WEC ENERGY GROUP
+TYSON FOODS A
+HARTFORD FINANCIAL SVCS
+NIELSEN HOLDINGS PLC
+MOLSON COORS BREWING B
+ANALOG DEVICES
+Total
+
+Mkt Cap
+( USD Billions)
+25.14
+24.15
+21.25
+20.20
+18.99
+18.86
+18.50
+18.47
+18.41
+18.26
+202.20
+
+Index
+Wt. (%)
+0.43
+0.41
+0.36
+0.35
+0.32
+0.32
+0.32
+0.32
+0.31
+0.31
+3.45
+
+Sector Sector
+Wt. (%)
+2.8
+1.8
+3.4
+2.2
+6.4
+8.2
+1.4
+2.2
+8.0
+2.0
+
+Info Tech
+Financials
+Health Care
+Cons Discr
+Utilities
+Cons Staples
+Financials
+Industrials
+Cons Staples
+Info Tech
+
+SECTOR WEIGHTS
+
+10.67%
+
+14.28%
+
+15.51%
+
+15.69%
+
+5.89%
+
+5.07%
+
+4.82%
+
+3.94%
+
+0.89%
+
+23.23%
+
+Financials 23.23%
+
+Consumer Discretionary 15.69%
+
+Information Technology 15.51%
+
+Industrials 14.28%
+
+Health Care 10.67%
+
+Materials 5.89%
+
+Utilities 5.07%
+
+Energy 4.82%
+
+Consumer Staples 3.94%
+
+Telecommunication Services 0.89%
+
+INDEX METHODOLOGY
+The index is based on the MSCI Global Investable Market Indexes (GIMI) Methodology—a comprehensive and consistent approach to index
+construction that allows for meaningful global views and cross regional comparisons across all market capitalization size, sector and style
+segments and combinations. This methodology aims to provide exhaustive coverage of the relevant investment opportunity set with a strong
+emphasis on index liquidity, investability and replicability. The index is reviewed quarterly—in February, May, August and November—with
+the objective of reﬂecting change in the underlying equity markets in a timely manner, while limiting undue index turnover. During the May
+and November semi-annual index reviews, the index is rebalanced and the mid and small capitalization cutoﬀ points are recalculated.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI USA SMID CAP INDEX
+
+

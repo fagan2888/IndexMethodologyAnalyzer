@@ -1,0 +1,450 @@
+MSCI AC EUROPE ESG INDEX (EUR)
+
+The MSCI AC Europe ESG Index is a capitalization weighted index that provides exposure to companies with high Environmental, Social
+and Governance (ESG) performance relative to their sector peers. MSCI AC Europe ESG consists of large and mid-cap companies across
+15 Developed Markets countries* and 6 Emerging Markets countries in Europe*. The Index is designed for investors seeking a broad,
+diversiﬁed sustainability benchmark with relatively low tracking error to the underlying equity market. The index is a member of the MSCI
+Global Sustainability Index series. Constituent selection is based on data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (EUR)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+200
+
+150
+
+100
+
+50
+
+0
+Sep 07
+
+MSCI AC Europe ESG
+MSCI AC Europe
+
+135.77
+
+118.30
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+MSCI AC
+
+Europe ESG
+
+MSCI AC Europe
+
+12.27
+7.42
+20.65
+19.43
+-6.47
+12.20
+35.47
+-43.11
+
+8.35
+6.22
+19.02
+18.33
+-8.25
+12.37
+34.19
+-44.57
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI AC Europe ESG
+MSCI AC Europe
+
+1 Mo
+
+3.47
+2.25
+
+3 Mo
+
+6.79
+6.21
+
+1 Yr
+
+-8.17
+-10.89
+
+YTD
+
+-1.31
+-2.32
+
+3 Yr
+
+8.96
+7.05
+
+5 Yr
+
+9.08
+6.90
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+3.59
+1.95
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+3.63
+3.67
+
+17.94
+19.52
+
+14.95
+14.60
+
+P/BV
+
+1.86
+1.66
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( SEP 28, 2007 – MAY 31, 2016 )
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MAXIMUM DRAWDOWN
+
+MSCI AC Europe ESG
+MSCI AC Europe
+
+Beta
+
+0.97
+1.00
+
+Tracking
+Error (%)
+
+Turnover
+
+(%) 1
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+(%)
+
+Period YYYY-MM-DD
+
+2.01
+0.00
+
+4.39
+2.20
+1Last 12 months
+
+13.12
+13.35
+
+12.90
+0.72
+13.34
+0.55
+2 Based on monthly gross returns data
+
+0.72
+0.58
+
+na
+na
+
+na
+na
+
+57.55
+58.14
+3 Based on BBA LIBOR 1M
+
+Since
+Sep 28,
+2007
+0.24
+0.14
+
+2007-10-11—2009-03-09
+2007-10-12—2009-03-09
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+* DM countries in Europe include: Austria, Belgium, Denmark, Finland, France, Germany, Ireland, Italy, the Netherlands, Norway, Portugal, Spain, Sweden, Switzerland, and the UK. EM countries in Europe include:
+Czech Republic, Greece, Hungary, Poland, Russia and Turkey
+
+The MSCI AC Europe ESG Index was launched on Jul 12, 2013. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI AC EUROPE ESG INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Largest
+Smallest
+Average
+Median
+
+MSCI AC Europe ESG
+
+252
+
+MSCI AC Europe
+527
+
+Weight  (%)
+
+4.6
+1.01 bps
+39.68 bps
+20.93 bps
+
+2.9
+0.51 bps
+18.98 bps
+8.73 bps
+
+ROCHE HOLDING GENUSS
+NOVARTIS
+HSBC HOLDINGS (GB)
+NOVO NORDISK B
+GLAXOSMITHKLINE
+VODAFONE GROUP
+SAP
+ALLIANZ
+UNILEVER NV (NL) CERT
+BASF
+Total
+
+Country
+
+CH
+CH
+GB
+DK
+GB
+GB
+DE
+DE
+NL
+DE
+
+Index
+Wt. (%)
+
+4.60
+4.50
+3.16
+2.72
+2.55
+2.23
+1.99
+1.86
+1.83
+1.77
+27.22
+
+Parent
+Index
+Wt. (%)
+2.30
+2.25
+1.58
+1.36
+1.28
+1.11
+1.00
+0.93
+0.91
+0.89
+13.61
+
+Sector Sector
+Wt. (%)
+
+Health Care 28.0
+Health Care 27.4
+Financials 13.4
+Health Care 16.5
+Health Care 15.5
+Telecom Srvcs 45.2
+Info Tech 48.9
+Financials
+7.9
+Cons Staples 14.4
+Materials 22.3
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+11.23%
+
+11.72%
+
+12.71%
+
+16.44%
+
+7.94%
+
+4.93%
+
+4.45%
+
+4.07%
+
+2.85%
+
+23.66%
+
+7.44%
+
+12.59%
+
+13.02%
+
+14.01%
+
+24.73%
+
+28.21%
+
+Financials 23.66%
+
+Health Care 16.44%
+
+Consumer Staples 12.71%
+
+United Kingdom 28.21%
+
+Switzerland 14.01%
+
+France 13.02%
+
+Germany 12.59%
+
+Industrials 11.72%
+
+Consumer Discretionary 11.23%
+
+Materials 7.94%
+
+Netherlands 7.44%
+
+Other 24.73%
+
+Telecommunication Services 4.93%
+
+Utilities 4.45%
+
+Information Technology 4.07%
+
+Energy 2.85%
+
+INDEX METHODOLOGY
+The MSCI Global Sustainability Indexes are constructed by applying a Best‐in‐Class selection process to companies in the regional indexes
+that make up MSCI ACWI, a global equity index consisting of developed and emerging market countries.
+
+The Global Sustainability Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk
+introduced by the ESG selection process. The methodology aims to include securities of companies with the highest ESG ratings representing
+50% of the market capitalization in each sector and region of the parent Index. Companies that are not existing constituents of The Global
+Sustainability Indexes must have an MSCI ESG Rating of 'BB' or above and an Impact Monitor score of 3 or above to be eligible. The selection
+universe for The Global Sustainability Indexes is the constituents of the MSCI Global Investable Market Indexes.
+
+The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the MSCI Global Sustainability Indexes takes place in May,
+and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+MSCI Inc. is a leading provider of investment decision support tools to investors globally, including asset managers, banks, hedge funds and pension funds. MSCI products and services include indexes, portfolio
+risk and performance analytics, and ESG data and research.
+The company's ﬂagship product oﬀerings are: the MSCI indexes with approximately USD 9 trillion estimated to be benchmarked to them on a worldwide basis1; Barra multi-asset class factor models, portfolio
+risk and performance analytics; RiskMetrics multi-asset class market and credit risk analytics; IPD real estate information, indexes and analytics; MSCI ESG (environmental, social and governance) Research
+screening, analysis and ratings; and FEA valuation models and risk management software for the energy and commodities markets. MSCI is headquartered in New York, with research and commercial oﬃces
+around the world.
+1As of March 31, 2014, as reported on June 25, 2014 by eVestment, Lipper and Bloomberg.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI AC EUROPE ESG INDEX
+
+

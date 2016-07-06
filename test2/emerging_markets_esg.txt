@@ -1,0 +1,427 @@
+MSCI EMERGING MARKETS ESG SELECT INDEX
+(USD)
+
+The MSCI Emerging Markets ESG Select Index is based on the MSCI Emerging Markets Index, its parent index, which includes large and
+mid cap stocks across 23 Emerging Markets (EM) countries*. The Index is designed to maximize exposure to positive environmental,
+social and governance (ESG) factors while exhibiting risk and return characteristics similar to those of the MSCI EM Index. The index is
+constructed by selecting constituents from MSCI EM Index through an optimization process that aims to maximize exposure to ESG factors
+for a target tracking error budget under certain constraints. The index is sector-diversiﬁed and targets companies with high ESG ratings
+in each sector. Tobacco and Controversial Weapons companies are not eligible for inclusion.
+
+CUMULATIVE INDEX PERFORMANCE - NET RETURNS  (USD)  (NOV 2012 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+150
+
+MSCI Emerging Markets ESG Select
+MSCI EM
+
+100
+
+Year
+
+2015
+2014
+2013
+
+MSCI Emerging
+
+Markets
+
+ESG Select
+-12.45
+-1.84
+-2.78
+
+MSCI EM
+
+-14.92
+-2.19
+-2.60
+
+90.08
+86.99
+
+50
+Nov 12 Mar 13
+
+Jun 13 Oct 13
+
+Jan 14 May 14 Aug 14 Dec 14 Mar 15
+
+Jul 15
+
+Oct 15
+
+Feb 16
+
+ May 16
+
+INDEX PERFORMANCE — NET RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+1 Mo
+
+3 Mo
+
+1 Yr
+
+YTD
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+Since
+
+Nov 30, 2012
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+ANNUALIZED
+
+MSCI Emerging Markets ESG
+Select
+MSCI EM
+
+-3.67
+
+-3.73
+
+9.76
+
+9.60
+
+-15.23
+
+-17.63
+
+2.89
+
+2.32
+
+-3.93
+
+-4.95
+
+na
+
+na
+
+na
+
+na
+
+-2.94
+
+-3.90
+
+3.00
+2.87
+
+12.59
+13.27
+
+11.21
+11.18
+
+P/BV
+
+1.43
+1.39
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MSCI Emerging Markets ESG
+Select
+MSCI EM
+
+Turnover
+
+(%) 1
+34.93
+
+3 Yr
+
+16.61
+
+8.45
+
+16.73
+
+1Last 12 months
+
+5 Yr
+
+na
+
+10 Yr
+
+na
+
+3 Yr
+
+-0.17
+
+na
+
+-0.23
+2 Based on monthly net returns data
+
+na
+
+5 Yr
+
+na
+
+na
+
+10 Yr
+
+na
+
+na
+
+Since
+
+Nov 30, 2012
+
+(%)
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+-0.13
+
+33.65
+
+2014-09-03—2016-01-21
+
+-0.19
+
+35.55
+
+2014-09-03—2016-01-21
+
+3 Based on BBA LIBOR 1M
+
+* EM countries include: Brazil, Chile, China, Colombia, Czech Republic, Egypt, Greece, Hungary, India, Indonesia, Korea, Malaysia, Mexico, Peru, Philippines, Poland, Russia, Qatar, South Africa, Taiwan, Thailand,
+Turkey and United Arab Emirates.
+
+The MSCI Emerging Markets ESG Select Index was launched on Apr 20, 2016. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period
+had the index existed). There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of
+future performance.
+
+MSCI EMERGING MARKETS ESG SELECT INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Emerging Markets ESG Select
+317
+
+Mkt Cap ( USD Millions)
+
+2,239,081.71
+84,327.96
+1,596.15
+7,063.35
+4,747.60
+
+Country
+
+TAIWAN SEMICONDUCTOR MFG TW
+SAMSUNG ELECTRONICS CO
+KR
+CN
+TENCENT HOLDINGS LI (CN)
+CN
+CHINA MOBILE
+ZA
+NASPERS N
+IN
+INFOSYS
+CHINA CONSTRUCTION BK H
+CN
+CN
+ICBC H
+TW
+CHUNGHWA TELECOM CO
+ALIBABA GROUP HLDG ADR
+CN
+Total
+
+Mkt Cap
+( USD Billions)
+84.33
+82.05
+76.04
+41.23
+34.86
+32.59
+31.28
+28.03
+27.36
+24.94
+462.70
+
+Index
+Wt. (%)
+3.77
+3.66
+3.40
+1.84
+1.56
+1.46
+1.40
+1.25
+1.22
+1.11
+20.66
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+Sector Sector
+Wt. (%)
+Info Tech 16.5
+Info Tech 16.0
+Info Tech 14.8
+Telecom Srvcs 23.5
+Cons Discr 17.4
+6.4
+4.9
+4.4
+Telecom Srvcs 15.6
+4.9
+
+Info Tech
+Financials
+Financials
+
+Info Tech
+
+7.85%
+
+8.05%
+
+8.94%
+
+22.88%
+
+6.73%
+
+5.95%
+
+5.45%
+
+3.34%
+
+2.41%
+
+28.4%
+
+7.87%
+
+8.53%
+
+12.23%
+
+15.27%
+
+32.24%
+
+23.85%
+
+Financials 28.4%
+
+Information Technology 22.88%
+
+Consumer Discretionary 8.94%
+
+China 23.85%
+
+South Korea 15.27%
+
+Taiwan 12.23%
+
+India 8.53%
+
+Energy 8.05%
+
+Telecommunication Services 7.85%
+
+Consumer Staples 6.73%
+
+South Africa 7.87%
+
+Other 32.24%
+
+Industrials 5.95%
+
+Materials 5.45%
+
+Utilities 3.34%
+
+Health Care 2.41%
+
+INDEX METHODOLOGY
+MSCI ESG Select Index is constructed by selecting constituents from its underlying parent index through an optimization process that aims
+to  maximize  exposure  to  ESG  factors  for  a  target  tracking  error  budget  under  certain  constraints.  Tobacco  and  Controversial  Weapons
+companies are excluded from the index. Securities of companies involved in very severe business controversies are not eligible for inclusion.
+Other exclusions include where companies do not have the controversy score or IVA rating or ESG score. Constituents are selected to maximize
+exposure to higher ESG IVA scores, subject to maintaining risk and return characteristics similar to the parent index. ESG IVA scores are
+normalized and factored into the optimization process. Further, the optimized portfolio is determined and the index is constructed using the
+most recent release of the Barra Open Optimizer in combination with the relevant Barra Equity Model. The Index is rebalanced on a quarterly
+basis coinciding with the regular Index Reviews of the MSCI Global Investable Market Indexes. Changes are eﬀective at the beginning of March,
+June, September and December.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI EMERGING MARKETS ESG SELECT INDEX
+
+

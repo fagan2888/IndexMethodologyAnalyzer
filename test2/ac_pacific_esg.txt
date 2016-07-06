@@ -1,0 +1,450 @@
+MSCI AC ASIA PACIFIC ESG INDEX (EUR)
+
+The MSCI AC Asia Paciﬁc ESG Index is a capitalization weighted index that provides exposure to companies with high Environmental,
+Social and Governance (ESG) performance relative to their sector peers. MSCI AC Asia Paciﬁc ESG consists of large and mid cap companies
+across 5 Developed Markets countries* and 8 Emerging Markets countries* in the Asia Paciﬁc region. The Index is designed for investors
+seeking a broad, diversiﬁed sustainability benchmark with relatively low tracking error to the underlying equity market. The index is a
+member of the MSCI Global Sustainability Index series. Constituent selection is based on data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (EUR)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI AC Asia Pacific ESG
+MSCI AC Asia Pacific
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+147.70
+
+127.22
+
+MSCI AC Asia
+Paciﬁc ESG
+
+MSCI AC
+
+Asia Paciﬁc
+
+13.38
+16.24
+11.14
+12.84
+-9.11
+27.35
+30.19
+-36.26
+
+9.52
+14.21
+7.35
+15.25
+-12.07
+25.39
+33.56
+-38.59
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+200
+
+150
+
+100
+
+50
+Sep 07
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI AC Asia Paciﬁc ESG
+MSCI AC Asia Paciﬁc
+
+1 Mo
+
+2.02
+1.51
+
+3 Mo
+
+6.97
+6.67
+
+1 Yr
+
+-10.21
+-13.64
+
+YTD
+
+-2.94
+-3.53
+
+3 Yr
+
+9.16
+6.51
+
+5 Yr
+
+9.34
+7.04
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+4.60
+2.81
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.84
+2.81
+
+14.72
+14.14
+
+13.43
+13.07
+
+P/BV
+
+1.46
+1.34
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( SEP 28, 2007 – MAY 31, 2016 )
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MAXIMUM DRAWDOWN
+
+MSCI AC Asia Paciﬁc ESG
+MSCI AC Asia Paciﬁc
+
+Beta
+
+0.94
+1.00
+
+Tracking
+Error (%)
+
+Turnover
+
+(%) 1
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+(%)
+
+Period YYYY-MM-DD
+
+2.45
+0.00
+
+6.59
+5.18
+1Last 12 months
+
+13.48
+13.74
+
+12.66
+0.75
+13.05
+0.57
+2 Based on monthly gross returns data
+
+0.72
+0.53
+
+na
+na
+
+na
+na
+
+49.35
+51.60
+3 Based on BBA LIBOR 1M
+
+Since
+Sep 28,
+2007
+0.31
+0.19
+
+2007-11-01—2009-03-10
+2007-11-01—2009-03-09
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+* Developed Markets countries in the index include: Australia, Hong Kong, Japan, New Zealand and Singapore. Emerging Markets countries include: China, India, Indonesia, Korea, Malaysia, the Philippines, Taiwan
+and Thailand.
+
+The MSCI AC Asia Paciﬁc ESG Index was launched on Jul 12, 2013. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index
+existed). There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI AC ASIA PACIFIC ESG INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+MSCI AC Asia Paciﬁc
+
+Country
+
+Number of
+Constituents
+
+Largest
+Smallest
+Average
+Median
+
+MSCI AC Asia
+Paciﬁc ESG
+
+450
+
+Weight  (%)
+
+3.5
+1.10 bps
+22.22 bps
+10.29 bps
+
+1,020
+
+2.1
+0.56 bps
+9.80 bps
+4.65 bps
+
+TAIWAN SEMICONDUCTOR MFG
+TENCENT HOLDINGS LI (CN)
+COMMONWEALTH BANK OF AUS
+WESTPAC BANKING
+CHINA MOBILE
+CHINA CONSTRUCTION BK H
+ANZ BANKING GROUP
+NATIONAL AUSTRALIA BANK
+KDDI
+HONDA MOTOR CO
+Total
+
+TW
+CN
+AU
+AU
+CN
+CN
+AU
+AU
+JP
+JP
+
+Index
+Wt. (%)
+
+3.51
+3.43
+2.85
+2.20
+2.08
+1.61
+1.60
+1.54
+1.52
+1.38
+21.71
+
+Parent
+Index
+Wt. (%)
+1.78
+1.73
+1.44
+1.11
+1.05
+0.82
+0.81
+0.78
+0.77
+0.70
+10.98
+
+Sector Sector
+Wt. (%)
+
+Info Tech 23.2
+Info Tech 22.7
+Financials 10.3
+Financials
+8.0
+Telecom Srvcs 25.9
+5.9
+5.8
+5.6
+Telecom Srvcs 18.9
+Cons Discr 10.7
+
+Financials
+Financials
+Financials
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+8.04%
+
+12.85%
+
+12.94%
+
+15.14%
+
+7.14%
+
+10.84%
+
+15.14%
+
+6.93%
+
+6.25%
+5.13%
+
+2.91%
+
+2.26%
+
+27.54%
+
+6.85%
+
+17.97%
+
+42.06%
+
+Financials 27.54%
+
+Information Technology 15.14%
+
+Industrials 12.94%
+
+Japan 42.06%
+
+Australia 15.14%
+
+China 10.84%
+
+Taiwan 7.14%
+
+Consumer Discretionary 12.85%
+
+Telecommunication Services 8.04%
+
+South Korea 6.85%
+
+Other 17.97%
+
+Consumer Staples 6.93%
+
+Materials 6.25%
+
+Health Care 5.13%
+
+Utilities 2.91%
+
+Energy 2.26%
+
+INDEX METHODOLOGY
+The MSCI Global Sustainability Indexes are constructed by applying a Best‐in‐Class selection process to companies in the regional indexes
+that make up MSCI ACWI, a global equity index consisting of developed and emerging market countries.
+
+The Global Sustainability Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk
+introduced by the ESG selection process. The methodology aims to include securities of companies with the highest ESG ratings representing
+50% of the market capitalization in each sector and region of the parent Index. Companies that are not existing constituents of The Global
+Sustainability Indexes must have an MSCI ESG Rating of 'BB' or above and an Impact Monitor score of 3 or above to be eligible. The selection
+universe for The Global Sustainability Indexes is the constituents of the MSCI Global Investable Market Indexes.
+
+The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the MSCI Global Sustainability Indexes takes place in May,
+and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI AC ASIA PACIFIC ESG INDEX
+
+

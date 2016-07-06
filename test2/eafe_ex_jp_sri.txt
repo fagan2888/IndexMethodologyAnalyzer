@@ -1,0 +1,435 @@
+MSCI EAFE SRI INDEX (USD)
+
+The MSCI EAFE SRI Index includes large and mid-cap stocks across 21 Developed Markets (DM) countries* around the world, excluding
+the US and Canada. The index is a capitalization weighted index that provides exposure to companies with outstanding Environmental,
+Social and Governance (ESG) ratings and excludes companies whose products have negative social or environmental impacts. The Index
+is designed for investors seeking a diversiﬁed Socially Responsible Investment (SRI) benchmark comprised of companies with strong
+sustainability proﬁles while avoiding companies incompatible with values screens. Constituent selection is based on research provided
+by MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - NET RETURNS  (USD)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI EAFE SRI
+MSCI EAFE
+
+110.29
+
+93.25
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+MSCI EAFE SRI
+
+MSCI EAFE
+
+4.04
+-4.73
+25.84
+16.41
+-9.89
+8.70
+35.23
+-43.15
+
+-0.81
+-4.90
+22.78
+17.32
+-12.14
+7.75
+31.78
+-43.38
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+150
+
+100
+
+50
+
+0
+Sep 07
+
+INDEX PERFORMANCE — NET RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI EAFE SRI
+MSCI EAFE
+
+1 Mo
+
+0.56
+-0.91
+
+3 Mo
+
+9.99
+8.59
+
+1 Yr
+
+-4.18
+-9.68
+
+YTD
+
+1.36
+-1.10
+
+3 Yr
+
+5.01
+2.00
+
+5 Yr
+
+4.41
+2.12
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+1.13
+-0.80
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+3.16
+3.38
+
+18.56
+18.14
+
+15.86
+14.64
+
+P/BV
+
+1.80
+1.55
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MSCI EAFE SRI
+MSCI EAFE
+
+Turnover
+
+(%) 1
+12.40
+2.34
+
+3 Yr
+
+12.73
+13.31
+
+1Last 12 months
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+14.61
+15.30
+
+0.43
+0.20
+2 Based on monthly net returns data
+
+na
+na
+
+5 Yr
+
+0.35
+0.20
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+0.12
+0.02
+
+(%)
+
+59.40
+60.41
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2007-10-31—2009-03-09
+2007-10-31—2009-03-09
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+* DM countries include: Australia, Austria, Belgium, Denmark, Finland, France, Germany, Hong Kong, Ireland, Israel, Italy, Japan, the Netherlands, New Zealand, Norway, Portugal, Singapore, Spain, Sweden,
+Switzerland and the UK.
+
+The MSCI EAFE SRI Index was launched on Jan 16, 2012. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI EAFE SRI INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI EAFE SRI
+
+220
+
+Mkt Cap ( USD Millions)
+
+3,323,869.40
+184,367.94
+1,208.94
+15,108.50
+8,036.30
+
+ROCHE HOLDING GENUSS
+NOVO NORDISK B
+VODAFONE GROUP
+SAP
+ALLIANZ
+WESTPAC BANKING
+UNILEVER NV (NL) CERT
+UNILEVER PLC (GB)
+NATIONAL GRID
+BT GROUP
+Total
+
+Country
+
+CH
+DK
+GB
+DE
+DE
+AU
+NL
+GB
+GB
+GB
+
+Mkt Cap
+( USD Billions)
+184.37
+109.03
+89.22
+79.83
+74.63
+73.90
+73.20
+58.77
+54.87
+54.57
+852.40
+
+Index
+Wt. (%)
+5.55
+3.28
+2.68
+2.40
+2.25
+2.22
+2.20
+1.77
+1.65
+1.64
+25.64
+
+Sector Sector
+Wt. (%)
+Health Care 42.9
+Health Care 25.3
+Telecom Srvcs 38.7
+Info Tech 41.9
+9.8
+Financials
+Financials
+9.7
+Cons Staples 18.7
+Cons Staples 15.0
+Utilities 43.5
+Telecom Srvcs 23.7
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+11.75%
+
+12.46%
+
+12.94%
+
+13.13%
+
+7.87%
+
+6.94%
+
+5.74%
+
+3.79%
+
+2.45%
+
+22.92%
+
+8.51%
+
+8.97%
+
+9.33%
+
+19.57%
+
+30.42%
+
+23.21%
+
+Financials 22.92%
+
+Consumer Discretionary 13.13%
+
+Health Care 12.94%
+
+Japan 23.21%
+
+United Kingdom 19.57%
+
+France 9.33%
+
+Australia 8.97%
+
+Industrials 12.46%
+
+Consumer Staples 11.75%
+
+Materials 7.87%
+
+Switzerland 8.51%
+
+Other 30.42%
+
+Telecommunication Services 6.94%
+
+Information Technology 5.74%
+
+Utilities 3.79%
+
+Energy 2.45%
+
+INDEX METHODOLOGY
+The MSCI Global SRI Indexes are constructed by applying a combination of values based exclusions and a Best-in-Class selection process to companies in the regional indexes that
+
+make up MSCI ACWI, a global equity index consisting of developed and emerging market countries. After securities of companies involved in Nuclear Power, Tobacco, Alcohol, Gambling,
+
+Military Weapons, Civilian Firearms, GMOs and Adult Entertainment are excluded, MSCI’s Best‐in‐Class selection process is applied to the remaining eligible securities in the selection
+
+universe.
+
+The MSCI Global SRI Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk introduced by the ESG selection process. The
+
+methodology aims to include the securities of companies with the highest ESG ratings making up 25% of the market capitalization in each sector and region of the parent indexes.
+
+Companies that are not existing constituents of the MSCI Global SRI Indexes must have an MSCI ESG Rating of ‘A’ or above and an Impact Monitor score of 4 or above to be eligible.
+
+Current constituents of the MSCI Global SRI Indexes must have an MSCI ESG Rating of BB or above and an Impact Monitor score of 2 or above to be eligible. The selection universe
+
+for the MSCI Global SRI Indexes is the constituents of the MSCI Global Investable Market Indexes. The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the
+
+MSCI Global SRI Indexes takes place in May, and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI EAFE SRI INDEX
+
+

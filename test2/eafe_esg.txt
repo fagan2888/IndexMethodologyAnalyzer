@@ -1,0 +1,426 @@
+MSCI EAFE ESG INDEX (USD)
+
+The MSCI EAFE ESG Index is a capitalization weighted index that provides exposure to companies with high Environmental, Social and
+Governance (ESG) performance relative to their sector peers. MSCI EAFE ESG consists of large and mid cap companies across Developed
+Markets countries* around the world, excluding the US and Canada. The Index is designed for investors seeking a broad, diversiﬁed
+sustainability benchmark with relatively low tracking error to the underlying equity market. The index is a member of the MSCI Global
+Sustainability Index series. Constituent selection is based on data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - NET RETURNS  (USD)  (AUG 2010 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+200
+
+150
+
+100
+
+50
+Aug 10
+
+MSCI EAFE ESG
+MSCI EAFE
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+
+147.79
+138.19
+
+MSCI EAFE ESG
+
+MSCI EAFE
+
+2.31
+-4.38
+24.24
+17.03
+-10.67
+
+-0.81
+-4.90
+22.78
+17.32
+-12.14
+
+Feb 11
+
+Aug 11
+
+Feb 12
+
+Jul 12
+
+Jan 13
+
+Jul 13
+
+Jan 14
+
+Jul 14
+
+Dec 14
+
+Jun 15 Dec 15
+
+ May 16
+
+INDEX PERFORMANCE — NET RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI EAFE ESG
+MSCI EAFE
+
+1 Mo
+
+0.02
+-0.91
+
+3 Mo
+
+9.35
+8.59
+
+1 Yr
+
+-7.40
+-9.68
+
+YTD
+
+-0.50
+-1.10
+
+3 Yr
+
+3.50
+2.00
+
+5 Yr
+
+3.59
+2.12
+
+10 Yr
+
+na
+na
+
+Since
+
+Aug 31, 2010
+
+7.03
+5.78
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+3.41
+3.38
+
+16.98
+18.14
+
+14.78
+14.64
+
+P/BV
+
+1.67
+1.55
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MSCI EAFE ESG
+MSCI EAFE
+
+Turnover
+
+(%) 1
+4.49
+2.34
+
+3 Yr
+
+12.85
+13.31
+
+1Last 12 months
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+14.82
+15.30
+
+0.31
+0.20
+2 Based on monthly net returns data
+
+na
+na
+
+5 Yr
+
+0.30
+0.20
+
+10 Yr
+
+na
+na
+
+Since
+
+Aug 31, 2010
+
+0.51
+0.42
+
+(%)
+
+20.74
+22.56
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2015-05-15—2016-02-12
+2014-07-03—2016-02-12
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+* Developed Markets countries in the MSCI EAFE Index include: Australia, Austria, Belgium, Denmark, Finland, France, Germany, Hong Kong, Ireland, Israel, Italy, Japan, the Netherlands, New Zealand, Norway,
+Portugal, Singapore, Spain, Sweden, Switzerland and the UK.
+
+The MSCI EAFE ESG Index was launched on Sep 01, 2010. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI EAFE ESG INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI EAFE ESG
+
+421
+
+Mkt Cap ( USD Millions)
+
+6,026,786.06
+184,367.94
+898.85
+14,315.41
+7,525.59
+
+Country
+
+CH
+ROCHE HOLDING GENUSS
+CH
+NOVARTIS
+GB
+HSBC HOLDINGS (GB)
+DK
+NOVO NORDISK B
+GLAXOSMITHKLINE
+GB
+COMMONWEALTH BANK OF AUS AU
+VODAFONE GROUP
+GB
+DE
+SAP
+DE
+ALLIANZ
+WESTPAC BANKING
+AU
+Total
+
+Mkt Cap
+( USD Billions)
+184.37
+180.58
+126.87
+109.03
+102.36
+95.78
+89.22
+79.83
+74.63
+73.90
+1,116.58
+
+Index
+Wt. (%)
+3.06
+3.00
+2.11
+1.81
+1.70
+1.59
+1.48
+1.32
+1.24
+1.23
+18.53
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+Financials
+
+Sector Sector
+Wt. (%)
+Health Care 23.3
+Health Care 22.8
+8.3
+Health Care 13.8
+Health Care 13.0
+6.3
+Telecom Srvcs 26.5
+Info Tech 26.0
+4.9
+Financials
+Financials
+4.8
+
+Financials
+
+10.86%
+
+12.86%
+
+13.11%
+
+13.55%
+
+7.9%
+
+5.58%
+
+5.1%
+
+4.04%
+
+1.58%
+
+25.42%
+
+8.45%
+
+8.66%
+
+9.32%
+
+18.77%
+
+31.33%
+
+23.47%
+
+Financials 25.42%
+
+Industrials 13.55%
+
+Health Care 13.11%
+
+Japan 23.47%
+
+United Kingdom 18.77%
+
+Switzerland 9.32%
+
+France 8.66%
+
+Consumer Discretionary 12.86%
+
+Consumer Staples 10.86%
+
+Materials 7.9%
+
+Australia 8.45%
+
+Other 31.33%
+
+Telecommunication Services 5.58%
+
+Information Technology 5.1%
+
+Utilities 4.04%
+
+Energy 1.58%
+
+INDEX METHODOLOGY
+The MSCI Global Sustainability Indexes are constructed by applying a Best‐in‐Class selection process to companies in the regional indexes
+that make up MSCI ACWI, a global equity index consisting of developed and emerging market countries.
+
+The Global Sustainability Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk
+introduced by the ESG selection process. The methodology aims to include securities of companies with the highest ESG ratings representing
+50% of the market capitalization in each sector and region of the parent Index. Companies that are not existing constituents of The Global
+Sustainability Indexes must have an MSCI ESG Rating of 'BB' or above and an Impact Monitor score of 3 or above to be eligible. The selection
+universe for The Global Sustainability Indexes is the constituents of the MSCI Global Investable Market Indexes.
+
+The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the MSCI Global Sustainability Indexes takes place in May,
+and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI EAFE ESG INDEX
+
+

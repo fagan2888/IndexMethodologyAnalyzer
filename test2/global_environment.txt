@@ -1,0 +1,421 @@
+MSCI GLOBAL ENVIRONMENT INDEX (USD)
+
+The  MSCI  Global  Environment  Indexes  are  comprised  of  securities  of  companies  that  derive  at  least  50%  of  their  revenues  from
+environmentally beneﬁcial products and services. The indexes are based on key environmental themes: Alternative Energy, Sustainable
+Water, Green Building, Pollution Prevention or Clean Technology. The indexes aim to serve as benchmarks for investors seeking exposure
+to  companies  whose  primary  source  of  revenues  increase  the  eﬃcient  use  of  scarce  natural  resources  or  mitigate  the  impact  of
+environmental degradation. MSCI calculates the Global Environment Index and 5 thematic sub-indexes. Constituent selection is based on
+data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (USD)  (NOV 2008 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Global Environment
+MSCI ACWI IMI
+
+231.64
+
+209.51
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+
+MSCI Global
+Environment
+
+MSCI ACWI IMI
+
+-4.84
+-6.69
+37.51
+18.10
+-15.79
+15.93
+31.13
+
+-1.68
+4.36
+24.17
+17.04
+-7.43
+14.87
+37.18
+
+Jul 09
+
+Feb 10 Oct 10 May 11
+
+Jan 12
+
+Aug 12
+
+Apr 13
+
+Nov 13
+
+Jul 14
+
+Feb 15 Oct 15
+
+ May 16
+
+200
+
+100
+
+50
+Nov 08
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Global Environment
+MSCI ACWI IMI
+
+1 Mo
+
+-0.04
+0.28
+
+3 Mo
+
+1 Yr
+
+11.47
+9.71
+
+-7.49
+-4.79
+
+YTD
+
+4.71
+2.37
+
+3 Yr
+
+3.41
+5.88
+
+5 Yr
+
+3.30
+5.79
+
+10 Yr
+
+na
+na
+
+Since
+
+Nov 28, 2008
+
+10.35
+11.84
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.44
+2.58
+
+25.54
+20.21
+
+17.53
+15.75
+
+P/BV
+
+2.12
+1.98
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Global Environment
+MSCI ACWI IMI
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+25.06
+2.98
+
+3 Yr
+
+14.80
+11.97
+
+5 Yr
+
+10 Yr
+
+16.93
+13.67
+
+na
+na
+
+3 Yr
+
+0.28
+0.52
+
+5 Yr
+
+0.26
+0.46
+
+10 Yr
+
+na
+na
+
+Since
+
+Nov 28, 2008
+
+0.59
+0.76
+
+(%)
+
+25.83
+19.19
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2014-06-19—2016-02-11
+2015-05-21—2016-02-11
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI Global Environment Index was launched on Jan 20, 2009. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index
+existed). There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI GLOBAL ENVIRONMENT INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Global Environment
+
+229
+
+Mkt Cap ( USD Millions)
+
+703,342.09
+45,740.74
+34.34
+3,071.36
+923.41
+
+ABB LTD
+SCHNEIDER ELECTRIC
+EMERSON ELECTRIC CO
+EAST JAPAN RAILWAY CO
+EATON CORP PLC
+ENGIE
+TESLA MOTORS
+SAINT-GOBAIN
+CENTRICA
+VESTAS WIND SYSTEMS
+Total
+
+Country
+
+CH
+FR
+US
+JP
+US
+FR
+US
+FR
+GB
+DK
+
+Mkt Cap
+( USD Billions)
+45.74
+36.11
+34.05
+30.49
+28.52
+22.52
+21.92
+21.29
+16.09
+16.06
+272.81
+
+Index
+Wt. (%)
+6.50
+5.13
+4.84
+4.33
+4.06
+3.20
+3.12
+3.03
+2.29
+2.28
+38.79
+
+Sector Sector
+Wt. (%)
+Industrials 13.3
+Industrials 10.5
+9.9
+Industrials
+8.8
+Industrials
+Industrials
+8.3
+Utilities 16.6
+Cons Discr 28.9
+6.2
+Industrials
+Utilities 11.8
+4.7
+
+Industrials
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+19.32%
+
+7.7%
+
+7.78%
+
+14.03%
+
+14.45%
+
+10.78%
+
+3.58%
+
+2.4%
+
+0.36%
+
+0.11%
+
+49%
+
+6.5%
+
+17.02%
+
+46.96%
+
+Industrials 49%
+
+Utilities 19.32%
+
+Information Technology 14.45%
+
+United States 46.96%
+
+France 14.03%
+
+United Kingdom 7.78%
+
+Japan 7.7%
+
+Consumer Discretionary 10.78%
+
+Financials 3.58%
+
+Materials 2.4%
+
+Switzerland 6.5%
+
+Other 17.02%
+
+Consumer Staples 0.36%
+
+Energy 0.11%
+
+INDEX METHODOLOGY
+The MSCI Global Environment Indexes are drawn from the universe of the MSCI ACWI IMI (Investable Market Index), a broad market benchmark
+of developed and emerging market large, mid and small cap securities. Securities of companies in the indexes derive at least 50% of their
+revenues from products and services from Alternative Energy, Sustainable Water, Green Building, Pollution Prevention or Clean Technology.
+
+The composition of the MSCI Global Environment Indexes is fully reviewed semi-annually in May and November. At each semi-annual index
+review, eligible securities may be added to the MSCI Global Environment Indexes and an existing constituent may be deleted from the indexes
+if they show declining involvement in one of the ﬁve environmental themes. In addition, the indexes are also reviewed in February and August
+to reﬂect additions to and deletions from the MSCI ACWI IMI.
+
+The Index utilizes ﬂoat-adjusted market capitalization weighting.  The changes to the MSCI Global Environment Indexes resulting from the
+semi-annual and quarterly index reviews are eﬀective at the open of the ﬁrst business day of March, June, September and December.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI GLOBAL ENVIRONMENT INDEX
+
+

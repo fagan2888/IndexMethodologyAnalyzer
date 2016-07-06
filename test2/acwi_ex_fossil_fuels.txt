@@ -1,0 +1,437 @@
+MSCI ACWI EX FOSSIL FUELS INDEX (USD)
+
+The MSCI ACWI ex Fossil Fuels Index is based on the MSCI ACWI Index, its parent index, and includes large and mid-cap stocks across
+23 Developed Markets (DM) and 23 Emerging Markets (EM) countries*. The index represents the performance of the broad market while
+excluding companies that own oil, gas and coal reserves. It is a benchmark for investors who aim to eliminate fossil fuel reserves exposure
+from their investments due to concerns about the contribution of these reserves to climate change. The Index is a member of the MSCI
+Global Fossil Fuels Exclusion Index family.
+
+CUMULATIVE INDEX PERFORMANCE - NET RETURNS  (USD)  (NOV 2010 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI ACWI ex Fossil Fuels
+MSCI ACWI
+
+200
+
+150
+
+100
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+
+154.92
+146.88
+
+MSCI ACWI ex
+Fossil Fuels
+
+MSCI ACWI
+
+-0.49
+6.05
+24.36
+18.00
+-7.50
+
+-2.36
+4.16
+22.80
+16.13
+-7.35
+
+50
+Nov 10 May 11 Oct 11
+
+Apr 12
+
+Sep 12 Mar 13
+
+Aug 13
+
+Feb 14
+
+Jul 14
+
+Jan 15
+
+Jun 15 Dec 15
+
+ May 16
+
+INDEX PERFORMANCE — NET RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI ACWI ex Fossil Fuels
+MSCI ACWI
+
+1 Mo
+
+0.42
+0.13
+
+3 Mo
+
+8.70
+9.13
+
+1 Yr
+
+-4.68
+-5.42
+
+YTD
+
+1.20
+1.85
+
+3 Yr
+
+6.39
+5.20
+
+5 Yr
+
+6.45
+5.17
+
+10 Yr
+
+na
+na
+
+Since
+
+Nov 30, 2010
+
+8.28
+7.23
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.55
+2.65
+
+18.13
+19.33
+
+15.12
+15.43
+
+P/BV
+
+2.12
+2.03
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( NOV 30, 2010 – MAY 31, 2016 )
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MAXIMUM DRAWDOWN
+
+Tracking
+Error (%)
+
+Turnover
+
+(%) 1
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+(%)
+
+Period YYYY-MM-DD
+
+MSCI ACWI ex Fossil Fuels
+MSCI ACWI
+
+Beta
+
+0.97
+1.00
+
+1.04
+0.00
+
+3.81
+3.18
+1Last 12 months
+
+11.72
+11.97
+
+13.21
+13.57
+2 Based on monthly net returns data
+
+0.57
+0.46
+
+na
+na
+
+0.52
+0.42
+
+Since
+Nov 30,
+2010
+0.66
+0.57
+
+na
+na
+
+18.03
+19.20
+3 Based on BBA LIBOR 1M
+
+2015-05-21—2016-02-11
+2015-05-21—2016-02-11
+
+* DM countries include: Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Hong Kong, Ireland, Israel, Italy, Japan, Netherlands, New Zealand, Norway, Portugal, Singapore, Spain, Sweden,
+Switzerland, the UK and the US. EM countries include: Brazil, Chile, China, Colombia, Czech Republic, Egypt, Greece, Hungary, India, Indonesia, Korea, Malaysia, Mexico, Peru, Philippines, Poland, Russia, Qatar,
+South Africa, Taiwan, Thailand, Turkey and United Arab Emirates.
+
+The MSCI ACWI ex Fossil Fuels Index was launched on Oct 16, 2014. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index
+existed). There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI ACWI EX FOSSIL FUELS INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Largest
+Smallest
+Average
+Median
+
+MSCI ACWI ex
+Fossil Fuels
+
+2,354
+
+MSCI ACWI
+
+2,476
+
+Weight  (%)
+
+1.7
+0.09 bps
+4.25 bps
+1.66 bps
+
+1.6
+0.09 bps
+4.04 bps
+1.58 bps
+
+APPLE
+MICROSOFT CORP
+JOHNSON & JOHNSON
+AMAZON.COM
+GENERAL ELECTRIC CO
+FACEBOOK A
+WELLS FARGO & CO
+AT&T
+JPMORGAN CHASE & CO
+NESTLE
+Total
+
+Country
+
+Index
+Wt. (%)
+
+US
+US
+US
+US
+US
+US
+US
+US
+US
+CH
+
+1.66
+1.20
+0.93
+0.86
+0.85
+0.80
+0.73
+0.72
+0.71
+0.70
+9.15
+
+Parent
+Index
+Wt. (%)
+1.55
+1.12
+0.87
+0.80
+0.80
+0.75
+0.69
+0.67
+0.67
+0.66
+8.58
+
+Sector Sector
+Wt. (%)
+
+Info Tech 10.5
+7.6
+Info Tech
+7.2
+Health Care
+6.4
+Cons Discr
+7.6
+Industrials
+Info Tech
+5.1
+3.3
+Financials
+Telecom Srvcs 17.2
+3.2
+6.2
+
+Financials
+Cons Staples
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+11.23%
+
+12.91%
+
+13.37%
+
+15.84%
+
+11.16%
+
+4.58%
+
+4.16%
+
+3.11%
+
+1.6%
+
+22.03%
+
+3.15%
+
+3.27%
+
+5.73%
+
+8.19%
+
+54.2%
+
+25.47%
+
+Financials 22.03%
+
+Information Technology 15.84%
+
+Consumer Discretionary 13.37%
+
+France 3.15%
+
+Other 25.47%
+
+Health Care 12.91%
+
+Consumer Staples 11.23%
+
+Industrials 11.16%
+
+Materials 4.58%
+
+Telecommunication Services 4.16%
+
+Utilities 3.11%
+
+Energy 1.6%
+
+United States 54.2%
+
+Japan 8.19%
+
+United Kingdom 5.73%
+
+Switzerland 3.27%
+
+INDEX METHODOLOGY
+The MSCI ACWI ex Fossil Fuels Index is reviewed on a quarterly basis to coincide with the regular Semi‐Annual and Quarterly Index Reviews
+of the MSCI Global Investable Market Indexes. At index reviews, all companies in the underlying universe are reviewed for inclusion in the
+MSCI ACWI ex Fossil Fuels Indexes. Any constituent identiﬁed as having fossil fuel reserves (proved & probable coal reserves, oil & natural
+gas reserves) that are used for energy purposes is excluded. Any constituent that is deleted from the Parent index as a result of an index
+review is also deleted from the MSCI ACWI ex Fossil Fuels Index.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI ACWI EX FOSSIL FUELS INDEX
+
+

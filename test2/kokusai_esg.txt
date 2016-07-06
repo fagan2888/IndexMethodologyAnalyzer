@@ -1,0 +1,430 @@
+MSCI KOKUSAI ESG INDEX (USD)
+
+The MSCI Kokusai ESG Index is a capitalization weighted index that provides exposure to companies with high Environmental, Social
+and Governance (ESG) performance relative to their sector peers. MSCI Kokusai (World ex Japan) ESG consists of large and mid cap
+companies in 22 Developed Markets Countries*. The Index is designed for investors seeking a broad, diversiﬁed sustainability benchmark
+with relatively low tracking error to the underlying equity market. The index is a member of the MSCI Global Sustainability Index series.
+Constituent selection is based on data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - PRICE RETURNS  (USD)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Kokusai ESG
+MSCI Kokusai Index
+
+109.71
+104.70
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+MSCI Kokusai ESG
+
+MSCI Kokusai
+
+Index
+
+-4.18
+3.68
+24.78
+12.68
+-6.40
+8.49
+32.41
+-41.92
+
+-3.66
+3.75
+24.03
+13.93
+-6.65
+9.14
+29.95
+-43.33
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+150
+
+100
+
+50
+
+0
+Sep 07
+
+INDEX PERFORMANCE — PRICE RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Kokusai ESG
+MSCI Kokusai Index
+
+1 Mo
+
+0.32
+0.35
+
+3 Mo
+
+8.49
+8.30
+
+1 Yr
+
+-4.58
+-5.50
+
+YTD
+
+1.92
+1.18
+
+3 Yr
+
+4.32
+4.59
+
+5 Yr
+
+4.56
+4.46
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+1.07
+0.53
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.71
+2.67
+
+20.55
+21.00
+
+16.78
+16.38
+
+P/BV
+
+2.52
+2.29
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Kokusai ESG
+MSCI Kokusai Index
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+7.99
+2.79
+
+3 Yr
+
+11.73
+11.98
+
+5 Yr
+
+10 Yr
+
+13.35
+13.61
+
+na
+na
+
+3 Yr
+
+0.40
+0.42
+
+5 Yr
+
+0.38
+0.37
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+0.11
+0.08
+
+(%)
+
+58.96
+59.97
+
+1Last 12 months
+
+2 Based on monthly price returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2007-10-31—2009-03-09
+2007-10-31—2009-03-09
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+*  Developed Markets countries include: Australia, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Hong Kong, Ireland, Israel, Italy, Netherlands, New Zealand, Norway, Portugal, Singapore, Spain,
+Sweden, Switzerland, the UK and the US.
+
+The MSCI Kokusai ESG Index was launched on Jun 28, 2011. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI KOKUSAI ESG INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Kokusai ESG
+
+653
+
+Mkt Cap ( USD Millions)
+
+14,762,313.47
+311,806.92
+898.85
+22,606.91
+11,375.57
+
+JOHNSON & JOHNSON
+ALPHABET C
+PROCTER & GAMBLE CO
+ALPHABET A
+VERIZON COMMUNICATIONS
+ROCHE HOLDING GENUSS
+NOVARTIS
+BERKSHIRE HATHAWAY B
+MERCK & CO
+DISNEY (WALT)
+Total
+
+Country
+
+US
+US
+US
+US
+US
+CH
+CH
+US
+US
+US
+
+Mkt Cap
+( USD Billions)
+311.81
+228.77
+220.48
+218.16
+207.11
+184.37
+180.58
+166.67
+157.16
+155.83
+2,030.94
+
+Index
+Wt. (%)
+2.11
+1.55
+1.49
+1.48
+1.40
+1.25
+1.22
+1.13
+1.06
+1.06
+13.76
+
+Sector Sector
+Wt. (%)
+Health Care 14.5
+Info Tech 10.6
+Cons Staples 15.1
+Info Tech 10.2
+Telecom Srvcs 43.1
+8.6
+8.4
+5.1
+7.3
+9.2
+
+Health Care
+Health Care
+Financials
+Health Care
+Cons Discr
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+9.89%
+
+11.46%
+
+14.54%
+
+14.55%
+
+9.76%
+6.02%
+
+4.76%
+
+3.72%
+
+3.26%
+
+22.04%
+
+4.44%
+
+7.66%
+
+64.32%
+
+3.8%
+
+3.54%
+16.24%
+
+Financials 22.04%
+
+Information Technology 14.55%
+
+Health Care 14.54%
+
+France 3.54%
+
+Other 16.24%
+
+Consumer Discretionary 11.46%
+
+Consumer Staples 9.89%
+
+Industrials 9.76%
+
+Energy 6.02%
+
+Materials 4.76%
+
+Utilities 3.72%
+
+Telecommunication Services 3.26%
+
+United States 64.32%
+
+United Kingdom 7.66%
+
+Canada 4.44%
+
+Switzerland 3.8%
+
+INDEX METHODOLOGY
+The MSCI Global Sustainability Indexes are constructed by applying a Best‐in‐Class selection process to companies in the regional indexes
+that make up MSCI ACWI, a global equity index consisting of developed and emerging market countries.
+
+The Global Sustainability Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk
+introduced by the ESG selection process. The methodology aims to include securities of companies with the highest ESG ratings representing
+50% of the market capitalization in each sector and region of the parent Index. Companies that are not existing constituents of The Global
+Sustainability Indexes must have an MSCI ESG Rating of 'BB' or above and an Impact Monitor score of 3 or above to be eligible. The selection
+universe for The Global Sustainability Indexes is the constituents of the MSCI Global Investable Market Indexes.
+
+The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the MSCI Global Sustainability Indexes takes place in May,
+and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI KOKUSAI ESG INDEX
+
+

@@ -1,0 +1,423 @@
+MSCI EM LATIN AMERICA ESG INDEX (USD)
+
+The MSCI EM Latin America ESG Index is a capitalization weighted index that provides exposure to companies with high Environmental,
+Social  and  Governance  (ESG)  performance  relative  to  their  sector  peers.  MSCI  EM  Latin  America  ESG  consists  of  large  and  mid  cap
+companies across 5 Emerging Markets (EM) countries* in Latin America. The Index is designed for investors seeking a broad, diversiﬁed
+sustainability benchmark with relatively low tracking error to the underlying equity market. The index is a member of the MSCI Global
+Sustainability Index series. Constituent selection is based on data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (USD)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+200
+
+150
+
+100
+
+50
+
+0
+Sep 07
+
+MSCI EM Latin America ESG
+MSCI EM Latin America
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+92.83
+
+64.18
+
+MSCI EM Latin
+America ESG
+
+MSCI EM
+
+Latin America
+
+-32.27
+-5.02
+-10.44
+15.96
+-13.65
+20.36
+108.84
+-46.09
+
+-30.82
+-12.03
+-13.15
+8.90
+-19.15
+14.89
+104.19
+-51.28
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+1 Mo
+
+3 Mo
+
+1 Yr
+
+YTD
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+ANNUALIZED
+
+MSCI EM Latin America ESG
+MSCI EM Latin America
+
+-10.03
+-10.77
+
+14.79
+13.86
+
+-13.33
+-15.98
+
+15.09
+12.76
+
+-12.88
+-14.02
+
+-7.98
+-11.88
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+-0.85
+-4.98
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+3.15
+2.96
+
+14.28
+20.26
+
+12.14
+10.28
+
+P/BV
+
+1.77
+1.62
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI EM Latin America ESG
+MSCI EM Latin America
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+12.61
+3.81
+
+3 Yr
+
+26.39
+25.55
+
+5 Yr
+
+10 Yr
+
+25.42
+25.19
+
+na
+na
+
+3 Yr
+
+-0.40
+-0.47
+
+5 Yr
+
+-0.21
+-0.38
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+0.10
+-0.06
+
+(%)
+
+54.64
+67.72
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2014-09-03—2016-01-20
+2008-05-19—2008-11-21
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+* EM Latin America countries include: Brazil, Chile, Colombia, Mexico, and Peru.
+
+The MSCI EM Latin America ESG Index was launched on Jul 12, 2013. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index
+existed). There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI EM LATIN AMERICA ESG INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI EM Latin America ESG
+
+56
+
+Mkt Cap ( USD Millions)
+
+217,827.46
+24,492.29
+626.67
+3,889.78
+2,284.33
+
+ITAU UNIBANCO PN
+BANCO BRADESCO PN
+FEMSA UNIT UBD
+CIELO ON
+CEMEX CPO
+BRF ON
+ITAUSA PN
+BM&F BOVESPA ON
+ULTRAPAR PART ON
+BANCO BRADESCO ON
+Total
+
+Country
+
+BR
+BR
+MX
+BR
+MX
+BR
+BR
+BR
+BR
+BR
+
+Mkt Cap
+( USD Billions)
+24.49
+17.58
+16.64
+8.98
+8.93
+8.30
+7.72
+7.62
+6.85
+5.67
+112.78
+
+Index
+Wt. (%)
+11.24
+8.07
+7.64
+4.12
+4.10
+3.81
+3.54
+3.50
+3.15
+2.60
+51.77
+
+Sector Sector
+Wt. (%)
+Financials 33.2
+Financials 23.8
+Cons Staples 35.7
+Info Tech 100.0
+Materials 31.8
+Cons Staples 17.8
+Financials 10.4
+Financials 10.3
+Energy 57.8
+7.7
+
+Financials
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+7.88%
+
+12.9%
+
+21.37%
+
+6.56%
+
+5.45%
+
+4.57%
+
+4.12%
+
+2.86%
+
+0.38%
+
+33.91%
+
+Financials 33.91%
+
+Consumer Staples 21.37%
+
+Materials 12.9%
+
+Industrials 7.88%
+
+Consumer Discretionary 6.56%
+
+Energy 5.45%
+
+Utilities 4.57%
+
+Information Technology 4.12%
+
+Telecommunication Services 2.86%
+
+Health Care 0.38%
+
+27.88%
+
+7.59%
+
+3.06%
+
+61.47%
+
+Brazil 61.47%
+
+Mexico 27.88%
+
+Chile 7.59%
+
+Colombia 3.06%
+
+INDEX METHODOLOGY
+The MSCI Global Sustainability Indexes are constructed by applying a Best‐in‐Class selection process to companies in the regional indexes
+that make up MSCI ACWI, a global equity index consisting of developed and emerging market countries.
+
+The Global Sustainability Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk
+introduced by the ESG selection process. The methodology aims to include securities of companies with the highest ESG ratings representing
+50% of the market capitalization in each sector and region of the parent Index. Companies that are not existing constituents of The Global
+Sustainability Indexes must have an MSCI ESG Rating of 'BB' or above and an Impact Monitor score of 3 or above to be eligible. The selection
+universe for The Global Sustainability Indexes is the constituents of the MSCI Global Investable Market Indexes.
+
+The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the MSCI Global Sustainability Indexes takes place in May,
+and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI EM LATIN AMERICA ESG INDEX
+
+

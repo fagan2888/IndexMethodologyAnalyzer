@@ -1,0 +1,330 @@
+MSCI SRI LANKA INDEX (USD)
+
+The MSCI Sri Lanka Index is designed to measure the performance of the large and mid cap segments of the Sri Lankan market. With 3
+constituents, the index covers approximately 85% of the Sri Lanka equity universe.
+
+CUMULATIVE INDEX PERFORMANCE - NET RETURNS  (USD)  (MAY 2002 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Sri Lanka
+MSCI Frontier Markets
+
+600
+
+400
+
+200
+
+50
+May 02
+
+452.01
+
+290.34
+
+Jul 03
+
+Sep 04 Nov 05
+
+Jan 07 Mar 08 May 09
+
+Jul 10
+
+Sep 11 Nov 12
+
+Jan 14 Mar 15
+
+ May 16
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+
+MSCI Sri Lanka
+
+MSCI Frontier
+
+Markets
+
+-22.35
+18.90
+10.41
+5.21
+-27.67
+73.88
+190.75
+-59.64
+-13.61
+45.41
+33.45
+10.82
+45.75
+
+-14.46
+6.84
+25.89
+8.85
+-18.73
+23.75
+11.61
+-54.15
+41.94
+-8.91
+72.68
+22.58
+43.45
+
+INDEX PERFORMANCE — NET RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Sri Lanka
+MSCI Frontier Markets
+
+1 Mo
+
+-1.22
+1.01
+
+3 Mo
+
+-1.17
+6.94
+
+1 Yr
+
+YTD
+
+3 Yr
+
+-16.91
+-9.01
+
+-10.95
+3.11
+
+-10.86
+0.27
+
+5 Yr
+
+-6.62
+1.99
+
+10 Yr
+
+4.81
+0.29
+
+Since
+
+May 31, 2002
+
+11.37
+7.90
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+4.25
+4.50
+
+11.78
+11.01
+
+na
+na
+
+P/BV
+
+1.43
+1.40
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MSCI Sri Lanka
+MSCI Frontier Markets
+
+Turnover
+
+(%) 1
+2.89
+12.73
+1Last 12 months
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+20.97
+12.45
+
+22.02
+11.84
+
+-0.45
+0.07
+2 Based on monthly net returns data
+
+33.08
+19.18
+
+5 Yr
+
+-0.21
+0.21
+
+10 Yr
+
+0.25
+0.05
+
+Since
+
+May 31, 2002
+
+0.43
+0.42
+
+(%)
+
+45.74
+67.47
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2010-10-01—2012-07-18
+2008-01-15—2009-03-03
+
+The MSCI Sri Lanka Index was launched on Jan 01, 2001. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI SRI LANKA INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 3 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Sri Lanka
+
+3
+
+Mkt Cap ( USD Millions)
+
+1,470.19
+940.24
+98.79
+490.06
+431.17
+
+SECTOR WEIGHTS
+
+JOHN KEELLS HOLDINGS
+COMMERCIAL BANK CEYLON
+CEYLON TOBACCO CO
+Total
+
+Mkt Cap
+( USD Billions)
+0.94
+0.43
+0.10
+1.47
+
+Index
+Wt. (%)
+63.95
+29.33
+6.72
+100.00
+
+Sector Sector
+Wt. (%)
+Industrials 100.0
+Financials 100.0
+Cons Staples 100.0
+
+29.33%
+
+6.72%
+
+63.95%
+
+Industrials 63.95%
+
+Financials 29.33%
+
+Consumer Staples 6.72%
+
+INDEX METHODOLOGY
+The index is based on the MSCI Global Investable Indexes (GIMI) Methodology—a comprehensive and consistent approach to index construction
+that allows for meaningful global views and cross regional comparisons across all market capitalization size, sector and style segments and
+combinations. This methodology aims to provide exhaustive coverage of the relevant investment opportunity set with a strong emphasis on
+index liquidity, investability and replicability. The index is reviewed quarterly—in February, May, August and November—with the objective
+of reﬂecting change in the underlying equity markets in a timely manner, while limiting undue index turnover. During the May and November
+semi-annual index reviews, the index is rebalanced and the large and mid capitalization cutoﬀ points are recalculated.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI SRI LANKA INDEX
+
+

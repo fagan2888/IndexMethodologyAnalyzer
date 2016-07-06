@@ -1,0 +1,437 @@
+MSCI NORTH AMERICA LOW CARBON LEADERS
+INDEX (USD)
+
+The MSCI North America Low Carbon Leaders Index is based on the MSCI North America Index, its parent index, and includes large and
+mid-cap stocks from the US and Canada equity markets. The index addresses two dimensions of carbon exposure – carbon emissions
+and fossil fuel reserves – providing clients with an eﬀective tool for limiting the exposure of their portfolios to carbon risk. By excluding
+companies with the highest carbon emissions intensity and the largest owners of carbon reserves per dollar of market capitalization, the
+index aims to achieve at least 50% reduction in its carbon footprint. The index also aims to maintain wide and consistent market exposure
+by minimizing the tracking error relative to the MSCI North America Index. The MSCI Global Low Carbon Leaders Indexes use MSCI ESG
+CarbonMetrics data from MSCI ESG Research Inc.
+
+CUMULATIVE INDEX PERFORMANCE - NET RETURNS  (USD)  (NOV 2010 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI North America Low Carbon Leaders
+MSCI North America
+
+200
+
+150
+
+100
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+
+186.97
+182.21
+
+MSCI North
+America Low
+
+Carbon Leaders
+
+MSCI North
+
+America
+
+0.25
+11.00
+31.24
+16.43
+-0.43
+
+-0.90
+11.90
+29.57
+14.77
+-0.07
+
+50
+Nov 10 May 11 Oct 11
+
+Apr 12
+
+Sep 12 Mar 13
+
+Aug 13
+
+Feb 14
+
+Jul 14
+
+Jan 15
+
+Jun 15 Dec 15
+
+ May 16
+
+INDEX PERFORMANCE — NET RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+1 Mo
+
+3 Mo
+
+1 Yr
+
+YTD
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+Since
+
+Nov 30, 2010
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+ANNUALIZED
+
+MSCI North America Low
+Carbon Leaders
+MSCI North America
+
+1.53
+
+1.45
+
+9.46
+
+9.38
+
+0.53
+
+-0.26
+
+3.43
+
+3.60
+
+9.56
+
+9.44
+
+10.21
+
+9.68
+
+na
+
+na
+
+12.04
+
+11.52
+
+2.16
+2.18
+
+20.93
+21.91
+
+16.64
+17.09
+
+P/BV
+
+2.72
+2.75
+
+INDEX RISK AND RETURN CHARACTERISTICS ( NOV 30, 2010 – MAY 31, 2016 )
+
+MSCI North America Low
+Carbon Leaders
+MSCI North America
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+MAXIMUM DRAWDOWN
+
+Beta
+
+Tracking
+Error (%)
+
+Turnover
+
+(%) 1
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+1.01
+
+0.80
+
+14.15
+
+11.48
+
+12.52
+
+na
+
+0.83
+
+0.82
+
+na
+
+Since
+Nov 30,
+2010
+0.97
+
+(%)
+
+Period YYYY-MM-DD
+
+14.57
+
+2015-05-21—2016-02-11
+
+1.00
+
+0.00
+
+3.03
+1Last 12 months
+
+11.40
+
+12.34
+2 Based on monthly net returns data
+
+0.83
+
+na
+
+0.79
+
+na
+
+0.94
+
+15.10
+3 Based on BBA LIBOR 1M
+
+2015-05-21—2016-02-11
+
+The MSCI North America Low Carbon Leaders Index was launched on Sep 16, 2014. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time
+period had the index existed). There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee
+of future performance.
+
+MSCI NORTH AMERICA LOW CARBON LEADERS INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Largest
+Smallest
+Average
+Median
+
+MSCI North America
+Low Carbon Leaders
+
+560
+
+MSCI North America
+
+714
+
+Weight  (%)
+
+2.8
+1.54 bps
+17.86 bps
+8.47 bps
+
+2.7
+0.65 bps
+14.01 bps
+6.00 bps
+
+APPLE
+MICROSOFT CORP
+EXXON MOBIL CORP
+JOHNSON & JOHNSON
+GENERAL ELECTRIC CO
+AMAZON.COM
+FACEBOOK A
+WELLS FARGO & CO
+AT&T
+JPMORGAN CHASE & CO
+Total
+
+Index
+Wt. (%)
+2.77
+2.01
+1.97
+1.55
+1.46
+1.44
+1.35
+1.26
+1.23
+1.23
+16.28
+
+Parent Index
+Wt. (%)
+2.74
+1.98
+1.82
+1.53
+1.40
+1.42
+1.33
+1.21
+1.19
+1.18
+15.80
+
+Sector
+
+Info Tech
+Info Tech
+Energy
+Health Care
+Industrials
+Cons Discr
+Info Tech
+Financials
+Telecom Srvcs
+Financials
+
+Sector
+Wt. (%)
+14.0
+10.1
+29.7
+10.7
+17.2
+10.6
+6.8
+7.0
+43.0
+6.8
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+10.05%
+
+13.55%
+
+14.57%
+
+18.09%
+
+8.5%
+
+6.63%
+
+3.27%
+
+2.87%
+
+2.7%
+
+19.78%
+
+93.78%
+
+6.22%
+
+Information Technology 19.78%
+
+Financials 18.09%
+
+Health Care 14.57%
+
+Consumer Discretionary 13.55%
+
+Consumer Staples 10.05%
+
+Industrials 8.5%
+
+Energy 6.63%
+
+Materials 3.27%
+
+Telecommunication Services 2.87%
+
+Utilities 2.7%
+
+United States 93.78%
+
+Canada 6.22%
+
+INDEX METHODOLOGY
+The methodology excludes the top 20% of companies based on carbon emissions intensity, with a maximum of 30% by weight from any sector.
+It also excludes the largest owners of reserves per dollar of market capitalization, representing 50% of the reserves in the parent index. The
+Index is optimized semi-annually to minimize the ex-ante tracking error to the benchmark, subject to the following constraints:
+
+• Turnover: <10% semi-annually;
+• Sector: <2% under- or over-weight; no constraint on Energy; and
+• Country: <2% under- or over-weight.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI NORTH AMERICA LOW CARBON LEADERS INDEX
+
+

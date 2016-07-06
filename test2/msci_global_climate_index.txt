@@ -1,0 +1,416 @@
+MSCI GLOBAL CLIMATE INDEX (USD)
+
+The MSCI Global Climate Index is an equal weighted index of companies that operate in three key environmental areas: clean technology
+and eﬃciency, renewable energy, and future fuels. The index is designed to include companies that are leaders in mitigating immediate and
+long-term factors that contribute to climate change and that may potentially beneﬁt from the de-carbonization of the economy. Constituent
+selection is based on data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (USD)  (JUN 2005 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Global Climate
+MSCI World IMI
+
+200
+
+100
+
+198.44
+
+180.43
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+
+MSCI Global
+
+Climate
+
+MSCI World IMI
+
+-0.44
+0.61
+39.14
+6.38
+-14.03
+6.97
+31.00
+-38.90
+20.70
+19.95
+
+-0.26
+5.07
+28.09
+16.75
+-5.53
+14.10
+32.35
+-40.46
+8.99
+20.65
+
+50
+Jun 05 May 06
+
+Apr 07 Mar 08
+
+Feb 09
+
+Jan 10 Dec 10 Nov 11 Oct 12
+
+Sep 13
+
+Aug 14
+
+Jun 15
+
+ May 16
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Global Climate
+MSCI World IMI
+
+1 Mo
+
+-0.94
+0.73
+
+3 Mo
+
+1 Yr
+
+10.44
+9.74
+
+-4.06
+-3.26
+
+YTD
+
+1.84
+2.43
+
+3 Yr
+
+5.51
+7.17
+
+5 Yr
+
+4.06
+7.14
+
+10 Yr
+
+3.83
+5.33
+
+Since
+
+Jun 30, 2005
+
+5.55
+6.47
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.52
+2.55
+
+29.84
+21.16
+
+20.60
+16.42
+
+P/BV
+
+1.66
+2.08
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Global Climate
+MSCI World IMI
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+35.48
+2.38
+
+3 Yr
+
+13.77
+11.83
+
+5 Yr
+
+15.24
+13.32
+
+10 Yr
+
+18.78
+16.71
+
+3 Yr
+
+0.44
+0.63
+
+5 Yr
+
+0.32
+0.57
+
+10 Yr
+
+0.23
+0.32
+
+Since
+
+Jun 30, 2005
+
+0.30
+0.37
+
+(%)
+
+56.46
+57.69
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2007-10-31—2009-03-09
+2007-10-31—2009-03-09
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI Global Climate Index was launched on Jul 01, 2005. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI GLOBAL CLIMATE INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Global Climate
+
+100
+
+Mkt Cap ( USD Millions)
+
+2,533,913.44
+48,864.53
+11,568.68
+25,339.13
+25,231.91
+
+REC SILICON
+TOSHIBA CORP
+EBARA CORP
+RACKSPACE HOSTING
+TESLA MOTORS
+CANADIAN TIRE CORP A
+HERMAN MILLER
+MITSUBISHI ELECTRIC CORP
+INGERSOLL-RAND A
+VMWARE A
+Total
+
+Country
+
+NO
+JP
+JP
+US
+US
+CA
+US
+JP
+US
+US
+
+Mkt Cap
+( USD Billions)
+48.86
+38.90
+30.93
+30.72
+30.42
+29.57
+29.36
+29.34
+29.28
+29.06
+326.44
+
+Index
+Wt. (%)
+1.93
+1.54
+1.22
+1.21
+1.20
+1.17
+1.16
+1.16
+1.16
+1.15
+12.88
+
+Sector Sector
+Wt. (%)
+Info Tech 10.4
+5.3
+4.2
+6.6
+9.7
+9.5
+4.0
+4.0
+4.0
+6.2
+
+Industrials
+Industrials
+Info Tech
+Cons Discr
+Cons Discr
+Industrials
+Industrials
+Industrials
+Info Tech
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+18.49%
+
+23.18%
+
+12.32%
+
+9.04%
+
+8.01%
+
+28.95%
+
+5.47%
+
+7.23%
+
+7.88%
+
+19.81%
+
+27.03%
+
+32.59%
+
+Industrials 28.95%
+
+Utilities 23.18%
+
+Information Technology 18.49%
+
+United States 32.59%
+
+Japan 19.81%
+
+France 7.88%
+
+United Kingdom 7.23%
+
+Consumer Discretionary 12.32%
+
+Financials 9.04%
+
+Materials 8.01%
+
+Canada 5.47%
+
+Other 27.03%
+
+INDEX METHODOLOGY
+The MSCI Global Climate Index is drawn from the universe of MSCI World IMI, a broad global benchmark of large, mid and small cap companies
+across developed markets countries. The composition of the MSCI Global Climate Index is reviewed on a quarterly basis to coincide with the
+regular index reviews of the MSCI Global Investable Market Indexes. At each Index Review, constituents may be removed from the MSCI Global
+Climate Index due to declining company involvement in a speciﬁc theme. Companies that qualify for inclusion are added to bring the number
+of constituents to 100. All the constituents in the index are restored to an equal weight (i.e., 1% for each constituent). Constituent weights
+ﬂuctuate between Quarterly Index Reviews based on price performance.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI GLOBAL CLIMATE INDEX
+
+

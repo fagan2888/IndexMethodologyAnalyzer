@@ -1,0 +1,412 @@
+MSCI NORWAY IMI 25/50 (USD)
+
+The MSCI Norway IMI 25/50 Index is designed to measure the performance of the large, mid and small cap segments of the Norwegian
+market. It applies certain invesment limits that are imposed on regulated investment companies, or RICs, under the current US Internal
+Revenue Code. With 55 constituents, the index covers approximately 99% of the free ﬂoat-adjusted market capitalization in Norway.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (USD)  (MAY 2001 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Norway IMI 25-50
+MSCI World IMI
+ACWI IMI
+
+400
+
+200
+
+348.53
+
+234.66
+232.09
+
+50
+May 01 Aug 02 Nov 03
+
+Feb 05 May 06 Aug 07 Nov 08
+
+Feb 10 May 11 Aug 12 Nov 13
+
+Feb 15
+
+ May 16
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+
+MSCI Norway
+
+IMI 25-50
+
+MSCI
+
+World IMI
+
+ACWI IMI
+
+-14.95
+-21.06
+12.08
+23.61
+-16.95
+17.36
+102.34
+-64.18
+29.36
+45.44
+31.63
+56.15
+55.35
+-8.73
+
+-0.26
+5.07
+28.09
+16.75
+-5.53
+14.10
+32.35
+-40.46
+8.99
+20.65
+10.78
+16.43
+35.46
+-17.92
+
+-1.68
+4.36
+24.17
+17.04
+-7.43
+14.87
+37.18
+-42.01
+11.66
+21.49
+12.06
+16.93
+36.18
+-17.26
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+MSCI Norway IMI 25-50
+MSCI World IMI
+ACWI IMI
+
+1 Mo
+
+-2.24
+0.73
+0.28
+
+3 Mo
+
+14.22
+9.74
+9.71
+
+1 Yr
+
+-12.22
+-3.26
+-4.79
+
+YTD
+
+9.95
+2.43
+2.37
+
+3 Yr
+
+-7.46
+7.17
+5.88
+
+5 Yr
+
+-4.61
+7.14
+5.79
+
+10 Yr
+
+0.51
+5.33
+5.08
+
+Since
+
+Dec 29, 2000
+
+8.26
+5.11
+5.21
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Norway IMI 25-50
+MSCI World IMI
+ACWI IMI
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+12.82
+2.38
+2.98
+
+3 Yr
+
+20.34
+11.83
+11.97
+
+5 Yr
+
+23.18
+13.32
+13.67
+
+10 Yr
+
+30.33
+16.71
+17.19
+
+3 Yr
+
+-0.29
+0.63
+0.52
+
+5 Yr
+
+-0.10
+0.57
+0.46
+
+10 Yr
+
+0.13
+0.32
+0.30
+
+Since
+
+Dec 29, 2000
+
+0.37
+0.28
+0.29
+
+(%)
+
+75.17
+57.69
+58.28
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2008-05-22—2008-11-21
+2007-10-31—2009-03-09
+2007-10-31—2009-03-09
+
+The MSCI Norway IMI 25/50 was launched on Oct 04, 2011. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI NORWAY IMI 25/50
+
+Energy
+Financials
+
+Sector Sector
+Wt. (%)
+51.7
+47.7
+Telecom Srvcs 100.0
+31.2
+29.4
+47.1
+42.5
+17.8
+9.0
+34.8
+
+Cons Staples
+Cons Staples
+Materials
+Materials
+Financials
+Energy
+Cons Discr
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Norway IMI 25-50
+
+55
+
+Mkt Cap ( USD Millions)
+
+106,374.19
+15,660.69
+148.77
+1,934.08
+945.00
+
+STATOIL
+DNB
+TELENOR
+ORKLA
+MARINE HARVEST
+YARA INTERNATIONAL
+NORSK HYDRO
+GJENSIDIGE FORSIKRING
+SUBSEA 7
+SCHIBSTED B
+Total
+
+Mkt Cap
+( USD Billions)
+15.66
+10.43
+10.37
+5.26
+4.95
+4.68
+4.23
+3.88
+2.73
+2.53
+64.73
+
+Index
+Wt. (%)
+14.72
+9.80
+9.75
+4.94
+4.65
+4.40
+3.98
+3.65
+2.56
+2.38
+60.85
+
+SECTOR WEIGHTS
+
+9.75%
+
+15.84%
+
+20.56%
+
+9.36%
+
+6.85%
+
+5.47%
+
+3.22%
+
+0.51%
+
+28.45%
+
+Energy 28.45%
+
+Financials 20.56%
+
+Consumer Staples 15.84%
+
+Telecommunication Services 9.75%
+
+Materials 9.36%
+
+Consumer Discretionary 6.85%
+
+Information Technology 5.47%
+
+Industrials 3.22%
+
+Utilities 0.51%
+
+INDEX METHODOLOGY
+The MSCI 25/50 Indexes take into account the investment limits required of regulated investment companies, or RICs, under the current US
+Internal Revenue Code. One requirement of a RIC is that at the end of each quarter of its tax year no more than 25% of the value of the RIC's
+assets may be invested in a single issuer and the sum of the weights of all issuers representing more than 5% of the fund should not exceed
+50% of the fund’s total assets.
+
+The MSCI 25/50 Index methodology aims to minimize index turnover, tracking error and extreme deviation from the parent index. The indexes
+are rebalanced quarterly. Changes resulting from each rebalancing are made as of the close of the last business day of February, May, August
+and November, coinciding with the quarterly index reviews of their parent indexes.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI NORWAY IMI 25/50
+
+

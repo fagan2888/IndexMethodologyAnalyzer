@@ -1,0 +1,404 @@
+MSCI KLD 400 SOCIAL INDEX (USD)
+
+The  MSCI  KLD  400  Social  Index  is  a  capitalization  weighted  index  of  400  US  securities  that  provides  exposure  to  companies  with
+outstanding  Environmental,  Social  and  Governance  (ESG)  ratings  and  excludes  companies  whose  products  have  negative  social  or
+environmental impacts. The parent index is MSCI USA IMI, an equity index of large, mid and small cap companies. The Index is designed
+for  investors  seeking  a  diversiﬁed  benchmark  comprised  of  companies  with  strong  sustainability  proﬁles  while  avoiding  companies
+incompatible with values screens. Launched in May 1990 as the Domini 400 Social Index, it is one of the ﬁrst SRI indexes. Constituent
+selection is based on data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (USD)  (MAY 2001 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI KLD 400 Social Index
+MSCI USA IMI
+
+200
+
+100
+
+244.64
+225.82
+
+50
+May 01 Aug 02 Nov 03
+
+Feb 05 May 06 Aug 07 Nov 08
+
+Feb 10 May 11 Aug 12 Nov 13
+
+Feb 15
+
+ May 16
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+
+MSCI KLD 400
+Social Index
+
+MSCI USA IMI
+
+0.94
+12.72
+36.20
+13.24
+1.60
+11.89
+31.73
+-34.94
+3.72
+13.26
+3.00
+10.31
+28.47
+-20.10
+
+0.64
+12.51
+33.39
+16.41
+1.23
+17.17
+28.72
+-36.98
+5.78
+15.70
+6.41
+12.32
+31.01
+-21.65
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI KLD 400 Social Index
+MSCI USA IMI
+
+1 Mo
+
+1.72
+1.86
+
+3 Mo
+
+9.27
+9.77
+
+1 Yr
+
+1.70
+0.28
+
+YTD
+
+3.33
+3.50
+
+3 Yr
+
+5 Yr
+
+10.41
+10.63
+
+11.51
+11.20
+
+10 Yr
+
+7.53
+7.59
+
+Since
+
+May 31, 1994
+
+9.48
+9.37
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.09
+2.08
+
+22.64
+23.08
+
+18.26
+17.63
+
+P/BV
+
+3.56
+2.72
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI KLD 400 Social Index
+MSCI USA IMI
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+14.18
+2.44
+
+3 Yr
+
+11.45
+11.55
+
+5 Yr
+
+12.09
+12.63
+
+10 Yr
+
+15.15
+15.73
+
+3 Yr
+
+0.90
+0.92
+
+5 Yr
+
+0.95
+0.89
+
+10 Yr
+
+0.47
+0.46
+
+Since
+
+May 31, 1994
+
+na
+0.47
+
+(%)
+
+53.71
+55.26
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2007-10-09—2009-03-09
+2007-10-09—2009-03-09
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI KLD 400 Social Index was launched on May 01, 1990. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI KLD 400 SOCIAL INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI KLD 400 Social Index
+
+395
+
+Mkt Cap ( USD Millions)
+
+8,317,057.31
+402,191.43
+178.52
+21,055.84
+9,084.29
+
+MICROSOFT CORP
+ALPHABET C
+PROCTER & GAMBLE CO
+ALPHABET A
+VERIZON COMMUNICATIONS
+COCA COLA (THE)
+MERCK & CO
+DISNEY (WALT)
+INTEL CORP
+CISCO SYSTEMS
+Total
+
+Mkt Cap
+( USD Billions)
+402.19
+228.77
+220.48
+218.16
+207.11
+184.27
+157.16
+155.83
+149.07
+147.46
+2,070.50
+
+Index
+Wt. (%)
+4.84
+2.75
+2.65
+2.62
+2.49
+2.22
+1.89
+1.87
+1.79
+1.77
+24.89
+
+Sector Sector
+Wt. (%)
+18.5
+10.5
+21.8
+10.0
+85.5
+18.2
+13.5
+14.1
+6.9
+6.8
+
+Info Tech
+Info Tech
+Cons Staples
+Info Tech
+Telecom Srvcs
+Cons Staples
+Health Care
+Cons Discr
+Info Tech
+Info Tech
+
+SECTOR WEIGHTS
+
+12.15%
+
+13.04%
+
+13.31%
+
+14.03%
+
+8.23%
+
+5.58%
+
+2.91%
+
+2.88%
+
+1.76%
+
+26.11%
+
+Information Technology 26.11%
+
+Health Care 14.03%
+
+Consumer Discretionary 13.31%
+
+Financials 13.04%
+
+Consumer Staples 12.15%
+
+Industrials 8.23%
+
+Energy 5.58%
+
+Telecommunication Services 2.91%
+
+Materials 2.88%
+
+Utilities 1.76%
+
+INDEX METHODOLOGY
+The MSCI KLD 400 Social Index is maintained in two stages. First, securities of companies involved in Nuclear Power, Tobacco, Alcohol,
+Gambling, Military Weapons, Civilian Firearms, GMOs and Adult Entertainment are excluded. Then additions are made from the list of eligible
+companies based on considerations of ESG performance, sector alignment and size representation. The MSCI KLD 400 Social Index is designed
+to maintain similar sector weights as the MSCI USA Index and targets a minimum of 200 large and mid-cap constituents. Companies that are
+not existing constituents of The MSCI KLD 400 Social Index must have an MSCI ESG Rating above 'BB' and an Impact Monitor Score greater
+than 2 to be eligible. At each quarterly Index Review, constituents are deleted if they are deleted from the MSCI USA IMI Index, fail the exclusion
+screens, or if their ESG ratings or scores fall below minimum standards. Additions are made to restore the number of constituents to 400. All
+eligible securities of each issuer are included in the index, so the index may have more than 400 securities. The selection universe for the MSCI
+KLD 400 Social Index are large, mid and small cap companies in the MSCI USA IMI Index. The Index is ﬂoat-adjusted market capitalization
+weighted. It is rebalanced at the regular Semi-Annual and Quarterly Index Reviews in May, August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI KLD 400 SOCIAL INDEX
+
+

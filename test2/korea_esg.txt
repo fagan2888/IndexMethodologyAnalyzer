@@ -1,0 +1,367 @@
+MSCI KOREA ESG INDEX (KRW)
+
+The  MSCI  Korea  ESG  Index  is  a  capitalization  weighted  index  that  provides  exposure  to  companies  with  high  Environmental,  Social
+and Governance (ESG) performance relative to their sector peers. MSCI Korea ESG consists of large and mid cap companies in Korean
+markets. The Index is designed for investors seeking a broad, diversiﬁed sustainability benchmark with relatively low tracking error to
+the underlying equity market. The index is a member of the MSCI Global Sustainability Index series. Constituent selection is based on
+data from MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (KRW)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Korea ESG
+MSCI Korea
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+114.23
+113.96
+
+MSCI Korea ESG
+
+MSCI Korea
+
+1.96
+-8.73
+10.59
+6.71
+-15.23
+30.37
+61.06
+-42.70
+
+-0.04
+-6.99
+2.70
+12.89
+-10.43
+23.92
+59.08
+-39.54
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+150
+
+100
+
+50
+
+0
+Sep 07
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Korea ESG
+MSCI Korea
+
+1 Mo
+
+-1.99
+-0.31
+
+3 Mo
+
+1.31
+4.33
+
+1 Yr
+
+-5.89
+-4.14
+
+YTD
+
+0.53
+1.47
+
+3 Yr
+
+0.97
+-1.10
+
+ANNUALIZED
+
+5 Yr
+
+10 Yr
+
+-3.04
+-1.42
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+1.54
+1.52
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+1.66
+1.80
+
+12.04
+10.58
+
+10.76
+10.14
+
+P/BV
+
+0.88
+0.92
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Korea ESG
+MSCI Korea
+
+Turnover
+
+(%) 1
+16.38
+3.95
+
+ANNUALIZED STD DEV (%) 2
+
+MAXIMUM DRAWDOWN
+
+3 Yr
+
+10.78
+10.91
+
+5 Yr
+
+13.50
+13.22
+
+10 Yr
+
+na
+na
+
+(%)
+
+55.99
+52.71
+
+Period YYYY-MM-DD
+
+2007-11-01—2008-11-20
+2007-10-11—2008-11-20
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+The MSCI Korea ESG Index was launched on Jul 12, 2013. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI KOREA ESG INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Korea ESG
+
+59
+
+Mkt Cap ( KRW Millions)
+
+274,488,044.13
+17,375,879.72
+605,769.99
+4,652,339.73
+2,682,095.63
+
+HYUNDAI MOBIS
+SHINHAN FINANCIAL GROUP
+SK HYNIX
+AMOREPACIFIC CORP (NEW)
+KB FINANCIAL GROUP
+LG CHEM
+SK INNOVATION CO
+LG HOUSEHOLD & HEALTH
+SAMSUNG FIRE & MARINE
+SAMSUNG C&T CORPORATION
+Total
+
+Mkt Cap
+( KRW Billions)
+17,375.88
+16,879.13
+16,714.93
+13,423.53
+13,174.59
+12,571.62
+10,582.68
+9,895.56
+9,877.65
+9,105.12
+129,600.71
+
+Index
+Wt. (%)
+6.33
+6.15
+6.09
+4.89
+4.80
+4.58
+3.86
+3.61
+3.60
+3.32
+47.22
+
+Sector Sector
+Wt. (%)
+41.3
+23.2
+50.3
+38.9
+18.1
+51.3
+61.8
+28.7
+13.6
+19.9
+
+Cons Discr
+Financials
+Info Tech
+Cons Staples
+Financials
+Materials
+Energy
+Cons Staples
+Financials
+Industrials
+
+SECTOR WEIGHTS
+
+12.56%
+
+15.33%
+
+16.65%
+
+12.12%
+
+8.93%
+
+6.24%
+
+0.9%
+
+0.4%
+
+0.37%
+
+26.5%
+
+Financials 26.5%
+
+Industrials 16.65%
+
+Consumer Discretionary 15.33%
+
+Consumer Staples 12.56%
+
+Information Technology 12.12%
+
+Materials 8.93%
+
+Energy 6.24%
+
+Health Care 0.9%
+
+Utilities 0.4%
+
+Telecommunication Services 0.37%
+
+INDEX METHODOLOGY
+The MSCI Global Sustainability Indexes are constructed by applying a Best‐in‐Class selection process to companies in the regional indexes
+that make up MSCI ACWI, a global equity index consisting of developed and emerging market countries.
+
+The Global Sustainability Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk
+introduced by the ESG selection process. The methodology aims to include securities of companies with the highest ESG ratings representing
+50% of the market capitalization in each sector and region of the parent Index. Companies that are not existing constituents of The Global
+Sustainability Indexes must have an MSCI ESG Rating of 'BB' or above and an Impact Monitor score of 3 or above to be eligible. The selection
+universe for The Global Sustainability Indexes is the constituents of the MSCI Global Investable Market Indexes.
+
+The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the MSCI Global Sustainability Indexes takes place in May,
+and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI KOREA ESG INDEX
+
+

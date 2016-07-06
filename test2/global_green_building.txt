@@ -1,0 +1,430 @@
+MSCI GLOBAL GREEN BUILDING INDEX (USD)
+
+The MSCI Global Green Building Index includes developed and emerging market large, mid and small cap companies that derive 50% or
+more of their revenues from products and services in Green Building.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (USD)  (NOV 2008 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Global Green Building
+MSCI World
+MSCI ACWI IMI
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+
+361.17
+
+231.64
+229.70
+
+MSCI Global
+
+Green
+Building
+15.29
+5.10
+29.04
+34.58
+-6.81
+14.97
+
+MSCI World MSCI ACWI IMI
+
+-0.32
+5.50
+27.37
+16.54
+-5.02
+12.34
+
+-1.68
+4.36
+24.17
+17.04
+-7.43
+14.87
+
+Jul 09
+
+Feb 10 Oct 10 May 11
+
+Jan 12
+
+Aug 12
+
+Apr 13
+
+Nov 13
+
+Jul 14
+
+Feb 15 Oct 15
+
+ May 16
+
+400
+
+300
+
+200
+
+100
+
+50
+Nov 08
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Global Green Building
+MSCI World
+MSCI ACWI IMI
+
+1 Mo
+
+3.90
+0.65
+0.28
+
+3 Mo
+
+1 Yr
+
+12.38
+9.33
+9.71
+
+1.07
+-3.39
+-4.79
+
+YTD
+
+1.49
+2.11
+2.37
+
+3 Yr
+
+5 Yr
+
+10 Yr
+
+12.35
+7.05
+5.88
+
+11.70
+7.13
+5.79
+
+na
+na
+na
+
+Since
+
+Nov 28, 2008
+
+18.65
+11.71
+11.84
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+2.20
+2.63
+2.58
+
+19.06
+20.34
+20.21
+
+14.62
+16.09
+15.75
+
+P/BV
+
+1.56
+2.13
+1.98
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Global Green Building
+MSCI World
+MSCI ACWI IMI
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+32.42
+2.66
+2.98
+
+3 Yr
+
+13.75
+11.81
+11.97
+
+5 Yr
+
+10 Yr
+
+17.13
+13.18
+13.67
+
+na
+na
+na
+
+3 Yr
+
+0.90
+0.62
+0.52
+
+5 Yr
+
+0.72
+0.57
+0.46
+
+10 Yr
+
+na
+na
+na
+
+Since
+
+Nov 28, 2008
+
+na
+0.77
+0.76
+
+(%)
+
+18.99
+17.66
+19.19
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2015-08-18—2016-02-11
+2015-05-21—2016-02-11
+2015-05-21—2016-02-11
+
+The MSCI Global Green Building Index was launched on Jan 20, 2009. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index
+existed). There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI GLOBAL GREEN BUILDING INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Global Green Building
+
+35
+
+Mkt Cap ( USD Millions)
+
+86,959.20
+10,802.19
+121.21
+2,484.55
+1,335.65
+
+SEKISUI HOUSE
+BRITISH LAND CO
+TAYLOR WIMPEY
+BERKELEY GRP HLDGS UNIT
+LENNOX INTERNATIONAL
+OWENS CORNING
+DERWENT LONDON
+KINGSPAN GROUP
+LOUISIANA-PACIFIC CORP
+HERMAN MILLER
+Total
+
+Country
+
+JP
+GB
+GB
+GB
+US
+US
+GB
+IE
+US
+US
+
+Mkt Cap
+( USD Billions)
+10.80
+10.52
+9.73
+6.19
+5.88
+5.66
+5.06
+4.23
+2.61
+1.90
+62.57
+
+Index
+Wt. (%)
+12.42
+12.10
+11.19
+7.12
+6.76
+6.50
+5.82
+4.86
+3.00
+2.18
+71.96
+
+Sector Sector
+Wt. (%)
+Cons Discr 36.9
+Financials 56.6
+Cons Discr 33.3
+Cons Discr 21.2
+Industrials 17.3
+Industrials 16.6
+Financials 27.2
+Industrials 12.4
+Materials 100.0
+5.6
+
+Industrials
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+33.63%
+
+21.36%
+
+3%
+
+2.9%
+
+39.1%
+
+32.03%
+
+15.93%
+
+4.86%
+
+2.07%
+
+7.63%
+
+37.48%
+
+Industrials 39.1%
+
+Consumer Discretionary 33.63%
+
+Financials 21.36%
+
+Materials 3%
+
+United Kingdom 37.48%
+
+United States 32.03%
+
+Japan 15.93%
+
+Ireland 4.86%
+
+Information Technology 2.9%
+
+Australia 2.07%
+
+Other 7.63%
+
+INDEX METHODOLOGY
+The Index is drawn from the universe of the MSCI ACWI IMI (Investable Market Index), a broad market benchmark of developed and emerging
+market large, mid and small cap securities. Securities of companies in the indexes derive at least 50% of their revenues from products
+and services in Alternative Energy, Sustainable Water, Green Building, Pollution Prevention or Clean Technology. The ﬁve sub-indexes are
+aggregated to create the MSCI Global Environment Index. The composition of the Index is fully reviewed semi-annually in May and November.
+At each Semi-Annual Review, eligible securities will be added to the Index and existing constituents may be deleted if they fall below the
+50% of revenue threshold in one of the ﬁve environmental themes. In addition, the Index is also reviewed in February and August to reﬂect
+additions to and deletions from the MSCI ACWI IMI. The Index utilizes ﬂoat-adjusted market capitalization weighting.  The changes to the Index
+resulting from the Semi-Annual and Quarterly Index Reviews are eﬀective at the open of the ﬁrst business day of March, June, September
+and December.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI GLOBAL GREEN BUILDING INDEX
+
+

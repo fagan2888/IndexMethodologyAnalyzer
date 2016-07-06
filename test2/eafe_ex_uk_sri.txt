@@ -1,0 +1,471 @@
+MSCI EAFE EX UK INDEX (GBP)
+
+The MSCI EAFE ex UK Index is an equity index which captures large and mid cap representation across Developed Markets (DM) countries*
+around the world, excluding Canada, the United Kingdom and the United States. With 812 constituents, the index covers approximately
+85% of the free ﬂoat-adjusted market capitalization in each country.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (GBP)  (MAY 2001 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI EAFE ex UK
+MSCI World
+MSCI ACWI IMI
+
+200
+
+100
+
+229.03
+
+210.83
+198.91
+
+50
+May 01 Aug 02 Nov 03
+
+Feb 05 May 06 Aug 07 Nov 08
+
+Feb 10 May 11 Aug 12 Nov 13
+
+Feb 15
+
+ May 16
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+
+MSCI EAFE
+
+ex UK
+
+MSCI World MSCI ACWI IMI
+
+7.37
+1.70
+21.75
+13.46
+-13.57
+11.44
+15.50
+-19.12
+10.72
+10.23
+30.03
+12.89
+27.60
+-24.04
+
+5.45
+12.07
+25.00
+11.42
+-4.31
+15.87
+16.45
+-17.39
+7.72
+5.83
+23.04
+7.46
+20.29
+-27.26
+
+4.02
+10.86
+21.87
+11.90
+-6.74
+18.48
+22.14
+-19.71
+9.79
+6.57
+25.32
+9.02
+22.47
+-25.20
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI EAFE ex UK
+MSCI World
+MSCI ACWI IMI
+
+1 Mo
+
+-0.22
+1.30
+0.93
+
+3 Mo
+
+4.53
+4.68
+5.04
+
+1 Yr
+
+-4.10
+1.28
+-0.18
+
+YTD
+
+0.18
+3.40
+3.67
+
+3 Yr
+
+4.45
+8.52
+7.33
+
+5 Yr
+
+5.29
+9.80
+8.42
+
+10 Yr
+
+5.12
+7.81
+7.76
+
+Since
+
+May 31, 1994
+
+4.74
+7.19
+6.94
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+3.18
+2.63
+2.58
+
+17.55
+20.34
+20.21
+
+14.38
+16.09
+15.75
+
+P/BV
+
+1.50
+2.13
+1.98
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI EAFE ex UK
+MSCI World
+MSCI ACWI IMI
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+2.26
+2.66
+2.98
+
+3 Yr
+
+10.62
+9.60
+9.57
+
+5 Yr
+
+12.18
+10.35
+10.61
+
+10 Yr
+
+15.65
+13.77
+14.28
+
+3 Yr
+
+0.42
+0.85
+0.74
+
+5 Yr
+
+0.44
+0.90
+0.77
+
+10 Yr
+
+0.28
+0.48
+0.46
+
+Since
+
+May 31, 1994
+
+na
+na
+0.27
+
+(%)
+
+53.78
+51.44
+50.82
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2000-06-30—2003-03-12
+2000-08-31—2003-03-12
+2000-09-04—2003-03-12
+
+* Developed Markets countries in the index include: Australia, Austria, Belgium, Denmark, Finland, France, Germany, Hong Kong, Ireland, Israel, Italy, Japan, Netherlands, New Zealand, Norway, Portugal, Singapore,
+Spain, Sweden and Switzerland.
+
+The MSCI EAFE ex UK Index was launched on Mar 31, 1986. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index existed).
+There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI EAFE EX UK INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI EAFE ex UK
+
+812
+
+Mkt Cap ( GBP Millions)
+
+6,647,393.07
+161,727.13
+617.56
+8,186.44
+3,982.36
+
+Country
+
+CH
+NESTLE
+CH
+ROCHE HOLDING GENUSS
+CH
+NOVARTIS
+JP
+TOYOTA MOTOR CORP
+DK
+NOVO NORDISK B
+FR
+TOTAL
+BE
+ANHEUSER-BUSCH INBEV
+SANOFI
+FR
+COMMONWEALTH BANK OF AUS AU
+SIEMENS
+DE
+Total
+
+Mkt Cap
+( GBP Billions)
+161.73
+126.67
+124.07
+97.02
+74.91
+73.32
+70.02
+66.22
+65.81
+58.70
+918.46
+
+Index
+Wt. (%)
+2.43
+1.91
+1.87
+1.46
+1.13
+1.10
+1.05
+1.00
+0.99
+0.88
+13.82
+
+Sector Sector
+Wt. (%)
+Cons Staples 22.6
+Health Care 15.7
+Health Care 15.3
+Cons Discr 11.0
+Health Care
+9.3
+Energy 38.3
+9.8
+8.2
+4.0
+5.9
+
+Cons Staples
+Health Care
+Financials
+Industrials
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+10.79%
+
+12.16%
+
+13.23%
+
+14.88%
+
+7%
+
+6.1%
+
+4.86%
+
+3.6%
+
+2.88%
+
+24.49%
+
+8.78%
+
+11.07%
+
+11.34%
+
+12.3%
+
+27.83%
+
+28.67%
+
+Financials 24.49%
+
+Industrials 14.88%
+
+Consumer Discretionary 13.23%
+
+Japan 28.67%
+
+France 12.3%
+
+Switzerland 11.34%
+
+Germany 11.07%
+
+Health Care 12.16%
+
+Consumer Staples 10.79%
+
+Materials 7%
+
+Australia 8.78%
+
+Other 27.83%
+
+Information Technology 6.1%
+
+Telecommunication Services 4.86%
+
+Utilities 3.6%
+
+Energy 2.88%
+
+INDEX METHODOLOGY
+The index is based on the MSCI Global Investable Market Indexes (GIMI) Methodology—a comprehensive and consistent approach to index
+construction that allows for meaningful global views and cross regional comparisons across all market capitalization size, sector and style
+segments and combinations. This methodology aims to provide exhaustive coverage of the relevant investment opportunity set with a strong
+emphasis on index liquidity, investability and replicability. The index is reviewed quarterly—in February, May, August and November—with
+the objective of reﬂecting change in the underlying equity markets in a timely manner, while limiting undue index turnover. During the May
+and November semi-annual index reviews, the index is rebalanced and the large and mid capitalization cutoﬀ points are recalculated.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI EAFE EX UK INDEX
+
+

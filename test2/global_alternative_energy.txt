@@ -1,0 +1,428 @@
+MSCI GLOBAL ALTERNATIVE ENERGY INDEX
+(USD)
+
+The MSCI Global Alternative Energy Index includes developed and emerging market large, mid and small cap companies that derive
+50% or more of their revenues from products and services in Alternative energy.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (USD)  (NOV 2008 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Global Alternative Energy
+MSCI World
+MSCI ACWI IMI
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+
+MSCI Global
+Alternative
+
+MSCI World MSCI ACWI IMI
+
+Energy
+-8.34
+6.64
+80.73
+-26.19
+-49.08
+-29.31
+
+-0.32
+5.50
+27.37
+16.54
+-5.02
+12.34
+
+-1.68
+4.36
+24.17
+17.04
+-7.43
+14.87
+
+231.64
+229.70
+
+53.90
+
+Jul 09
+
+Feb 10 Oct 10 May 11
+
+Jan 12
+
+Aug 12
+
+Apr 13
+
+Nov 13
+
+Jul 14
+
+Feb 15 Oct 15
+
+ May 16
+
+200
+
+100
+
+0
+Nov 08
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Global Alternative Energy
+MSCI World
+MSCI ACWI IMI
+
+1 Mo
+
+-3.56
+0.65
+0.28
+
+3 Mo
+
+6.34
+9.33
+9.71
+
+1 Yr
+
+-15.82
+-3.39
+-4.79
+
+YTD
+
+-3.67
+2.11
+2.37
+
+3 Yr
+
+8.61
+7.05
+5.88
+
+ANNUALIZED
+
+5 Yr
+
+10 Yr
+
+-9.37
+7.13
+5.79
+
+na
+na
+na
+
+Since
+
+Nov 28, 2008
+
+-7.90
+11.71
+11.84
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+3.81
+2.63
+2.58
+
+21.89
+20.34
+20.21
+
+16.80
+16.09
+15.75
+
+P/BV
+
+1.40
+2.13
+1.98
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Global Alternative Energy
+MSCI World
+MSCI ACWI IMI
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+7.99
+2.66
+2.98
+
+3 Yr
+
+22.27
+11.81
+11.97
+
+5 Yr
+
+10 Yr
+
+27.52
+13.18
+13.67
+
+na
+na
+na
+
+3 Yr
+
+0.47
+0.62
+0.52
+
+5 Yr
+
+-0.23
+0.57
+0.46
+
+10 Yr
+
+na
+na
+na
+
+Since
+
+Nov 28, 2008
+
+na
+0.77
+0.76
+
+(%)
+
+80.05
+17.66
+19.19
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2009-06-11—2012-07-25
+2015-05-21—2016-02-11
+2015-05-21—2016-02-11
+
+The MSCI Global Alternative Energy Index was launched on Jan 20, 2009. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index
+existed). There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI GLOBAL ALTERNATIVE ENERGY INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Global Alternative Energy
+58
+
+Mkt Cap ( USD Millions)
+
+141,164.42
+22,520.95
+80.40
+2,433.87
+485.81
+
+ENGIE
+SAINT-GOBAIN
+CENTRICA
+VESTAS WIND SYSTEMS
+AGL ENERGY
+EDP ENERGIAS DE PORTUGAL
+CALPINE CORP
+GAMESA CORP TECNOLOGICA
+FIRST SOLAR
+CONTACT ENERGY
+Total
+
+Country
+
+FR
+FR
+GB
+DK
+AU
+PT
+US
+ES
+US
+NZ
+
+Mkt Cap
+( USD Billions)
+22.52
+21.29
+16.09
+16.06
+9.09
+7.72
+5.02
+4.73
+3.76
+2.65
+108.94
+
+Index
+Wt. (%)
+15.95
+15.08
+11.40
+11.38
+6.44
+5.47
+3.55
+3.35
+2.66
+1.88
+77.17
+
+Sector Sector
+Wt. (%)
+Utilities 26.1
+Industrials 45.7
+Utilities 18.7
+Industrials 34.5
+Utilities 10.5
+8.9
+Utilities
+Utilities
+5.8
+Industrials 10.2
+Info Tech 53.1
+3.1
+
+Utilities
+
+SECTOR WEIGHTS
+
+COUNTRY WEIGHTS
+
+33.01%
+
+5.02%
+
+0.5%
+
+0.35%
+
+6.49%
+
+11.38%
+
+11.4%
+
+12.93%
+
+26.55%
+
+31.24%
+
+61.12%
+
+Utilities 61.12%
+
+Industrials 33.01%
+
+Information Technology 5.02%
+
+Energy 0.5%
+
+France 31.24%
+
+United States 12.93%
+
+United Kingdom 11.4%
+
+Denmark 11.38%
+
+Materials 0.35%
+
+Australia 6.49%
+
+Other 26.55%
+
+INDEX METHODOLOGY
+The Index is drawn from the universe of the MSCI ACWI IMI (Investable Market Index), a broad market benchmark of developed and emerging
+market large, mid and small cap securities. Securities of companies in the indexes derive at least 50% of their revenues from products
+and services in Alternative Energy, Sustainable Water, Green Building, Pollution Prevention or Clean Technology. The ﬁve sub-indexes are
+aggregated to create the MSCI Global Environment Index. The composition of the Index is fully reviewed semi-annually in May and November.
+At each Semi-Annual Review, eligible securities will be added to the Index and existing constituents may be deleted if they fall below the
+50% of revenue threshold in one of the ﬁve environmental themes. In addition, the Index is also reviewed in February and August to reﬂect
+additions to and deletions from the MSCI ACWI IMI. The Index utilizes ﬂoat-adjusted market capitalization weighting.  The changes to the Index
+resulting from the Semi-Annual and Quarterly Index Reviews are eﬀective at the open of the ﬁrst business day of March, June, September
+and December.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI GLOBAL ALTERNATIVE ENERGY INDEX
+
+

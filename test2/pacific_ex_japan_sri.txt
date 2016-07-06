@@ -1,0 +1,419 @@
+MSCI PACIFIC EX JAPAN SRI INDEX (USD)
+
+The MSCI Paciﬁc ex Japan SRI Index is based on the MSCI Paciﬁc ex Japan Index, its parent index, which includes large and mid-cap
+stocks  across  4  Developed  Markets  (DM)  countries*  of  the  Paciﬁc  region.  The  Index  is  a  capitalization  weighted  index  that  provides
+exposure to companies with outstanding Environmental, Social and Governance (ESG) ratings and excludes companies whose products
+have negative social or environmental impacts. The Index is designed for investors seeking a diversiﬁed Socially Responsible Investment
+(SRI) benchmark comprised of companies with strong sustainability proﬁles while avoiding companies incompatible with values screens.
+Constituent selection is based on research provided by MSCI ESG Research.
+
+CUMULATIVE INDEX PERFORMANCE - GROSS RETURNS  (USD)  (SEP 2007 – MAY 2016)
+
+ANNUAL PERFORMANCE (%)
+
+MSCI Pacific ex Japan SRI
+MSCI Pacific ex Japan 
+
+Year
+
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+
+110.83
+106.53
+
+MSCI Paciﬁc
+ex Japan SRI
+
+MSCI Paciﬁc
+
+ex Japan
+
+-5.13
+0.34
+6.09
+20.76
+-7.83
+15.29
+62.55
+-46.58
+
+-8.35
+-0.34
+5.62
+24.74
+-12.67
+17.07
+73.04
+-50.03
+
+Jun 08 Mar 09 Nov 09
+
+Aug 10 May 11
+
+Jan 12
+
+Oct 12
+
+Jul 13 Mar 14 Dec 14
+
+Sep 15
+
+ May 16
+
+150
+
+100
+
+50
+
+0
+Sep 07
+
+INDEX PERFORMANCE — GROSS RETURNS  (%) ( MAY 31, 2016 )
+
+FUNDAMENTALS ( MAY 31, 2016 )
+
+MSCI Paciﬁc ex Japan SRI
+MSCI Paciﬁc ex Japan
+
+1 Mo
+
+-3.28
+-2.17
+
+3 Mo
+
+1 Yr
+
+10.74
+11.62
+
+-6.69
+-10.86
+
+YTD
+
+0.63
+1.69
+
+3 Yr
+
+0.05
+-1.10
+
+5 Yr
+
+1.37
+0.47
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+1.19
+0.73
+
+Div Yld (%)
+
+P/E
+
+P/E Fwd
+
+5.04
+4.26
+
+15.05
+15.86
+
+15.25
+15.31
+
+P/BV
+
+1.54
+1.48
+
+ANNUALIZED
+
+INDEX RISK AND RETURN CHARACTERISTICS ( MAY 31, 2016 )
+
+MSCI Paciﬁc ex Japan SRI
+MSCI Paciﬁc ex Japan
+
+ANNUALIZED STD DEV (%) 2
+
+SHARPE RATIO  2 , 3
+
+Turnover
+
+(%) 1
+3.45
+3.99
+
+3 Yr
+
+18.08
+17.07
+
+5 Yr
+
+10 Yr
+
+20.19
+19.55
+
+na
+na
+
+3 Yr
+
+0.08
+0.01
+
+5 Yr
+
+0.16
+0.11
+
+10 Yr
+
+na
+na
+
+Since
+
+Sep 28, 2007
+
+0.14
+0.12
+
+(%)
+
+62.27
+63.72
+
+1Last 12 months
+
+2 Based on monthly gross returns data
+
+3 Based on BBA LIBOR 1M
+
+MAXIMUM DRAWDOWN
+
+Period YYYY-MM-DD
+
+2007-11-01—2009-03-09
+2007-10-29—2009-03-09
+
+On September 1, 2010 the FTSE KLD indexes transitioned to the MSCI ESG Indexes. The former KLD indexes had multiple third party index calculators over time. Consequently the MSCI ESG index histories have
+been aggregated and compiled to create a continuous time series from a variety of sources—sources which may have followed diﬀerent index calculation methodologies in some instances. The MSCI ESG Indexes
+use ratings and other data supplied by MSCI ESG Research Inc, a subsidiary of MSCI Inc.
+
+* DM countries in the MSCI Paciﬁc ex Japan Index include: Australia, Hong Kong, New Zealand and Singapore.
+
+The MSCI Paciﬁc ex Japan SRI Index was launched on Jan 16, 2012. Data prior to the launch date is back-tested data (i.e. calculations of how the index might have performed over that time period had the index
+existed). There are frequently material diﬀerences between back-tested performance and actual results. Past performance -- whether actual or back-tested -- is no indication or guarantee of future performance.
+
+MSCI PACIFIC EX JAPAN SRI INDEX
+
+MAY 31, 2016
+
+INDEX CHARACTERISTICS
+
+TOP 10 CONSTITUENTS
+
+Number of
+Constituents
+
+Index
+Largest
+Smallest
+Average
+Median
+
+MSCI Paciﬁc ex Japan SRI
+
+31
+
+Mkt Cap ( USD Millions)
+
+356,985.67
+73,903.48
+2,323.56
+11,515.67
+6,347.27
+
+SECTOR WEIGHTS
+
+15.31%
+
+63.34%
+
+WESTPAC BANKING
+NATIONAL AUSTRALIA BANK
+WESFARMERS
+TRANSURBAN GROUP
+WOODSIDE PETROLEUM
+BRAMBLES
+HANG SENG BANK
+AMP LTD
+INSURANCE AUSTRALIA GRP
+GOODMAN GROUP
+Total
+
+Country
+
+AU
+AU
+AU
+AU
+AU
+AU
+HK
+AU
+AU
+AU
+
+Mkt Cap
+( USD Billions)
+73.90
+51.65
+33.15
+17.71
+14.72
+14.70
+13.58
+12.09
+10.36
+9.12
+250.97
+
+Index
+Wt. (%)
+20.70
+14.47
+9.29
+4.96
+4.12
+4.12
+3.80
+3.39
+2.90
+2.55
+70.30
+
+Sector Sector
+Wt. (%)
+Financials 32.7
+Financials 22.8
+Cons Staples 100.0
+Industrials 32.4
+Energy 100.0
+Industrials 26.9
+Financials
+6.0
+5.3
+Financials
+4.6
+Financials
+Financials
+4.0
+
+COUNTRY WEIGHTS
+
+9.29%
+
+5.18%
+
+4.12%
+
+1.74%
+
+1.03%
+
+83.49%
+
+9.19%
+
+4.86%
+
+2.46%
+
+Financials 63.34%
+
+Industrials 15.31%
+
+Consumer Staples 9.29%
+
+Utilities 5.18%
+
+Australia 83.49%
+
+Hong Kong 9.19%
+
+Singapore 4.86%
+
+New Zealand 2.46%
+
+Energy 4.12%
+
+Health Care 1.74%
+
+Materials 1.03%
+
+INDEX METHODOLOGY
+The MSCI Global SRI Indexes are constructed by applying a combination of values based exclusions and a Best-in-Class selection process to companies in the regional indexes that
+
+make up MSCI ACWI, a global equity index consisting of developed and emerging market countries. After securities of companies involved in Nuclear Power, Tobacco, Alcohol, Gambling,
+
+Military Weapons, Civilian Firearms, GMOs and Adult Entertainment are excluded, MSCI’s Best‐in‐Class selection process is applied to the remaining eligible securities in the selection
+
+universe.
+
+The MSCI Global SRI Indexes target sector and region weights consistent with those of the underlying indexes to limit the systematic risk introduced by the ESG selection process. The
+
+methodology aims to include the securities of companies with the highest ESG ratings making up 25% of the market capitalization in each sector and region of the parent indexes.
+
+Companies that are not existing constituents of the MSCI Global SRI Indexes must have an MSCI ESG Rating of ‘A’ or above and an Impact Monitor score of 4 or above to be eligible.
+
+Current constituents of the MSCI Global SRI Indexes must have an MSCI ESG Rating of BB or above and an Impact Monitor score of 2 or above to be eligible. The selection universe
+
+for the MSCI Global SRI Indexes is the constituents of the MSCI Global Investable Market Indexes. The Index is ﬂoat-adjusted market capitalization weighted. The Annual Review of the
+
+MSCI Global SRI Indexes takes place in May, and they are rebalanced in August, November and February.
+
+ABOUT MSCI
+
+For more than 40 years, MSCI' research-based indexes and analytics have helped the world' leading investors build and manage better portfolios. Clients rely on our oﬀerings for deeper insights into the drivers
+of performance and risk in their portfolios, broad asset class coverage and innovative research. Our line of products and services includes indexes, analytical models, data, real estate benchmarks and ESG
+research. MSCI serves 98 of the top 100 largest money managers, according to the most recent P&I ranking. For more information, visit us at www.msci.com.
+
+The information contained herein (the "Information") may not be reproduced or redisseminated in whole or in part without prior written permission from MSCI. The Information may not be used to verify or
+correct other data, to create indexes, risk models, or analytics, or in connection with issuing, oﬀering, sponsoring, managing or marketing any securities, portfolios, ﬁnancial products or other investment vehicles.
+Historical data and analysis should not be taken as an indication or guarantee of any future performance, analysis, forecast or prediction. None of the Information or MSCI index or other product or service
+constitutes an oﬀer to buy or sell, or a promotion or recommendation of, any security, ﬁnancial instrument or product or trading strategy. Further, none of the Information or any MSCI index is intended to
+constitute investment advice or a recommendation to make (or refrain from making) any kind of investment decision and may not be relied on as such. The Information is provided "as is" and the user of the
+Information assumes the entire risk of any use it may make or permit to be made of the Information. NONE OF MSCI INC. OR ANY OF ITS SUBSIDIARIES OR ITS OR THEIR DIRECT OR INDIRECT SUPPLIERS OR
+ANY THIRD PARTY INVOLVED IN THE MAKING OR COMPILING OF THE INFORMATION (EACH, AN "MSCI PARTY") MAKES ANY WARRANTIES OR REPRESENTATIONS AND, TO THE MAXIMUM EXTENT PERMITTED BY
+LAW, EACH MSCI PARTY HEREBY EXPRESSLY DISCLAIMS ALL IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WITHOUT LIMITING ANY OF
+THE FOREGOING AND TO THE MAXIMUM EXTENT PERMITTED BY LAW, IN NO EVENT SHALL ANY OF THE MSCI PARTIES HAVE ANY LIABILITY REGARDING ANY OF THE INFORMATION FOR ANY DIRECT, INDIRECT,
+SPECIAL, PUNITIVE, CONSEQUENTIAL (INCLUDING LOST PROFITS) OR ANY OTHER DAMAGES EVEN IF NOTIFIED OF THE POSSIBILITY OF SUCH DAMAGES. The foregoing shall not exclude or limit any liability that
+may not by applicable law be excluded or limited.
+
+© 2016 MSCI Inc. All rights reserved.
+
+MSCI PACIFIC EX JAPAN SRI INDEX
+
+
