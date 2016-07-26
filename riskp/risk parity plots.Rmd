@@ -1,0 +1,62 @@
+---
+title: "Risk Parity Plots"
+author: "Jack Ye"
+date: "July 25, 2016"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(DataComputing)
+```
+
+# weights change
+```{r warning=F}
+read.csv('~/Desktop/riskp/weights2.csv', header=TRUE, sep=',') %>%
+  gather(time, weight, -Ticket) %>%
+  mutate(time=as.numeric(substr(time, 2, length(time)+1))) %>%
+  ggplot(aes(x=time, y=weight, col=Ticket)) + geom_line()
+```
+\newpage
+# daily return
+```{r warning=F}
+read.csv('~/Desktop/riskp/dailyReturn.csv', header=TRUE, sep=',') %>%
+  gather(time, weight, -Ticket) %>%
+  mutate(time=as.numeric(substr(time, 2, length(time)+1))) %>%
+  filter(time %% 11 == 0) %>%
+  ggplot(aes(x=time, y=weight, col=Ticket)) + geom_line()
+```
+\newpage
+# cumulative return
+```{r warning=F}
+read.csv('~/Desktop/riskp/cumulativeReturn.csv', header=TRUE, sep=',') %>%
+  gather(time, weight, -Ticket) %>%
+  mutate(time=as.numeric(substr(time, 2, length(time)+1))) %>%
+  filter(time %% 3 == 0) %>%
+  ggplot(aes(x=time, y=weight, col=Ticket)) + geom_line()
+```
+\newpage
+# Brexit daily return
+```{r warning=F}
+read.csv('~/Desktop/riskp/brexitDaily.csv', header=TRUE, sep=',') %>%
+  gather(time, weight, -Ticket) %>%
+  mutate(time=as.numeric(substr(time, 2, length(time)+1))) %>%
+  filter(time %% 5 == 0) %>%
+  ggplot(aes(x=time, y=weight, col=Ticket)) + geom_line()
+```
+\newpage
+# Brexit cumulative return
+```{r warning=F}
+read.csv('~/Desktop/riskp/brexitCumulative.csv', header=TRUE, sep=',') %>%
+  gather(time, weight, -Ticket) %>%
+  mutate(time=as.numeric(substr(time, 2, length(time)+1))) %>%
+  ggplot(aes(x=time, y=weight, col=Ticket)) + geom_line()
+```
+
+
+
+
+
+
+
+
