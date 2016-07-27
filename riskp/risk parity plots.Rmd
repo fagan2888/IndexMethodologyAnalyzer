@@ -23,11 +23,11 @@ read.csv('~/Desktop/innovation/riskp/weights2.csv', header=TRUE, sep=',') %>%
 general trend up, similar volatility as the market
 
 ```{r warning=F}
-read.csv('~/Desktop/innovation/riskp/dailyReturn.csv', header=TRUE, sep=',') %>%
+read.csv('~/Desktop/innovation/riskp/dailyPercentage.csv', header=TRUE, sep=',') %>%
   gather(time, weight, -Ticket) %>%
   mutate(time=as.numeric(substr(time, 2, length(time)+1))) %>%
-  filter(time %% 20 == 0) %>%
-  filter(time < 600) %>%
+  filter(time %% 10 == 0) %>%
+  filter(time >= 938) %>%
   ggplot(aes(x=time, y=weight, col=Ticket)) + geom_line()
 ```
 \newpage
@@ -40,7 +40,6 @@ read.csv('~/Desktop/innovation/riskp/cumulativeReturn.csv', header=TRUE, sep=','
   gather(time, weight, -Ticket) %>%
   mutate(time=as.numeric(substr(time, 2, length(time)+1))) %>%
   filter(time %% 3 == 0) %>%
-  filter(time < 600) %>%
   ggplot(aes(x=time, y=weight, col=Ticket)) + geom_line()
 ```
 \newpage
