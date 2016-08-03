@@ -26,7 +26,7 @@ general trend up, similar volatility as the market
 read.csv('~/Desktop/innovation/riskp/dailyPercentage.csv', header=TRUE, sep=',') %>%
   gather(time, weight, -Ticket) %>%
   mutate(time=as.numeric(substr(time, 2, length(time)+1))) %>%
-  filter(time %% 10 == 0) %>%
+  filter(time %% 5 == 0) %>%
   filter(time >= 938) %>%
   ggplot(aes(x=time, y=weight, col=Ticket)) + geom_line()
 ```
