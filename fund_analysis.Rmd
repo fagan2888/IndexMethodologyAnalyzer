@@ -93,15 +93,15 @@ countTable %>%
 
 # Analysis of funds tracking ESG indexes of each provider
 ```{r warning=F, echo=F}
-universesus <- universe %>% filter(grepl(esgKeywords,Primary.Prospectus.Benchmark))
-MSCIsus <- MSCI %>% filter(grepl(esgKeywords,Primary.Prospectus.Benchmark))
-FTSEsus <- FTSE %>% filter(grepl(esgKeywords,Primary.Prospectus.Benchmark))
-STOXXsus <- STOXX %>% filter(grepl(esgKeywords,Primary.Prospectus.Benchmark))
-SPDJsus <- SPDJ %>% filter(grepl(esgKeywords,Primary.Prospectus.Benchmark))
+universeesg <- universe %>% filter(grepl(esgKeywords,Primary.Prospectus.Benchmark))
+MSCIesg <- MSCI %>% filter(grepl(esgKeywords,Primary.Prospectus.Benchmark))
+FTSEesg <- FTSE %>% filter(grepl(esgKeywords,Primary.Prospectus.Benchmark))
+STOXXesg <- STOXX %>% filter(grepl(esgKeywords,Primary.Prospectus.Benchmark))
+SPDJesg <- SPDJ %>% filter(grepl(esgKeywords,Primary.Prospectus.Benchmark))
 
-esgCount <- c(length(MSCIsus$Name),length(FTSEsus$Name),length(STOXXsus$Name),length(SPDJsus$Name))
+esgCount <- c(length(MSCIesg$Name),length(FTSEesg$Name),length(STOXXesg$Name),length(SPDJesg$Name))
 esgPercent <- esgCount/sum(esgCount)
-esgAUM <- c(sumF(MSCIsus$Fund.Size.USD),sumF(FTSEsus$Fund.Size.USD),sumF(STOXXsus$Fund.Size.USD),sumF(SPDJsus$Fund.Size.USD))
+esgAUM <- c(sumF(MSCIesg$Fund.Size.USD),sumF(FTSEesg$Fund.Size.USD),sumF(STOXXesg$Fund.Size.USD),sumF(SPDJesg$Fund.Size.USD))
 esgTable <- data.frame(provider=provider, fundsCount=fundsCount, fundsPercent=fundsPercent, AUM=AUM, esgCount=esgCount, esgPercent=esgPercent, esgAUM=esgAUM, esgRatio=esgCount/fundsCount, aumRatio=esgAUM/AUM)
 ```
 
@@ -341,12 +341,12 @@ plotTimeSeriesForUniverse(universe)
 
 ## example: ESG time series
 ```{r warning=F, echo=F}
-plotTimeSeriesForUniverse(universesus)
+plotTimeSeriesForUniverse(universeesg)
 ```
 
 ## example: MSCI ESG time series
 ```{r warning=F, echo=F}
-plotTimeSeriesForUniverse(universesus, msciKeyword)
+plotTimeSeriesForUniverse(universeesg, msciKeyword)
 ```
 
 ## example: SPDJ time series
@@ -384,6 +384,15 @@ plotInstitutionChoice <- function(keyword, universe) {
     geom_bar(stat="identity") +
     geom_text(aes(label=fundsCount))
 }
+
+getInstitutionChoice <- function(keyword, universe) {
+  companyUniverse <- universe %>% filter(grepl(keyword, Name))
+  MSCI <- companyUniverse %>% filter(grepl(msciKeyword,Primary.Prospectus.Benchmark))
+  FTSE <- companyUniverse %>% filter(grepl(ftseKeyword,Primary.Prospectus.Benchmark))
+  STOXX <- companyUniverse %>% filter(grepl(stoxxKeyword,Primary.Prospectus.Benchmark))
+  SPDJ <- companyUniverse %>% filter(grepl(spdjKeyword,Primary.Prospectus.Benchmark))
+  return(list(MSCI=MSCI, FTSE=FTSE, STOXX=STOXX, SPDJ=SPDJ))
+}
 ```
 
 ## exsample: BlackRock
@@ -391,17 +400,41 @@ plotInstitutionChoice <- function(keyword, universe) {
 institutionChoice(blackrockKeyword, universe)
 ```
 
+* MSCI:
+
+```{r warning=F, echo=F}
+getInstitutionChoice(blackrockKeyword, universe)$MSCI %>%
+  select(Name)
+```
+
+* SPDJ:
+
+```{r warning=F, echo=F}
+getInstitutionChoice(blackrockKeyword, universe)$SPDJ %>%
+  select(Name)
+```
+
+* FTSE:
+
+```{r warning=F, echo=F}
+getInstitutionChoice(blackrockKeyword, universe)$FTSE %>%
+  select(Name)
+```
+
+* Plot:
+
 ```{r warning=F, echo=F}
 plotInstitutionChoice(blackrockKeyword, universe)
 ```
 
+
 ## exsample: BlackRock ESG
 ```{r warning=F, echo=F}
-institutionChoice(blackrockKeyword, universesus)
+institutionChoice(blackrockKeyword, universeesg)
 ```
 
 ```{r warning=F, echo=F}
-plotInstitutionChoice(blackrockKeyword, universesus)
+plotInstitutionChoice(blackrockKeyword, universeesg)
 ```
 
 ## exsample: ETF
@@ -411,15 +444,6 @@ institutionChoice('ETF', universe)
 
 ```{r warning=F, echo=F}
 plotInstitutionChoice('ETF', universe)
-```
-
-## exsample: HSBC
-```{r warning=F, echo=F}
-institutionChoice('HSBC', universe)
-```
-
-```{r warning=F, echo=F}
-plotInstitutionChoice('HSBC', universe)
 ```
 \newpage
 
@@ -446,7 +470,7 @@ plotUniverseByBrandName(universe, floor=30)
 
 ## exsample: universe ESG plot
 ```{r warning=F, echo=F}
-plotUniverseByBrandName(universesus, floor=2)
+plotUniverseByBrandName(universeesg, floor=2)
 ```
 
 ## exsample: universe ENV plot
@@ -461,6 +485,6 @@ plotUniverseByBrandName(MSCI, floor=10)
 
 ## exsample: MSCI ESG plot
 ```{r warning=F, echo=F}
-plotUniverseByBrandName(MSCIsus, floor=0)
+plotUniverseByBrandName(MSCIesg, floor=0)
 ```
 
