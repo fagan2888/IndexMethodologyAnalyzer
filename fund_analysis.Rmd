@@ -378,7 +378,7 @@ plotTimeSeriesForEsgEnv(MSCIesg, MSCIenv)
 
 ## example: all provider time series
 ```{r warning=F, echo=F}
- plotTimeSeriesForProviders(MSCI, FTSE, SPDJ, STOXX)
+ plotTimeSeriesForProviders(MSCI, FTSE, SPDJ, STOXX, yearLimit=1980)
 ```
 \newpage
 
