@@ -31,7 +31,7 @@ blackrockKeyword <- '(iShare|BlackRock|BLK|Blackrock)'
 sumF <- function(vec) {sum(as.numeric(gsub(",", "", as.character(vec))), na.rm=TRUE)}
 "^" <- function(x,y) ifelse(y==0,0,base:::"/"(x,y))
 provider <- c("MSCI","FTSE Russell","STOXX","SPDJ")
-esgIndexTotal <- c(100,100,100,100)
+esgIndexTotal <- c(5,35,81,67)
 envIndexTotal <- c(20,20,20,20)
 ```
 
