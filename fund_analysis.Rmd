@@ -308,50 +308,77 @@ plotTimeSeriesForAllScope <- function(universe, esgU, envU, keyword="",  yearLim
   yearDF <- getYearCountForUniverse(universe, keyword, yearLimit)
   esgDF <- getYearCountForUniverse(esgU, keyword, yearLimit)
   envDF <- getYearCountForUniverse(envU, keyword, yearLimit)
-  colnames(esgDF) <- c('year', 'esgCount')
-  colnames(envDF) <- c('year', 'envCount')
-  yearDF %>%
-    full_join(esgDF) %>%
-    full_join(envDF) %>%
-    ggplot() + 
-    geom_line(aes(x=year, y=count), color="green") + 
-    geom_line(aes(x=year, y=esgCount), color='red') + 
-    geom_line(aes(x=year, y=envCount), color='blue') + 
-    scale_x_continuous(breaks=seq(yearLimit, 2016, 5))
+  colnames(esgDF) <- c('year', 'esg')
+  colnames(envDF) <- c('year', 'env')
+  fullYears <- yearDF %>%
+    full_join(esgDF, by="year") %>%
+    full_join(envDF, by="year")
+  fullYears[is.na(fullYears)] <- 0
+  fullYearsNarrow <- gather(fullYears, year)
+  colnames(fullYearsNarrow) <- c("year", "type", "count")
+  fullYearsNarrow %>%
+    filter(year >= yearLimit) %>%
+    ggplot(aes(x=year, y=count, group=type, col=type)) + 
+    geom_line()
 }
 
 plotTimeSeriesForEsgEnv <- function(esgU, envU, keyword="",  yearLimit=1930) {
   esgDF <- getYearCountForUniverse(esgU, keyword, yearLimit)
   envDF <- getYearCountForUniverse(envU, keyword, yearLimit)
-  colnames(esgDF) <- c('year', 'esgCount')
-  colnames(envDF) <- c('year', 'envCount')
-  esgDF %>%
-    full_join(envDF) %>%
-    ggplot() + 
-    geom_line(aes(x=year, y=esgCount), color='red') + 
-    geom_line(aes(x=year, y=envCount), color='blue') + 
-    scale_x_continuous(breaks=seq(yearLimit, 2016, 5))
+  colnames(esgDF) <- c('year', 'esg')
+  colnames(envDF) <- c('year', 'env')
+  fullYears <- esgDF %>%
+    full_join(envDF, by="year")
+  fullYears[is.na(fullYears)] <- 0
+  fullYearsNarrow <- gather(fullYears, year)
+  colnames(fullYearsNarrow) <- c("year", "type", "count")
+  fullYearsNarrow %>%
+    filter(year >= yearLimit) %>%
+    ggplot(aes(x=year, y=count, group=type, col=type)) + 
+    geom_line()
+}
+
+plotTimeSeriesForProviders <- function(MSCI, FTSE, SPDJ, STOXX, keyword="",  yearLimit=1930) {
+  msciDF <- getYearCountForUniverse(MSCI, keyword, yearLimit)
+  ftseDF <- getYearCountForUniverse(FTSE, keyword, yearLimit)
+  spdjDF <- getYearCountForUniverse(SPDJ, keyword, yearLimit)
+  stoxxDF <- getYearCountForUniverse(STOXX, keyword, yearLimit)
+  colnames(msciDF) <- c('year', 'MSCI')
+  colnames(ftseDF) <- c('year', 'FTSE')
+  colnames(spdjDF) <- c('year', 'SPDJ')
+  colnames(stoxxDF) <- c('year', 'STOXX')
+  fullYears <- msciDF %>%
+    full_join(ftseDF, by="year") %>%
+    full_join(spdjDF, by="year") %>%
+    full_join(stoxxDF, by="year")
+  fullYears[is.na(fullYears)] <- 0
+  fullYearsNarrow <- gather(fullYears, year)
+  colnames(fullYearsNarrow) <- c("year", "type", "count")
+  fullYearsNarrow %>%
+    filter(year >= yearLimit) %>%
+    ggplot(aes(x=year, y=count, group=type, col=type)) + 
+    geom_line()
 }
 ```
 
 ## example: universe time series
 ```{r warning=F, echo=F}
-plotTimeSeriesForUniverse(universe)
+plotTimeSeriesForAllScope(universe, universeesg, universeenv)
 ```
 
-## example: ESG time series
+## example: ESG vs ENV time series
 ```{r warning=F, echo=F}
-plotTimeSeriesForUniverse(universeesg)
+plotTimeSeriesForEsgEnv(universeesg, universeenv)
 ```
 
-## example: MSCI ESG time series
+## example: MSCI ESG vs ENV time series
 ```{r warning=F, echo=F}
-plotTimeSeriesForUniverse(universeesg, msciKeyword)
+plotTimeSeriesForEsgEnv(MSCIesg, MSCIenv)
 ```
 
-## example: SPDJ time series
+## example: all provider time series
 ```{r warning=F, echo=F}
-plotTimeSeriesForUniverse(universe, spdjKeyword)
+ plotTimeSeriesForProviders(MSCI, FTSE, SPDJ, STOXX)
 ```
 \newpage
 
