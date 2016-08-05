@@ -29,7 +29,7 @@ esgKeywords <- '(Sustain|ESG|esg|SRI|sri|Social|Governance|Catholic|Ethical)'
 envKeywords <-'(Water|Carbon|Climate|Enviro|Green|Energy|Renew|Tech|Fossil|Alternative|Clean|Fuel|Pollution|Prevention)'
 blackrockKeyword <- '(iShare|BlackRock|BLK|Blackrock)'
 sumF <- function(vec) {sum(as.numeric(gsub(",", "", as.character(vec))), na.rm=TRUE)}
-toP <- function(d) {paste(as.character(round(d*100,digits=1)),"%",sep="")}
+toP <- function(c,d) {paste(as.character(c), "(",as.character(round(d*100,digits=1)),"%)",sep="")}
 "^" <- function(x,y) ifelse(y==0,0,base:::"/"(x,y))
 provider <- c("MSCI","FTSE Russell","STOXX","SPDJ")
 esgIndexTotal <- c(82,5,35,67)
@@ -65,7 +65,7 @@ countTable <- data.frame(provider=provider, fundsCount=fundsCount, fundsPercent=
 countTable %>%
   ggplot(aes(x=provider, y=fundsCount, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=toP(fundsPercent))) +
+  geom_label(fill='white',aes(label=toP(fundsCount,fundsPercent)),fill='white') +
   fillTheme
 ```
 
@@ -74,7 +74,7 @@ countTable %>%
 countTable %>%
   ggplot(aes(x=provider, y=AUM, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=paste(as.character(round(AUM/1000000000, digits=2)),"B"))) +
+  geom_label(fill='white',aes(label=paste(as.character(round(AUM/1000000000, digits=2)),"B"))) +
   fillTheme
 ```
 
@@ -121,7 +121,7 @@ esgTable <- data.frame(provider=provider, fundsCount=fundsCount, fundsPercent=fu
 esgTable %>%
   ggplot(aes(x=provider, y=esgCount, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=toP(esgPercent))) +
+  geom_label(fill='white',aes(label=toP(esgCount, esgPercent))) +
   fillTheme
 ```
 
@@ -130,7 +130,7 @@ esgTable %>%
 esgTable %>%
   ggplot(aes(x=provider, y=esgAUM, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=paste(as.character(round(esgAUM/1000000000, digits=2)),"B"))) +
+  geom_label(fill='white',aes(label=paste(as.character(round(esgAUM/1000000000, digits=2)),"B"))) +
   fillTheme
 ```
 
@@ -170,7 +170,7 @@ percentage AUM of total: `r sum(esgTable$esgAUM)/sum(esgTable$AUM)`
 esgTable %>%
   ggplot(aes(x=provider, y=esgRatio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(esgRatio, digits=4))) +
+  geom_label(fill='white',aes(label=round(esgRatio, digits=4))) +
   fillTheme
 ```
 
@@ -179,7 +179,7 @@ esgTable %>%
 esgTable %>%
   ggplot(aes(x=provider, y=aumRatio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(aumRatio, digits=4))) +
+  geom_label(fill='white',aes(label=round(aumRatio, digits=4))) +
   fillTheme
 ```
 \newpage
@@ -206,7 +206,7 @@ envTable <- data.frame(provider=provider, fundsCount=fundsCount, fundsPercent=fu
 envTable %>%
   ggplot(aes(x=provider, y=envCount, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=toP(envPercent))) +
+  geom_label(fill='white',aes(label=toP(envCount, envPercent))) +
   fillTheme
 ```
 
@@ -215,7 +215,7 @@ envTable %>%
 envTable %>%
   ggplot(aes(x=provider, y=envAUM, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=paste(as.character(round(envAUM/1000000000, digits=2)),"B"))) +
+  geom_label(fill='white',aes(label=paste(as.character(round(envAUM/1000000000, digits=2)),"B"))) +
   fillTheme
 ```
 
@@ -255,7 +255,7 @@ percentage AUM of total: `r sum(envTable$envAUM)/sum(envTable$AUM)`
 envTable %>%
   ggplot(aes(x=provider, y=envRatio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(envRatio, digits=4))) +
+  geom_label(fill='white',aes(label=round(envRatio, digits=4))) +
   fillTheme
 ```
 
@@ -264,7 +264,7 @@ envTable %>%
 envTable %>%
   ggplot(aes(x=provider, y=aumRatio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(aumRatio, digits=4))) +
+  geom_label(fill='white',aes(label=round(aumRatio, digits=4))) +
   fillTheme
 ```
 \newpage
@@ -277,7 +277,7 @@ envTable %>%
 data.frame(esg=esgIndexTotal, env=envIndexTotal, ratio=esgIndexTotal/envIndexTotal) %>%
   ggplot(aes(x=provider, y=ratio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(ratio, digits=4))) +
+  geom_label(fill='white',aes(label=round(ratio, digits=4))) +
   fillTheme
 ```
 
@@ -287,7 +287,7 @@ esgTable %>%
   mutate(ratio=esgCount^envCount) %>%
   ggplot(aes(x=provider, y=ratio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(ratio, digits=4))) +
+  geom_label(fill='white',aes(label=round(ratio, digits=4))) +
   fillTheme
 ```
 
@@ -297,7 +297,7 @@ esgTable %>%
   mutate(ratio=(esgCount/esgIndexTotal)^(envCount/envIndexTotal)) %>%
   ggplot(aes(x=provider, y=ratio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(ratio, digits=4))) +
+  geom_label(fill='white',aes(label=round(ratio, digits=4))) +
   fillTheme
 ```
 \newpage
@@ -446,7 +446,7 @@ plotInstitutionChoice <- function(keyword, universe) {
   data.frame(provider=provider, fundsCount=fundsCount, fundsPercent=fundsPercent) %>%
     ggplot(aes(x=provider, y=fundsCount, fill=provider)) + 
     geom_bar(stat="identity") +
-    geom_text(aes(label=toP(fundsPercent))) +
+    geom_label(fill='white',aes(label=toP(fundsCount, fundsPercent))) +
     fillTheme
 }
 
@@ -523,7 +523,7 @@ plotUniverseByBrandName <- function(universe, floor=5) {
     filter(count >= floor) %>%
     ggplot(aes(x=Branding.Name, y=count, fill=Branding.Name)) +
     geom_bar(stat="identity") +
-    geom_text(aes(label=count)) +
+    geom_label(fill='white',aes(label=count)) +
     theme(axis.text.x = element_text(angle = 45, hjust = 1))
 }
 ```
