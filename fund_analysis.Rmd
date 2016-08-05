@@ -74,7 +74,7 @@ countTable %>%
 countTable %>%
   ggplot(aes(x=provider, y=AUM, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_label(fill='white',aes(label=paste(as.character(round(AUM/1000000000, digits=2)),"B"))) +
+  geom_label(fill='white',aes(label=toP(paste(as.character(round(AUM/1000000000, digits=2)),"B", sep=""), AUM/sum(AUM)))) +
   fillTheme
 ```
 
@@ -130,7 +130,7 @@ esgTable %>%
 esgTable %>%
   ggplot(aes(x=provider, y=esgAUM, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_label(fill='white',aes(label=paste(as.character(round(esgAUM/1000000000, digits=2)),"B"))) +
+  geom_label(fill='white',aes(label=toP(paste(as.character(round(esgAUM/1000000000, digits=2)),"B", sep=""), esgAUM/sum(esgAUM)))) +
   fillTheme
 ```
 
@@ -215,7 +215,7 @@ envTable %>%
 envTable %>%
   ggplot(aes(x=provider, y=envAUM, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_label(fill='white',aes(label=paste(as.character(round(envAUM/1000000000, digits=2)),"B"))) +
+  geom_label(fill='white',aes(label=toP(paste(as.character(round(envAUM/1000000000, digits=2)),"B", sep=""), envAUM/sum(envAUM)))) +
   fillTheme
 ```
 
