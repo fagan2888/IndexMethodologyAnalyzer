@@ -34,7 +34,7 @@ toP <- function(d) {paste(as.character(round(d*100,digits=1)),"%",sep="")}
 provider <- c("MSCI","FTSE Russell","STOXX","SPDJ")
 esgIndexTotal <- c(82,5,35,67)
 envIndexTotal <- c(7,34,5,11)
-myPalette <- c("#002960","#0079C1","#009941","#722287")
+myPalette <- c("#722287","#0079C1","#009941","#002960")
 fillTheme <- scale_fill_manual(values=myPalette)
 colorTheme <- scale_color_manual(values=myPalette)
 ```
