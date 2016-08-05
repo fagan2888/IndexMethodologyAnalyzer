@@ -29,16 +29,21 @@ esgKeywords <- '(Sustain|ESG|esg|SRI|sri|Social|Governance|Catholic|Ethical)'
 envKeywords <-'(Water|Carbon|Climate|Enviro|Green|Energy|Renew|Tech|Fossil|Alternative|Clean|Fuel|Pollution|Prevention)'
 blackrockKeyword <- '(iShare|BlackRock|BLK|Blackrock)'
 sumF <- function(vec) {sum(as.numeric(gsub(",", "", as.character(vec))), na.rm=TRUE)}
+toP <- function(d) {paste(as.character(round(d*100,digits=1)),"%",sep="")}
 "^" <- function(x,y) ifelse(y==0,0,base:::"/"(x,y))
 provider <- c("MSCI","FTSE Russell","STOXX","SPDJ")
-esgIndexTotal <- c(5,35,82,67)
-envIndexTotal <- c(20,20,20,20)
+esgIndexTotal <- c(82,5,35,67)
+envIndexTotal <- c(7,34,5,11)
+myPalette <- c("#002960","#0079C1","#009941","#722287")
+fillTheme <- scale_fill_manual(values=myPalette)
+colorTheme <- scale_color_manual(values=myPalette)
 ```
 
 ```{r warning=F, echo=F}
 rawTable <- read.csv(filePath, header=TRUE, sep=",")
 universe <- rawTable[!duplicated(rawTable[c('Name')]),] %>%
   filter(Name!="") %>%
+  filter(!is.na(Oldest.Share.Class)) %>%
   filter(!grepl(sysKeyword, Name))
 MSCI <- universe %>% filter(grepl(msciKeyword,Primary.Prospectus.Benchmark))
 FTSE <- universe %>% filter(grepl(ftseKeyword,Primary.Prospectus.Benchmark))
@@ -60,7 +65,8 @@ countTable <- data.frame(provider=provider, fundsCount=fundsCount, fundsPercent=
 countTable %>%
   ggplot(aes(x=provider, y=fundsCount, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=fundsCount))
+  geom_text(aes(label=toP(fundsPercent))) +
+  fillTheme
 ```
 
 ## AUM bar chart
@@ -68,7 +74,8 @@ countTable %>%
 countTable %>%
   ggplot(aes(x=provider, y=AUM, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=paste(as.character(round(AUM/1000000000, digits=2)),"B")))
+  geom_text(aes(label=paste(as.character(round(AUM/1000000000, digits=2)),"B"))) +
+  fillTheme
 ```
 
 ## Count pie chart
@@ -77,7 +84,8 @@ countTable %>%
   ggplot(aes(x=factor(1), y=fundsPercent, fill=provider)) + 
   geom_bar(width=1, stat="identity") + 
   coord_polar(theta="y") + 
-  theme(axis.text=element_blank(), axis.title=element_blank(), panel.background=element_blank())
+  theme(axis.text=element_blank(), axis.title=element_blank(), panel.background=element_blank()) +
+  fillTheme
 ```
 
 ## AUM pie chart
@@ -86,7 +94,8 @@ countTable %>%
   ggplot(aes(x=factor(1), y=AUM/sum(AUM), fill=provider)) + 
   geom_bar(width=1, stat="identity") + 
   coord_polar(theta="y") + 
-  theme(axis.text=element_blank(), axis.title=element_blank(), panel.background=element_blank())
+  theme(axis.text=element_blank(), axis.title=element_blank(), panel.background=element_blank()) +
+  fillTheme
 ```
 \newpage
 
@@ -112,7 +121,8 @@ esgTable <- data.frame(provider=provider, fundsCount=fundsCount, fundsPercent=fu
 esgTable %>%
   ggplot(aes(x=provider, y=esgCount, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=esgCount))
+  geom_text(aes(label=toP(esgPercent))) +
+  fillTheme
 ```
 
 ## AUM bar comparison
@@ -120,7 +130,8 @@ esgTable %>%
 esgTable %>%
   ggplot(aes(x=provider, y=esgAUM, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=paste(as.character(round(esgAUM/1000000000, digits=2)),"B")))
+  geom_text(aes(label=paste(as.character(round(esgAUM/1000000000, digits=2)),"B"))) +
+  fillTheme
 ```
 
 ## Count pie chart
@@ -129,7 +140,8 @@ esgTable %>%
   ggplot(aes(x=factor(1), y=esgPercent, fill=provider)) + 
   geom_bar(width=1, stat="identity") + 
   coord_polar(theta="y") + 
-  theme(axis.text=element_blank(), axis.title=element_blank(), panel.background=element_blank())
+  theme(axis.text=element_blank(), axis.title=element_blank(), panel.background=element_blank()) +
+  fillTheme
 ```
 
 ## AUM pie chart
@@ -138,7 +150,8 @@ esgTable %>%
   ggplot(aes(x=factor(1), y=esgAUM/sum(esgAUM), fill=provider)) + 
   geom_bar(width=1, stat="identity") + 
   coord_polar(theta="y") + 
-  theme(axis.text=element_blank(), axis.title=element_blank(), panel.background=element_blank())
+  theme(axis.text=element_blank(), axis.title=element_blank(), panel.background=element_blank()) +
+  fillTheme
 ```
 \newpage
 
@@ -157,7 +170,8 @@ percentage AUM of total: `r sum(esgTable$esgAUM)/sum(esgTable$AUM)`
 esgTable %>%
   ggplot(aes(x=provider, y=esgRatio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(esgRatio, digits=4)))
+  geom_text(aes(label=round(esgRatio, digits=4))) +
+  fillTheme
 ```
 
 ## AUM ratio for each provider
@@ -165,7 +179,8 @@ esgTable %>%
 esgTable %>%
   ggplot(aes(x=provider, y=aumRatio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(aumRatio, digits=4)))
+  geom_text(aes(label=round(aumRatio, digits=4))) +
+  fillTheme
 ```
 \newpage
 
@@ -191,7 +206,8 @@ envTable <- data.frame(provider=provider, fundsCount=fundsCount, fundsPercent=fu
 envTable %>%
   ggplot(aes(x=provider, y=envCount, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=envCount))
+  geom_text(aes(label=toP(envPercent))) +
+  fillTheme
 ```
 
 ## AUM bar chart
@@ -199,7 +215,8 @@ envTable %>%
 envTable %>%
   ggplot(aes(x=provider, y=envAUM, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=paste(as.character(round(envAUM/1000000000, digits=2)),"B")))
+  geom_text(aes(label=paste(as.character(round(envAUM/1000000000, digits=2)),"B"))) +
+  fillTheme
 ```
 
 ## Count pie chart
@@ -208,7 +225,8 @@ envTable %>%
   ggplot(aes(x=factor(1), y=envPercent, fill=provider)) + 
   geom_bar(width=1, stat="identity") + 
   coord_polar(theta="y") + 
-  theme(axis.text=element_blank(), axis.title=element_blank(), panel.background=element_blank())
+  theme(axis.text=element_blank(), axis.title=element_blank(), panel.background=element_blank()) +
+  fillTheme
 ```
 
 ## AUM pie chart
@@ -217,7 +235,8 @@ envTable %>%
   ggplot(aes(x=factor(1), y=envAUM/sum(envAUM), fill=provider)) + 
   geom_bar(width=1, stat="identity") + 
   coord_polar(theta="y") + 
-  theme(axis.text=element_blank(), axis.title=element_blank(), panel.background=element_blank())
+  theme(axis.text=element_blank(), axis.title=element_blank(), panel.background=element_blank()) +
+  fillTheme
 ```
 \newpage
 
@@ -236,7 +255,8 @@ percentage AUM of total: `r sum(envTable$envAUM)/sum(envTable$AUM)`
 envTable %>%
   ggplot(aes(x=provider, y=envRatio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(envRatio, digits=4)))
+  geom_text(aes(label=round(envRatio, digits=4))) +
+  fillTheme
 ```
 
 ## AUM ratio for each provider
@@ -244,7 +264,8 @@ envTable %>%
 envTable %>%
   ggplot(aes(x=provider, y=aumRatio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(aumRatio, digits=4)))
+  geom_text(aes(label=round(aumRatio, digits=4))) +
+  fillTheme
 ```
 \newpage
 
@@ -256,7 +277,18 @@ envTable %>%
 data.frame(esg=esgIndexTotal, env=envIndexTotal, ratio=esgIndexTotal/envIndexTotal) %>%
   ggplot(aes(x=provider, y=ratio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(ratio, digits=4)))
+  geom_text(aes(label=round(ratio, digits=4))) +
+  fillTheme
+```
+
+## Count of ESG index in use VS Count of Environment index in use
+```{r warning=F, echo=F}
+esgTable %>%
+  mutate(ratio=esgCount^envCount) %>%
+  ggplot(aes(x=provider, y=ratio, fill=provider)) + 
+  geom_bar(stat="identity") +
+  geom_text(aes(label=round(ratio, digits=4))) +
+  fillTheme
 ```
 
 ## Percentage of ESG index in use VS Percentage of Environment index in use
@@ -265,7 +297,8 @@ esgTable %>%
   mutate(ratio=(esgCount/esgIndexTotal)^(envCount/envIndexTotal)) %>%
   ggplot(aes(x=provider, y=ratio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_text(aes(label=round(ratio, digits=4)))
+  geom_text(aes(label=round(ratio, digits=4))) +
+  fillTheme
 ```
 \newpage
 
@@ -301,7 +334,8 @@ plotTimeSeriesForUniverse <- function(universe, keyword="",  yearLimit=1930) {
   getYearCountForUniverse(universe, keyword, yearLimit) %>%
     ggplot(aes(x=year, y=count)) + 
     geom_line() + 
-    scale_x_continuous(breaks=seq(yearLimit, 2016, 5))
+    scale_x_continuous(breaks=seq(yearLimit, 2016, 5)) +
+    colorTheme
 }
 
 plotTimeSeriesForAllScope <- function(universe, esgU, envU, keyword="",  yearLimit=1930) {
@@ -319,7 +353,8 @@ plotTimeSeriesForAllScope <- function(universe, esgU, envU, keyword="",  yearLim
   fullYearsNarrow %>%
     filter(year >= yearLimit) %>%
     ggplot(aes(x=year, y=count, group=type, col=type)) + 
-    geom_line()
+    geom_line() +
+    colorTheme
 }
 
 plotTimeSeriesForEsgEnv <- function(esgU, envU, keyword="",  yearLimit=1930) {
@@ -335,7 +370,8 @@ plotTimeSeriesForEsgEnv <- function(esgU, envU, keyword="",  yearLimit=1930) {
   fullYearsNarrow %>%
     filter(year >= yearLimit) %>%
     ggplot(aes(x=year, y=count, group=type, col=type)) + 
-    geom_line()
+    geom_line() +
+    colorTheme
 }
 
 plotTimeSeriesForProviders <- function(MSCI, FTSE, SPDJ, STOXX, keyword="",  yearLimit=1930) {
@@ -357,7 +393,8 @@ plotTimeSeriesForProviders <- function(MSCI, FTSE, SPDJ, STOXX, keyword="",  yea
   fullYearsNarrow %>%
     filter(year >= yearLimit) %>%
     ggplot(aes(x=year, y=count, group=type, col=type)) + 
-    geom_line()
+    geom_line() +
+    colorTheme
 }
 ```
 
@@ -409,7 +446,8 @@ plotInstitutionChoice <- function(keyword, universe) {
   data.frame(provider=provider, fundsCount=fundsCount, fundsPercent=fundsPercent) %>%
     ggplot(aes(x=provider, y=fundsCount, fill=provider)) + 
     geom_bar(stat="identity") +
-    geom_text(aes(label=fundsCount))
+    geom_text(aes(label=toP(fundsPercent))) +
+    fillTheme
 }
 
 getInstitutionChoice <- function(keyword, universe) {
