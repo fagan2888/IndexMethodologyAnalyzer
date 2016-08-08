@@ -272,33 +272,33 @@ envTable %>%
 
 # ESG & Environment cross comparison
 
-## ESG index count VS Environment index count
+## ESG/Environment (# of Indexes) Ratio
 ```{r warning=F, echo=F}
 data.frame(esg=esgIndexTotal, env=envIndexTotal, ratio=esgIndexTotal/envIndexTotal) %>%
   ggplot(aes(x=provider, y=ratio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_label(fill='white',aes(label=round(ratio, digits=4))) +
-  fillTheme
+  geom_label(fill='white',aes(label=round(ratio, digits=1))) +
+  fillTheme + ylim(0, 12)
 ```
 
-## Count of ESG index in use VS Count of Environment index in use
+## ESG/Environment (# of Indexes In Use) Ratio
 ```{r warning=F, echo=F}
 esgTable %>%
   mutate(ratio=esgCount^envCount) %>%
   ggplot(aes(x=provider, y=ratio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_label(fill='white',aes(label=round(ratio, digits=4))) +
-  fillTheme
+  geom_label(fill='white',aes(label=round(ratio, digits=1))) +
+  fillTheme + ylim(0, 12)
 ```
 
-## Percentage of ESG index in use VS Percentage of Environment index in use
+## ESG/Environment (% of Indexes In Use) Ratio
 ```{r warning=F, echo=F}
 esgTable %>%
   mutate(ratio=(esgCount/esgIndexTotal)^(envCount/envIndexTotal)) %>%
   ggplot(aes(x=provider, y=ratio, fill=provider)) + 
   geom_bar(stat="identity") +
-  geom_label(fill='white',aes(label=round(ratio, digits=4))) +
-  fillTheme
+  geom_label(fill='white',aes(label=round(ratio, digits=1))) +
+  fillTheme + ylim(0, 12)
 ```
 \newpage
 
