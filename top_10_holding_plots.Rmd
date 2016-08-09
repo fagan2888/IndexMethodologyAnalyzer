@@ -1,6 +1,6 @@
 ---
 title: "Some Plots for MSCI Indexes Holdings"
-author: "Jack Ye"
+author: "Alpha-Environment Security"
 date: "July 5, 2016"
 output: pdf_document
 ---

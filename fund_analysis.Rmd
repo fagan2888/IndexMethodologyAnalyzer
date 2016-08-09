@@ -1,6 +1,6 @@
 ---
-title: "Funds analysis"
-author: "Jack Ye"
+title: "MorningStar ESG Funds analysis"
+author: "Alpha-Environment Security"
 date: "August 2, 2016"
 output: 
   pdf_document:
