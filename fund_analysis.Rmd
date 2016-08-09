@@ -465,31 +465,14 @@ getInstitutionChoice <- function(keyword, universe) {
 institutionChoice(blackrockKeyword, universe)
 ```
 
-* MSCI:
-
-```{r warning=F, echo=F}
-getInstitutionChoice(blackrockKeyword, universe)$MSCI %>%
-  select(Name)
-```
-
-* SPDJ:
-
-```{r warning=F, echo=F}
-getInstitutionChoice(blackrockKeyword, universe)$SPDJ %>%
-  select(Name)
-```
-
-* FTSE:
-
-```{r warning=F, echo=F}
-getInstitutionChoice(blackrockKeyword, universe)$FTSE %>%
-  select(Name)
-```
-
-* Plot:
-
 ```{r warning=F, echo=F}
 plotInstitutionChoice(blackrockKeyword, universe)
+```
+
+
+## exsample: BlackRock ESG
+```{r warning=F, echo=F}
+plotInstitutionChoice(blackrockKeyword, universeesg)
 ```
 
 
