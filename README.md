@@ -1,4 +1,4 @@
-# Index methodology analysis
+# Index Methodology Analyzer
 ## a data mining tool for index methodologies and factsheets
 
 * `downloadMethod.py`: download all MSCI index methodology files
