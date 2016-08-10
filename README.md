@@ -1,5 +1,5 @@
-# MSCI index methodology analysis
-## a data mining tool for MSCI methodologies and factsheets
+# Index methodology analysis
+## a data mining tool for index methodologies and factsheets
 
 * `downloadMethod.py`: download all MSCI index methodology files
 * `downloadFS.py`: download all MSCI index performance Factsheets
