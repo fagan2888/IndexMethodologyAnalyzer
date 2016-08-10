@@ -15,7 +15,7 @@ cli = [f for f in pdfs if re.search("climate", f.lower())]
 conn = sqlite3.connect('msci.db')
 c = conn.cursor()
 c.execute('''CREATE TABLE methodology
-				(index, filePath)''')
+				(INDEX, SHEET_PATH, LAST_UPDATE, AS_OF_DATE)''')
 
 #insert sql
 
