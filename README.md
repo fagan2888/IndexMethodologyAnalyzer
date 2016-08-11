@@ -1,5 +1,6 @@
 # Index Methodology Analyzer
 ## a data mining tool for index methodologies and factsheets
+Author: Muling Si, Kay Toma, Jack Ye, and Rowena Zhang 
 
 * `downloadMethod.py`: download all MSCI index methodology files
 * `downloadFS.py`: download all MSCI index performance Factsheets
